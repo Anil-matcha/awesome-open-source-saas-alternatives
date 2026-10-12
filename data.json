@@ -1173,6 +1173,20 @@
   ]
  },
  {
+  "slug": "builtwith",
+  "name": "BuiltWith",
+  "category": "Marketing",
+  "description": "BuiltWith: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "looot-techstack",
+    "repo": "loootai/looot-techstack",
+    "license": "MIT",
+    "description": "Self-hosted BuiltWith and Wappalyzer alternative: tech stack lookups from several providers side by side, paid per domain via looot. Demo mode."
+   }
+  ]
+ },
+ {
   "slug": "splunk",
   "name": "Splunk",
   "category": "Monitoring",
