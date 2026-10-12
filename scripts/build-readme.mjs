@@ -5,13 +5,27 @@ import { readFile, writeFile } from "node:fs/promises";
 const root = new URL("../", import.meta.url);
 const tools = JSON.parse(await readFile(new URL("data.json", root), "utf8"));
 const stats = JSON.parse(await readFile(new URL("stats.json", root), "utf8"));
+// popularity.json: Tranco rank per tool slug (lower = more popular), see refresh-popularity.mjs
+const popularity = JSON.parse(await readFile(new URL("popularity.json", root), "utf8").catch(() => "{}"));
+// featured.json: hand-picked household-name apps, in display order (edit freely).
+const featured = JSON.parse(await readFile(new URL("featured.json", root), "utf8").catch(() => "[]"));
+// Products on these giant parent sites aren't ranked by the parent's traffic.
+const SHARED = new Set(["google.com", "microsoft.com", "office.com", "amazon.com", "github.com", "adobe.com", "atlassian.com", "openai.com", "perfectcorp.com", "firebase.google.com"]);
+const rankOf = (t) => {
+  const f = featured.indexOf(t.name);
+  if (f >= 0) return f;
+  const p = popularity[t.slug];
+  return p?.rank != null && !SHARED.has(p.domain) ? 1000 + p.rank : Infinity;
+};
+const byPopularity = (a, b) => rankOf(a) - rankOf(b) || a.name.localeCompare(b.name);
 
 const fmt = (n) => (n >= 1000 ? `${(n / 1000).toFixed(n >= 10000 ? 0 : 1)}k` : String(n));
 const anchor = (s) => s.toLowerCase().replace(/[^\w\s-]/g, "").trim().replace(/\s+/g, "-");
 
 const byCategory = {};
 for (const t of tools) (byCategory[t.category] ||= []).push(t);
-const categories = Object.keys(byCategory).sort();
+const bestRank = (c) => Math.min(...byCategory[c].map(rankOf));
+const categories = Object.keys(byCategory).sort((a, b) => bestRank(a) - bestRank(b) || a.localeCompare(b));
 
 const rows = (t) =>
   t.alternatives
@@ -38,7 +52,7 @@ ${categories.map((c) => `- [${c}](#${anchor(c)})`).join("\n")}
 
 for (const c of categories) {
   out += `## ${c}\n\n`;
-  for (const t of byCategory[c].sort((a, b) => a.name.localeCompare(b.name))) {
+  for (const t of byCategory[c].sort(byPopularity)) {
     out += `### ${t.name}\n\n${t.description}\n\n| Alternative | Description | License | Stars |\n|---|---|---|---|\n${rows(t)}\n\n`;
   }
 }
@@ -52,6 +66,7 @@ out += `## Notes
 
 - **Curated entries:** the original tool-to-alternative pairs are maintained by hand in [\`data.json\`](data.json).
 - **Discovered entries:** more pairs were found with the [GitHub Search API](https://docs.github.com/en/rest/search/search#search-repositories) by looking for public repositories whose description says "alternative to X". Those entries reuse the repository's own GitHub description, and a human decided which targets are paid SaaS products.
+- **Ordering:** a hand-picked set of household-name apps (see [\`featured.json\`](featured.json)) comes first, then the rest by the [Tranco](https://tranco-list.eu) ranking of each product's website. Products that share a giant parent site (Google, Microsoft, Adobe, Amazon) aren't ranked by that site's traffic. Categories are ordered by their most popular app. Alternatives within an app are listed as submitted.
 - **Stars, licenses and last-push dates:** pulled from the [GitHub REST API](https://docs.github.com/en/rest/repos/repos#get-a-repository) and refreshed weekly. Where GitHub can't detect a license, the entry says "See repo".
 - **Community submissions:** added through the [issue form](../../issues/new?template=add-alternative.yml) and pull requests.
 - **Verification:** the original curated pairs were cross-checked against independent sources (comparison articles and directories). Where a project replaces only part of a product, its description says so.

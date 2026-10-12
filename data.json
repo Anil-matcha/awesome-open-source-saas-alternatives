@@ -382,6 +382,12 @@
   "description": "Raster image editing.",
   "alternatives": [
    {
+    "name": "PhotoCraft",
+    "repo": "storytold/photocraft",
+    "license": "Apache-2.0",
+    "description": "PhotoCraft: An open-source, photo editor written from scratch in Rust"
+   },
+   {
     "name": "Krita",
     "repo": "KDE/krita",
     "license": "GPL-3.0",
@@ -417,6 +423,12 @@
   "description": "Professional video editing.",
   "alternatives": [
    {
+    "name": "FilmCraft",
+    "repo": "storytold/filmcraft",
+    "license": "Apache-2.0",
+    "description": "FilmCraft: An open-source, nonlinear video editor written from scratch in Rust"
+   },
+   {
     "name": "Kdenlive",
     "repo": "KDE/kdenlive",
     "license": "GPL-3.0",
@@ -436,6 +448,18 @@
   "category": "Productivity",
   "description": "Documents, spreadsheets and presentations.",
   "alternatives": [
+   {
+    "name": "DeckCraft",
+    "repo": "storytold/deckcraft",
+    "license": "Apache-2.0",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+   },
+   {
+    "name": "GridCraft",
+    "repo": "storytold/gridcraft",
+    "license": "Apache-2.0",
+    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust."
+   },
    {
     "name": "LibreOffice",
     "repo": "LibreOffice/core",
@@ -1853,20 +1877,6 @@
   ]
  },
  {
-  "slug": "higgsfield",
-  "name": "Higgsfield",
-  "category": "AI",
-  "description": "Higgsfield: paid SaaS product.",
-  "alternatives": [
-   {
-    "name": "Open-Generative-AI",
-    "repo": "Anil-matcha/Open-Generative-AI",
-    "license": "MIT",
-    "description": "Unrestricted Open-source alternative to AI video platforms"
-   }
-  ]
- },
- {
   "slug": "openart",
   "name": "OpenArt",
   "category": "AI",
@@ -3021,6 +3031,76 @@
     "repo": "SamurAIGPT/ai-saas-starter",
     "license": "See repo",
     "description": "Production-ready Next.js AI SaaS boilerplate"
+   }
+  ]
+ },
+ {
+  "slug": "adobe-illustrator",
+  "name": "Adobe Illustrator",
+  "category": "Design",
+  "description": "Adobe Illustrator: paid Adobe Creative Cloud product.",
+  "alternatives": [
+   {
+    "name": "VectorCraft",
+    "repo": "storytold/vectorcraft",
+    "license": "Apache-2.0",
+    "description": "VectorCraft: An open-source, vector art tool written from scratch in Rust"
+   }
+  ]
+ },
+ {
+  "slug": "adobe-lightroom",
+  "name": "Adobe Lightroom",
+  "category": "Design",
+  "description": "Adobe Lightroom: paid Adobe Creative Cloud product.",
+  "alternatives": [
+   {
+    "name": "LightCraft",
+    "repo": "storytold/lightcraft",
+    "license": "Apache-2.0",
+    "description": "LightCraft: An open-source non-destructive photo editor written from scratch in Rust"
+   }
+  ]
+ },
+ {
+  "slug": "adobe-after-effects",
+  "name": "Adobe After Effects",
+  "category": "Video",
+  "description": "Adobe After Effects: paid Adobe Creative Cloud product.",
+  "alternatives": [
+   {
+    "name": "EffectCraft",
+    "repo": "storytold/effectcraft",
+    "license": "Apache-2.0",
+    "description": "EffectCraft: An open-source motion graphics and compositing tool written from scratch in Rust"
+   }
+  ]
+ },
+ {
+  "slug": "adobe-indesign",
+  "name": "Adobe InDesign",
+  "category": "Design",
+  "description": "Adobe InDesign: paid Adobe Creative Cloud product.",
+  "alternatives": [
+   {
+    "name": "DesignCraft",
+    "repo": "storytold/designcraft",
+    "license": "Apache-2.0",
+    "description": "DesignCraft: An open-source page and layout design editor written from scratch in Rust"
+   }
+  ]
+ },
+ {
+  "slug": "adobe-acrobat",
+  "name": "Adobe Acrobat",
+  "category": "Productivity",
+  "description": "Adobe Acrobat: paid Adobe Creative Cloud product.",
+  "alternatives": [
+   {
+    "name": "PdfCraft",
+    "repo": "storytold/pdfcraft",
+    "license": "Apache-2.0",
+    "description": "PdfCraft: An open-source PDF reader and editor written from scratch in Rust"
    }
   ]
  }
