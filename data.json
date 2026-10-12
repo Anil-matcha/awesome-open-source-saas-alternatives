@@ -797,6 +797,12 @@
   "description": "AI image generation.",
   "alternatives": [
    {
+    "name": "Open-Generative-AI",
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "license": "MIT",
+    "description": "Self-hostable AI image and video generation studio with 600+ models."
+   },
+   {
     "name": "ComfyUI",
     "repo": "comfyanonymous/ComfyUI",
     "license": "GPL-3.0",
@@ -1886,7 +1892,7 @@
     "name": "Open-Generative-AI",
     "repo": "Anil-matcha/Open-Generative-AI",
     "license": "MIT",
-    "description": "Unrestricted Open-source alternative to AI video platforms"
+    "description": "Self-hostable AI image and video generation studio with 600+ models."
    }
   ]
  },
@@ -1906,7 +1912,7 @@
     "name": "Open-Generative-AI",
     "repo": "Anil-matcha/Open-Generative-AI",
     "license": "MIT",
-    "description": "Unrestricted Open-source alternative to AI video platforms"
+    "description": "Self-hostable AI image and video generation studio with 600+ models."
    }
   ]
  },
@@ -2316,6 +2322,12 @@
   "category": "AI",
   "description": "Krea: paid SaaS product.",
   "alternatives": [
+   {
+    "name": "Open-Generative-AI",
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "license": "MIT",
+    "description": "Self-hostable AI image and video generation studio with 600+ models."
+   },
    {
     "name": "Vibe-Workflow",
     "repo": "SamurAIGPT/Vibe-Workflow",
