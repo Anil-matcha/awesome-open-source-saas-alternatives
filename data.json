@@ -1933,6 +1933,12 @@
     "repo": "Anil-matcha/Free-AI-Social-Media-Scheduler",
     "license": "MIT",
     "description": "Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation."
+   },
+   {
+    "name": "Unsora",
+    "repo": "Shipped-Studio/unsora",
+    "license": "AGPL-3.0",
+    "description": "AI media generation and social post scheduling app with a REST API and MCP server for AI agents."
    }
   ]
  },

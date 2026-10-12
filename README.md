@@ -635,6 +635,7 @@ Buffer: paid SaaS product.
 |---|---|---|---|
 | [social-post](https://github.com/SamurAIGPT/social-post) | Open-source AI social media post generator | See repo | ★ 44 |
 | [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) | Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation. | MIT | ★ 5 |
+| [Unsora](https://github.com/Shipped-Studio/unsora) | AI media generation and social post scheduling app with a REST API and MCP server for AI agents. | AGPL-3.0 |  |
 
 ### SendGrid
 
