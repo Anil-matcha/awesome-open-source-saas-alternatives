@@ -1,0 +1,3027 @@
+[
+ {
+  "slug": "notion",
+  "name": "Notion",
+  "category": "Productivity",
+  "description": "All-in-one workspace for notes, docs and wikis.",
+  "alternatives": [
+   {
+    "name": "AppFlowy",
+    "repo": "AppFlowy-IO/AppFlowy",
+    "license": "AGPL-3.0",
+    "description": "Privacy-first Notion alternative built with Flutter and Rust."
+   },
+   {
+    "name": "AFFiNE",
+    "repo": "toeverything/AFFiNE",
+    "license": "MIT",
+    "description": "Docs, whiteboards and databases in one local-first workspace."
+   },
+   {
+    "name": "SiYuan",
+    "repo": "siyuan-note/siyuan",
+    "license": "AGPL-3.0",
+    "description": "Local-first personal knowledge management system."
+   },
+   {
+    "name": "Logseq",
+    "repo": "logseq/logseq",
+    "license": "AGPL-3.0",
+    "description": "Privacy-first outliner for notes and knowledge. No native databases."
+   },
+   {
+    "name": "Huly",
+    "repo": "hcengineering/platform",
+    "license": "EPL-2.0",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
+   },
+   {
+    "name": "focalboard",
+    "repo": "mattermost-community/focalboard",
+    "license": "NOASSERTION",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana."
+   },
+   {
+    "name": "docmost",
+    "repo": "docmost/docmost",
+    "license": "AGPL-3.0",
+    "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion."
+   }
+  ]
+ },
+ {
+  "slug": "slack",
+  "name": "Slack",
+  "category": "Communication",
+  "description": "Team chat and collaboration.",
+  "alternatives": [
+   {
+    "name": "Mattermost",
+    "repo": "mattermost/mattermost",
+    "license": "MIT / AGPL-3.0",
+    "description": "Self-hosted secure team collaboration platform."
+   },
+   {
+    "name": "Rocket.Chat",
+    "repo": "RocketChat/Rocket.Chat",
+    "license": "MIT",
+    "description": "Open source team chat with omnichannel support."
+   },
+   {
+    "name": "Zulip",
+    "repo": "zulip/zulip",
+    "license": "Apache-2.0",
+    "description": "Threaded team chat that keeps conversations organized."
+   },
+   {
+    "name": "Huly",
+    "repo": "hcengineering/platform",
+    "license": "EPL-2.0",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
+   },
+   {
+    "name": "Quiet",
+    "repo": "TryQuiet/quiet",
+    "license": "GPL-3.0",
+    "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS"
+   }
+  ]
+ },
+ {
+  "slug": "zoom",
+  "name": "Zoom",
+  "category": "Communication",
+  "description": "Video conferencing.",
+  "alternatives": [
+   {
+    "name": "Jitsi Meet",
+    "repo": "jitsi/jitsi-meet",
+    "license": "Apache-2.0",
+    "description": "Secure, scalable video conferencing you can self-host."
+   },
+   {
+    "name": "mirotalksfu",
+    "repo": "miroslavpejic85/mirotalksfu",
+    "license": "AGPL-3.0",
+    "description": "🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, Google Meet, Jitsi M"
+   }
+  ]
+ },
+ {
+  "slug": "google-analytics",
+  "name": "Google Analytics",
+  "category": "Analytics",
+  "description": "Website and product analytics.",
+  "alternatives": [
+   {
+    "name": "Plausible",
+    "repo": "plausible/analytics",
+    "license": "AGPL-3.0",
+    "description": "Lightweight, privacy-friendly web analytics."
+   },
+   {
+    "name": "Umami",
+    "repo": "umami-software/umami",
+    "license": "MIT",
+    "description": "Simple, fast, privacy-focused analytics."
+   },
+   {
+    "name": "PostHog",
+    "repo": "PostHog/posthog",
+    "license": "MIT",
+    "description": "Product analytics suite with session replay. Web analytics is one part."
+   },
+   {
+    "name": "matomo",
+    "repo": "matomo-org/matomo",
+    "license": "GPL-3.0",
+    "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving y"
+   },
+   {
+    "name": "rybbit",
+    "repo": "rybbit-io/rybbit",
+    "license": "AGPL-3.0",
+    "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive."
+   },
+   {
+    "name": "vince",
+    "repo": "vinceanalytics/vince",
+    "license": "AGPL-3.0",
+    "description": "Self Hosted Alternative To Google Analytics"
+   },
+   {
+    "name": "litlyx",
+    "repo": "Litlyx/litlyx",
+    "license": "Apache-2.0",
+    "description": "Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative t"
+   },
+   {
+    "name": "xyne",
+    "repo": "xynehq/xyne",
+    "license": "Apache-2.0",
+    "description": "AI-first Search & Answer Engine for work. Open-source alternative to Glean."
+   }
+  ]
+ },
+ {
+  "slug": "firebase",
+  "name": "Firebase",
+  "category": "Developer Tools",
+  "description": "Backend-as-a-service for apps.",
+  "alternatives": [
+   {
+    "name": "Supabase",
+    "repo": "supabase/supabase",
+    "license": "Apache-2.0",
+    "description": "Postgres database, auth, storage and realtime."
+   },
+   {
+    "name": "Appwrite",
+    "repo": "appwrite/appwrite",
+    "license": "BSD-3-Clause",
+    "description": "Backend platform for web, mobile and Flutter apps."
+   },
+   {
+    "name": "PocketBase",
+    "repo": "pocketbase/pocketbase",
+    "license": "MIT",
+    "description": "Single-file backend with realtime database and auth."
+   },
+   {
+    "name": "supertokens-core",
+    "repo": "supertokens/supertokens-core",
+    "license": "NOASSERTION",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito "
+   },
+   {
+    "name": "measure",
+    "repo": "measure-sh/measure",
+    "license": "Apache-2.0",
+    "description": "Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics."
+   }
+  ]
+ },
+ {
+  "slug": "vercel",
+  "name": "Vercel",
+  "category": "Developer Tools",
+  "description": "Frontend hosting and deployment platform.",
+  "alternatives": [
+   {
+    "name": "Coolify",
+    "repo": "coollabsio/coolify",
+    "license": "Apache-2.0",
+    "description": "Self-hostable alternative to Vercel, Heroku and Netlify."
+   },
+   {
+    "name": "Dokku",
+    "repo": "dokku/dokku",
+    "license": "MIT",
+    "description": "Self-hosted Heroku-style PaaS. Lacks preview deploys and edge features."
+   },
+   {
+    "name": "CapRover",
+    "repo": "caprover/caprover",
+    "license": "Apache-2.0",
+    "description": "Self-hosted PaaS on Docker and nginx. Covers hosting and deploys only."
+   },
+   {
+    "name": "dokploy",
+    "repo": "Dokploy/dokploy",
+    "license": "NOASSERTION",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+   },
+   {
+    "name": "kubero",
+    "repo": "kubero-dev/kubero",
+    "license": "GPL-3.0",
+    "description": "A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes"
+   },
+   {
+    "name": "temps",
+    "repo": "gotempsh/temps",
+    "license": "Apache-2.0",
+    "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   }
+  ]
+ },
+ {
+  "slug": "auth0",
+  "name": "Auth0",
+  "category": "Developer Tools",
+  "description": "Identity and authentication platform.",
+  "alternatives": [
+   {
+    "name": "Keycloak",
+    "repo": "keycloak/keycloak",
+    "license": "Apache-2.0",
+    "description": "Identity and access management for apps and services."
+   },
+   {
+    "name": "Ory Kratos",
+    "repo": "ory/kratos",
+    "license": "Apache-2.0",
+    "description": "API-first identity and user management."
+   },
+   {
+    "name": "SuperTokens",
+    "repo": "supertokens/supertokens-core",
+    "license": "Apache-2.0",
+    "description": "Open source authentication with your own database."
+   },
+   {
+    "name": "hanko",
+    "repo": "teamhanko/hanko",
+    "license": "NOASSERTION",
+    "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   }
+  ]
+ },
+ {
+  "slug": "airtable",
+  "name": "Airtable",
+  "category": "Productivity",
+  "description": "Spreadsheet-database hybrid.",
+  "alternatives": [
+   {
+    "name": "NocoDB",
+    "repo": "nocodb/nocodb",
+    "license": "AGPL-3.0",
+    "description": "Turns any database into a smart spreadsheet."
+   },
+   {
+    "name": "Baserow",
+    "repo": "bram2w/baserow",
+    "license": "MIT",
+    "description": "No-code database and application builder."
+   }
+  ]
+ },
+ {
+  "slug": "zapier",
+  "name": "Zapier",
+  "category": "Automation",
+  "description": "No-code workflow automation.",
+  "alternatives": [
+   {
+    "name": "Activepieces",
+    "repo": "activepieces/activepieces",
+    "license": "MIT",
+    "description": "No-code business automation with an extensible piece system."
+   },
+   {
+    "name": "Huginn",
+    "repo": "huginn/huginn",
+    "license": "MIT",
+    "description": "Build agents that monitor and act on your behalf."
+   },
+   {
+    "name": "n8n",
+    "repo": "n8n-io/n8n",
+    "license": "Sustainable Use (fair-code)",
+    "description": "Workflow automation with a visual editor. Fair-code, not OSI open source."
+   },
+   {
+    "name": "bytechef",
+    "repo": "bytechefhq/bytechef",
+    "license": "NOASSERTION",
+    "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier."
+   }
+  ]
+ },
+ {
+  "slug": "dropbox",
+  "name": "Dropbox",
+  "category": "Storage",
+  "description": "Cloud file storage and sync.",
+  "alternatives": [
+   {
+    "name": "Nextcloud",
+    "repo": "nextcloud/server",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted file sync, sharing and collaboration platform."
+   },
+   {
+    "name": "Syncthing",
+    "repo": "syncthing/syncthing",
+    "license": "MPL-2.0",
+    "description": "Peer-to-peer file sync. No cloud storage or share links."
+   }
+  ]
+ },
+ {
+  "slug": "1password",
+  "name": "1Password",
+  "category": "Security",
+  "description": "Password manager.",
+  "alternatives": [
+   {
+    "name": "Bitwarden",
+    "repo": "bitwarden/server",
+    "license": "AGPL-3.0 / Bitwarden License",
+    "description": "Open source password manager for individuals and teams."
+   },
+   {
+    "name": "Vaultwarden",
+    "repo": "dani-garcia/vaultwarden",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted Bitwarden-compatible server."
+   },
+   {
+    "name": "KeePassXC",
+    "repo": "keepassxreboot/keepassxc",
+    "license": "GPL-2.0 / GPL-3.0",
+    "description": "Cross-platform offline password manager."
+   }
+  ]
+ },
+ {
+  "slug": "photoshop",
+  "name": "Adobe Photoshop",
+  "category": "Design",
+  "description": "Raster image editing.",
+  "alternatives": [
+   {
+    "name": "Krita",
+    "repo": "KDE/krita",
+    "license": "GPL-3.0",
+    "description": "Digital painting and illustration. For photo editing, see GIMP."
+   },
+   {
+    "name": "GIMP",
+    "repo": null,
+    "url": "https://www.gimp.org",
+    "license": "GPL-3.0",
+    "description": "Long-standing free image editor."
+   }
+  ]
+ },
+ {
+  "slug": "figma",
+  "name": "Figma",
+  "category": "Design",
+  "description": "Collaborative interface design.",
+  "alternatives": [
+   {
+    "name": "Penpot",
+    "repo": "penpot/penpot",
+    "license": "MPL-2.0",
+    "description": "Design and prototyping platform for design and code teams."
+   }
+  ]
+ },
+ {
+  "slug": "premiere-pro",
+  "name": "Adobe Premiere Pro",
+  "category": "Video",
+  "description": "Professional video editing.",
+  "alternatives": [
+   {
+    "name": "Kdenlive",
+    "repo": "KDE/kdenlive",
+    "license": "GPL-3.0",
+    "description": "Multi-track non-linear video editor."
+   },
+   {
+    "name": "OpenShot",
+    "repo": "OpenShot/openshot-qt",
+    "license": "GPL-3.0",
+    "description": "Easy-to-use cross-platform video editor."
+   }
+  ]
+ },
+ {
+  "slug": "microsoft-office",
+  "name": "Microsoft Office",
+  "category": "Productivity",
+  "description": "Documents, spreadsheets and presentations.",
+  "alternatives": [
+   {
+    "name": "LibreOffice",
+    "repo": "LibreOffice/core",
+    "license": "MPL-2.0",
+    "description": "Full office suite with Writer, Calc and Impress."
+   },
+   {
+    "name": "ONLYOFFICE",
+    "repo": "ONLYOFFICE/DocumentServer",
+    "license": "AGPL-3.0",
+    "description": "Online editors compatible with Office formats."
+   }
+  ]
+ },
+ {
+  "slug": "jira",
+  "name": "Jira",
+  "category": "Project Management",
+  "description": "Issue and project tracking.",
+  "alternatives": [
+   {
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "license": "AGPL-3.0",
+    "description": "Issues, cycles and modules for modern teams."
+   },
+   {
+    "name": "Huly",
+    "repo": "hcengineering/platform",
+    "license": "EPL-2.0",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
+   },
+   {
+    "name": "Paca",
+    "repo": "Paca-AI/paca",
+    "license": "Apache-2.0",
+    "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same"
+   }
+  ]
+ },
+ {
+  "slug": "trello",
+  "name": "Trello",
+  "category": "Project Management",
+  "description": "Kanban boards.",
+  "alternatives": [
+   {
+    "name": "WeKan",
+    "repo": "wekan/wekan",
+    "license": "MIT",
+    "description": "Open source kanban board."
+   },
+   {
+    "name": "focalboard",
+    "repo": "mattermost-community/focalboard",
+    "license": "NOASSERTION",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana."
+   },
+   {
+    "name": "Paca",
+    "repo": "Paca-AI/paca",
+    "license": "Apache-2.0",
+    "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same"
+   }
+  ]
+ },
+ {
+  "slug": "salesforce",
+  "name": "Salesforce",
+  "category": "CRM",
+  "description": "Customer relationship management.",
+  "alternatives": [
+   {
+    "name": "Twenty",
+    "repo": "twentyhq/twenty",
+    "license": "AGPL-3.0",
+    "description": "Modern open source CRM."
+   }
+  ]
+ },
+ {
+  "slug": "intercom",
+  "name": "Intercom",
+  "category": "Customer Support",
+  "description": "Customer messaging and support.",
+  "alternatives": [
+   {
+    "name": "Chatwoot",
+    "repo": "chatwoot/chatwoot",
+    "license": "MIT",
+    "description": "Omnichannel customer support platform."
+   },
+   {
+    "name": "DeskcommCRM",
+    "repo": "melgarafael/DeskcommCRM",
+    "license": "MIT",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by"
+   },
+   {
+    "name": "chaskiq",
+    "repo": "chaskiq/chaskiq",
+    "license": "NOASSERTION",
+    "description": "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp."
+   },
+   {
+    "name": "libredesk",
+    "repo": "abhinavxd/libredesk",
+    "license": "AGPL-3.0",
+    "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   }
+  ]
+ },
+ {
+  "slug": "zendesk",
+  "name": "Zendesk",
+  "category": "Customer Support",
+  "description": "Helpdesk and ticketing.",
+  "alternatives": [
+   {
+    "name": "Zammad",
+    "repo": "zammad/zammad",
+    "license": "AGPL-3.0",
+    "description": "Web-based helpdesk and customer support system."
+   },
+   {
+    "name": "chatwoot",
+    "repo": "chatwoot/chatwoot",
+    "license": "NOASSERTION",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+   },
+   {
+    "name": "libredesk",
+    "repo": "abhinavxd/libredesk",
+    "license": "AGPL-3.0",
+    "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   }
+  ]
+ },
+ {
+  "slug": "calendly",
+  "name": "Calendly",
+  "category": "Productivity",
+  "description": "Scheduling and booking.",
+  "alternatives": [
+   {
+    "name": "Cal.com",
+    "repo": "calcom/cal.com",
+    "license": "AGPL-3.0",
+    "description": "Scheduling infrastructure for everyone."
+   }
+  ]
+ },
+ {
+  "slug": "typeform",
+  "name": "Typeform",
+  "category": "Forms",
+  "description": "Forms and surveys.",
+  "alternatives": [
+   {
+    "name": "Formbricks",
+    "repo": "formbricks/formbricks",
+    "license": "AGPL-3.0",
+    "description": "Open source survey and experience management."
+   },
+   {
+    "name": "LimeSurvey",
+    "repo": "LimeSurvey/LimeSurvey",
+    "license": "NOASSERTION",
+    "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o"
+   }
+  ]
+ },
+ {
+  "slug": "mailchimp",
+  "name": "Mailchimp",
+  "category": "Marketing",
+  "description": "Email marketing.",
+  "alternatives": [
+   {
+    "name": "Listmonk",
+    "repo": "knadh/listmonk",
+    "license": "AGPL-3.0",
+    "description": "Newsletter and mailing list manager. No automation workflows."
+   },
+   {
+    "name": "forwardemail.net",
+    "repo": "forwardemail/forwardemail.net",
+    "license": "NOASSERTION",
+    "description": "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+   }
+  ]
+ },
+ {
+  "slug": "shopify",
+  "name": "Shopify",
+  "category": "E-commerce",
+  "description": "Online store platform.",
+  "alternatives": [
+   {
+    "name": "Medusa",
+    "repo": "medusajs/medusa",
+    "license": "MIT",
+    "description": "Composable commerce engine."
+   },
+   {
+    "name": "Saleor",
+    "repo": "saleor/saleor",
+    "license": "BSD-3-Clause",
+    "description": "Headless commerce backend. No storefront out of the box."
+   }
+  ]
+ },
+ {
+  "slug": "stripe-billing",
+  "name": "Stripe Billing",
+  "category": "Finance",
+  "description": "Subscription billing.",
+  "alternatives": [
+   {
+    "name": "Lago",
+    "repo": "getlago/lago",
+    "license": "AGPL-3.0",
+    "description": "Open source metering and usage-based billing."
+   }
+  ]
+ },
+ {
+  "slug": "datadog",
+  "name": "Datadog",
+  "category": "Monitoring",
+  "description": "Infrastructure and application monitoring.",
+  "alternatives": [
+   {
+    "name": "Grafana",
+    "repo": "grafana/grafana",
+    "license": "AGPL-3.0",
+    "description": "Dashboards and metrics for monitoring. Usually paired with Prometheus."
+   },
+   {
+    "name": "SigNoz",
+    "repo": "SigNoz/signoz",
+    "license": "MIT (core)",
+    "description": "OpenTelemetry-native APM, logs and traces."
+   },
+   {
+    "name": "openobserve",
+    "repo": "openobserve/openobserve",
+    "license": "AGPL-3.0",
+    "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si"
+   }
+  ]
+ },
+ {
+  "slug": "evernote",
+  "name": "Evernote",
+  "category": "Productivity",
+  "description": "Note taking.",
+  "alternatives": [
+   {
+    "name": "Joplin",
+    "repo": "laurent22/joplin",
+    "license": "AGPL-3.0",
+    "description": "Note-taking app with end-to-end encrypted sync."
+   },
+   {
+    "name": "notesnook",
+    "repo": "streetwriters/notesnook",
+    "license": "GPL-3.0",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote."
+   }
+  ]
+ },
+ {
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "category": "AI",
+  "description": "AI chat assistant.",
+  "alternatives": [
+   {
+    "name": "open-spaces",
+    "repo": "Anil-matcha/open-spaces",
+    "license": "MIT",
+    "description": "Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations."
+   },
+   {
+    "name": "Open WebUI",
+    "repo": "open-webui/open-webui",
+    "license": "Open WebUI License (BSD-3 based)",
+    "description": "Self-hosted AI interface for Ollama and OpenAI-compatible APIs."
+   },
+   {
+    "name": "Ollama",
+    "repo": "ollama/ollama",
+    "license": "MIT",
+    "description": "Run large language models locally."
+   },
+   {
+    "name": "LibreChat",
+    "repo": "danny-avila/LibreChat",
+    "license": "MIT",
+    "description": "Multi-provider ChatGPT-style interface."
+   },
+   {
+    "name": "jan",
+    "repo": "janhq/jan",
+    "license": "NOASSERTION",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+   }
+  ]
+ },
+ {
+  "slug": "github-copilot",
+  "name": "GitHub Copilot",
+  "category": "AI",
+  "description": "AI coding assistant.",
+  "alternatives": [
+   {
+    "name": "Continue",
+    "repo": "continuedev/continue",
+    "license": "Apache-2.0",
+    "description": "Open source AI code assistant for IDEs."
+   },
+   {
+    "name": "Tabby",
+    "repo": "TabbyML/tabby",
+    "license": "Apache-2.0 (core)",
+    "description": "Self-hosted AI coding assistant."
+   }
+  ]
+ },
+ {
+  "slug": "midjourney",
+  "name": "Midjourney",
+  "category": "AI",
+  "description": "AI image generation.",
+  "alternatives": [
+   {
+    "name": "ComfyUI",
+    "repo": "comfyanonymous/ComfyUI",
+    "license": "GPL-3.0",
+    "description": "Node-based diffusion workflow engine. Quality depends on the model you load."
+   },
+   {
+    "name": "Stable Diffusion WebUI",
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted image generation with Stable Diffusion models."
+   }
+  ]
+ },
+ {
+  "slug": "loom",
+  "name": "Loom",
+  "category": "Video",
+  "description": "Screen recording and sharing.",
+  "alternatives": [
+   {
+    "name": "Cap",
+    "repo": "CapSoftware/Cap",
+    "license": "AGPL-3.0",
+    "description": "Open source screen recorder and sharing tool."
+   },
+   {
+    "name": "better-shot",
+    "repo": "KartikLabhshetwar/better-shot",
+    "license": "NOASSERTION",
+    "description": "Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-host"
+   }
+  ]
+ },
+ {
+  "slug": "miro",
+  "name": "Miro",
+  "category": "Design",
+  "description": "Online whiteboard for collaboration.",
+  "alternatives": [
+   {
+    "name": "Excalidraw",
+    "repo": "excalidraw/excalidraw",
+    "license": "MIT",
+    "description": "Virtual hand-drawn style whiteboard."
+   }
+  ]
+ },
+ {
+  "slug": "lucidchart",
+  "name": "Lucidchart",
+  "category": "Design",
+  "description": "Diagramming and flowcharts.",
+  "alternatives": [
+   {
+    "name": "draw.io",
+    "repo": "jgraph/drawio",
+    "license": "Apache-2.0",
+    "description": "Diagramming for flowcharts and architecture."
+   }
+  ]
+ },
+ {
+  "slug": "postman",
+  "name": "Postman",
+  "category": "Developer Tools",
+  "description": "API testing and development.",
+  "alternatives": [
+   {
+    "name": "Bruno",
+    "repo": "usebruno/bruno",
+    "license": "MIT",
+    "description": "Git-friendly offline API client."
+   },
+   {
+    "name": "Hoppscotch",
+    "repo": "hoppscotch/hoppscotch",
+    "license": "MIT",
+    "description": "Lightweight open source API development ecosystem."
+   },
+   {
+    "name": "Pororoca",
+    "repo": "alexandrehtrb/Pororoca",
+    "license": "NOASSERTION",
+    "description": "An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman."
+   }
+  ]
+ },
+ {
+  "slug": "terraform",
+  "name": "Terraform",
+  "category": "Developer Tools",
+  "description": "Infrastructure as code.",
+  "alternatives": [
+   {
+    "name": "OpenTofu",
+    "repo": "opentofu/opentofu",
+    "license": "MPL-2.0",
+    "description": "Community-driven Terraform fork."
+   }
+  ]
+ },
+ {
+  "slug": "medium",
+  "name": "Medium / Substack",
+  "category": "Publishing",
+  "description": "Blogging and newsletters.",
+  "alternatives": [
+   {
+    "name": "Ghost",
+    "repo": "TryGhost/Ghost",
+    "license": "MIT",
+    "description": "Publishing platform with memberships and newsletters."
+   }
+  ]
+ },
+ {
+  "slug": "retool",
+  "name": "Retool",
+  "category": "Developer Tools",
+  "description": "Internal tool builder.",
+  "alternatives": [
+   {
+    "name": "Appsmith",
+    "repo": "appsmithorg/appsmith",
+    "license": "Apache-2.0",
+    "description": "Low-code platform for internal apps."
+   },
+   {
+    "name": "ToolJet",
+    "repo": "ToolJet/ToolJet",
+    "license": "AGPL-3.0",
+    "description": "Low-code platform for business apps."
+   },
+   {
+    "name": "windmill",
+    "repo": "windmill-labs/windmill",
+    "license": "NOASSERTION",
+    "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-sour"
+   }
+  ]
+ },
+ {
+  "slug": "tableau",
+  "name": "Tableau / Looker",
+  "category": "Analytics",
+  "description": "Business intelligence.",
+  "alternatives": [
+   {
+    "name": "Metabase",
+    "repo": "metabase/metabase",
+    "license": "AGPL-3.0",
+    "description": "Lightweight BI for dashboards and questions without SQL."
+   },
+   {
+    "name": "Apache Superset",
+    "repo": "apache/superset",
+    "license": "Apache-2.0",
+    "description": "Data exploration and visualization platform."
+   },
+   {
+    "name": "dataease",
+    "repo": "dataease/dataease",
+    "license": "NOASSERTION",
+    "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau."
+   },
+   {
+    "name": "graphic-walker",
+    "repo": "Kanaries/graphic-walker",
+    "license": "Apache-2.0",
+    "description": "An open source alternative to Tableau. Embeddable visual analytic"
+   }
+  ]
+ },
+ {
+  "slug": "algolia",
+  "name": "Algolia",
+  "category": "Developer Tools",
+  "description": "Hosted search.",
+  "alternatives": [
+   {
+    "name": "Meilisearch",
+    "repo": "meilisearch/meilisearch",
+    "license": "MIT",
+    "description": "Fast, typo-tolerant search engine."
+   },
+   {
+    "name": "Typesense",
+    "repo": "typesense/typesense",
+    "license": "GPL-3.0",
+    "description": "Open source typo-tolerant search engine."
+   }
+  ]
+ },
+ {
+  "slug": "launchdarkly",
+  "name": "LaunchDarkly",
+  "category": "Developer Tools",
+  "description": "Feature flags.",
+  "alternatives": [
+   {
+    "name": "Unleash",
+    "repo": "Unleash/unleash",
+    "license": "Apache-2.0",
+    "description": "Open source feature management."
+   }
+  ]
+ },
+ {
+  "slug": "docusign",
+  "name": "DocuSign",
+  "category": "Productivity",
+  "description": "E-signatures.",
+  "alternatives": [
+   {
+    "name": "Documenso",
+    "repo": "documenso/documenso",
+    "license": "AGPL-3.0",
+    "description": "Open source document signing."
+   }
+  ]
+ },
+ {
+  "slug": "insomnia",
+  "name": "Insomnia",
+  "category": "Developer Tools",
+  "description": "Insomnia: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "hoppscotch",
+    "repo": "hoppscotch/hoppscotch",
+    "license": "MIT",
+    "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia"
+   },
+   {
+    "name": "bruno",
+    "repo": "usebruno/bruno",
+    "license": "MIT",
+    "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)"
+   }
+  ]
+ },
+ {
+  "slug": "heroku",
+  "name": "Heroku",
+  "category": "Developer Tools",
+  "description": "Heroku: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "coolify",
+    "repo": "coollabsio/coolify",
+    "license": "Apache-2.0",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+"
+   },
+   {
+    "name": "dokploy",
+    "repo": "Dokploy/dokploy",
+    "license": "NOASSERTION",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+   },
+   {
+    "name": "kubero",
+    "repo": "kubero-dev/kubero",
+    "license": "GPL-3.0",
+    "description": "A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes"
+   }
+  ]
+ },
+ {
+  "slug": "netlify",
+  "name": "Netlify",
+  "category": "Developer Tools",
+  "description": "Netlify: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "coolify",
+    "repo": "coollabsio/coolify",
+    "license": "Apache-2.0",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+"
+   },
+   {
+    "name": "dokploy",
+    "repo": "Dokploy/dokploy",
+    "license": "NOASSERTION",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+   },
+   {
+    "name": "kubero",
+    "repo": "kubero-dev/kubero",
+    "license": "GPL-3.0",
+    "description": "A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes"
+   }
+  ]
+ },
+ {
+  "slug": "linear",
+  "name": "Linear",
+  "category": "Project Management",
+  "description": "Linear: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Huly",
+    "repo": "hcengineering/platform",
+    "license": "EPL-2.0",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
+   },
+   {
+    "name": "ItsAPlan",
+    "repo": "croffasia/itsaplan",
+    "license": "AGPL-3.0",
+    "description": "Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship pro"
+   }
+  ]
+ },
+ {
+  "slug": "pinecone",
+  "name": "Pinecone",
+  "category": "Developer Tools",
+  "description": "Pinecone: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "typesense",
+    "repo": "typesense/typesense",
+    "license": "GPL-3.0",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for bu"
+   }
+  ]
+ },
+ {
+  "slug": "asana",
+  "name": "Asana",
+  "category": "Project Management",
+  "description": "Asana: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "focalboard",
+    "repo": "mattermost-community/focalboard",
+    "license": "NOASSERTION",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana."
+   }
+  ]
+ },
+ {
+  "slug": "semrush",
+  "name": "Semrush",
+  "category": "Marketing",
+  "description": "Semrush: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "geo-checker",
+    "repo": "SamurAIGPT/geo-checker",
+    "license": "See repo",
+    "description": "Open-source AI GEO (Generative Engine Optimization) auditor"
+   }
+  ]
+ },
+ {
+  "slug": "ahrefs",
+  "name": "Ahrefs",
+  "category": "Marketing",
+  "description": "Ahrefs: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-seo",
+    "repo": "every-app/open-seo",
+    "license": "MIT",
+    "description": "Open source alternative to Semrush and Ahrefs"
+   }
+  ]
+ },
+ {
+  "slug": "splunk",
+  "name": "Splunk",
+  "category": "Monitoring",
+  "description": "Splunk: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openobserve",
+    "repo": "openobserve/openobserve",
+    "license": "AGPL-3.0",
+    "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si"
+   }
+  ]
+ },
+ {
+  "slug": "elastic-cloud",
+  "name": "Elastic Cloud",
+  "category": "Developer Tools",
+  "description": "Elastic Cloud: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openobserve",
+    "repo": "openobserve/openobserve",
+    "license": "AGPL-3.0",
+    "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si"
+   },
+   {
+    "name": "Sonic",
+    "repo": "valeriansaliou/sonic",
+    "license": "MPL-2.0",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+   }
+  ]
+ },
+ {
+  "slug": "confluence",
+  "name": "Confluence",
+  "category": "Productivity",
+  "description": "Confluence: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "docmost",
+    "repo": "docmost/docmost",
+    "license": "AGPL-3.0",
+    "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion."
+   }
+  ]
+ },
+ {
+  "slug": "aws-cognito",
+  "name": "AWS Cognito",
+  "category": "Developer Tools",
+  "description": "AWS Cognito: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "supertokens-core",
+    "repo": "supertokens/supertokens-core",
+    "license": "NOASSERTION",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito "
+   }
+  ]
+ },
+ {
+  "slug": "pubnub",
+  "name": "PubNub",
+  "category": "Developer Tools",
+  "description": "PubNub: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "centrifugo",
+    "repo": "centrifugal/centrifugo",
+    "license": "Apache-2.0",
+    "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once"
+   }
+  ]
+ },
+ {
+  "slug": "pusher",
+  "name": "Pusher",
+  "category": "Developer Tools",
+  "description": "Pusher: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "centrifugo",
+    "repo": "centrifugal/centrifugo",
+    "license": "Apache-2.0",
+    "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once"
+   }
+  ]
+ },
+ {
+  "slug": "ably",
+  "name": "Ably",
+  "category": "Developer Tools",
+  "description": "Ably: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "centrifugo",
+    "repo": "centrifugal/centrifugo",
+    "license": "Apache-2.0",
+    "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once"
+   }
+  ]
+ },
+ {
+  "slug": "clerk",
+  "name": "Clerk",
+  "category": "Developer Tools",
+  "description": "Clerk: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "hanko",
+    "repo": "teamhanko/hanko",
+    "license": "NOASSERTION",
+    "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   }
+  ]
+ },
+ {
+  "slug": "workos",
+  "name": "WorkOS",
+  "category": "Developer Tools",
+  "description": "WorkOS: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "hanko",
+    "repo": "teamhanko/hanko",
+    "license": "NOASSERTION",
+    "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   }
+  ]
+ },
+ {
+  "slug": "stytch",
+  "name": "Stytch",
+  "category": "Developer Tools",
+  "description": "Stytch: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "hanko",
+    "repo": "teamhanko/hanko",
+    "license": "NOASSERTION",
+    "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   }
+  ]
+ },
+ {
+  "slug": "webflow",
+  "name": "Webflow",
+  "category": "Design",
+  "description": "Webflow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Instatic",
+    "repo": "CoreBunch/Instatic",
+    "license": "MIT",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data"
+   }
+  ]
+ },
+ {
+  "slug": "framer",
+  "name": "Framer",
+  "category": "Design",
+  "description": "Framer: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Instatic",
+    "repo": "CoreBunch/Instatic",
+    "license": "MIT",
+    "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data"
+   }
+  ]
+ },
+ {
+  "slug": "twilio",
+  "name": "Twilio",
+  "category": "Communication",
+  "description": "Twilio: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "fonoster",
+    "repo": "fonoster/fonoster",
+    "license": "MIT",
+    "description": "🚀 The open-source alternative to Twilio."
+   }
+  ]
+ },
+ {
+  "slug": "mixpanel",
+  "name": "Mixpanel",
+  "category": "Analytics",
+  "description": "Mixpanel: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpanel",
+    "repo": "Openpanel-dev/openpanel",
+    "license": "AGPL-3.0",
+    "description": "OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting."
+   },
+   {
+    "name": "litlyx",
+    "repo": "Litlyx/litlyx",
+    "license": "Apache-2.0",
+    "description": "Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative t"
+   }
+  ]
+ },
+ {
+  "slug": "superwhisper",
+  "name": "Superwhisper",
+  "category": "AI",
+  "description": "Superwhisper: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "VoiceInk",
+    "repo": "Beingpax/VoiceInk",
+    "license": "NOASSERTION",
+    "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+   }
+  ]
+ },
+ {
+  "slug": "wispr-flow",
+  "name": "Wispr Flow",
+  "category": "AI",
+  "description": "Wispr Flow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "VoiceInk",
+    "repo": "Beingpax/VoiceInk",
+    "license": "NOASSERTION",
+    "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+   },
+   {
+    "name": "freeflow",
+    "repo": "zachlatta/freeflow",
+    "license": "MIT",
+    "description": "Free & fast alternative to Wispr Flow"
+   }
+  ]
+ },
+ {
+  "slug": "vapi",
+  "name": "Vapi",
+  "category": "AI",
+  "description": "Vapi: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "dograh",
+    "repo": "dograh-hq/dograh",
+    "license": "BSD-2-Clause",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder,"
+   }
+  ]
+ },
+ {
+  "slug": "retell-ai",
+  "name": "Retell AI",
+  "category": "AI",
+  "description": "Retell AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "dograh",
+    "repo": "dograh-hq/dograh",
+    "license": "BSD-2-Clause",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder,"
+   }
+  ]
+ },
+ {
+  "slug": "opus-clip",
+  "name": "Opus Clip",
+  "category": "Video",
+  "description": "Opus Clip: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-clipping-comfyui",
+    "repo": "Anil-matcha/ai-clipping-comfyui",
+    "license": "MIT",
+    "description": "Free open-source Opus Clip alternative for ComfyUI"
+   },
+   {
+    "name": "AI-Youtube-Shorts-Generator",
+    "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
+    "license": "MIT",
+    "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   }
+  ]
+ },
+ {
+  "slug": "resend",
+  "name": "Resend",
+  "category": "Marketing",
+  "description": "Resend: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "useSend",
+    "repo": "usesend/useSend",
+    "license": "AGPL-3.0",
+    "description": "Open source alternative to Resend, Sendgrid, Postmark etc."
+   },
+   {
+    "name": "temps",
+    "repo": "gotempsh/temps",
+    "license": "Apache-2.0",
+    "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   }
+  ]
+ },
+ {
+  "slug": "sendgrid",
+  "name": "SendGrid",
+  "category": "Marketing",
+  "description": "SendGrid: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "useSend",
+    "repo": "usesend/useSend",
+    "license": "AGPL-3.0",
+    "description": "Open source alternative to Resend, Sendgrid, Postmark etc."
+   },
+   {
+    "name": "forwardemail.net",
+    "repo": "forwardemail/forwardemail.net",
+    "license": "NOASSERTION",
+    "description": "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+   },
+   {
+    "name": "relay",
+    "repo": "hyvor/relay",
+    "license": "AGPL-3.0",
+    "description": "📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid."
+   }
+  ]
+ },
+ {
+  "slug": "kommo",
+  "name": "Kommo",
+  "category": "CRM",
+  "description": "Kommo: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "DeskcommCRM",
+    "repo": "melgarafael/DeskcommCRM",
+    "license": "MIT",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by"
+   }
+  ]
+ },
+ {
+  "slug": "shodan",
+  "name": "Shodan",
+  "category": "Security",
+  "description": "Shodan: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ivre",
+    "repo": "ivre/ivre",
+    "license": "GPL-3.0",
+    "description": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service,"
+   }
+  ]
+ },
+ {
+  "slug": "censys",
+  "name": "Censys",
+  "category": "Security",
+  "description": "Censys: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ivre",
+    "repo": "ivre/ivre",
+    "license": "GPL-3.0",
+    "description": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service,"
+   }
+  ]
+ },
+ {
+  "slug": "surveymonkey",
+  "name": "SurveyMonkey",
+  "category": "Forms",
+  "description": "SurveyMonkey: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "SurveyKing",
+    "repo": "javahuang/SurveyKing",
+    "license": "MIT",
+    "description": "One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey."
+   },
+   {
+    "name": "LimeSurvey",
+    "repo": "LimeSurvey/LimeSurvey",
+    "license": "NOASSERTION",
+    "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o"
+   }
+  ]
+ },
+ {
+  "slug": "quickbooks",
+  "name": "QuickBooks",
+  "category": "Finance",
+  "description": "QuickBooks: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "bigcapital",
+    "repo": "bigcapitalhq/bigcapital",
+    "license": "AGPL-3.0",
+    "description": "💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave."
+   }
+  ]
+ },
+ {
+  "slug": "xero",
+  "name": "Xero",
+  "category": "Finance",
+  "description": "Xero: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "bigcapital",
+    "repo": "bigcapitalhq/bigcapital",
+    "license": "AGPL-3.0",
+    "description": "💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave."
+   }
+  ]
+ },
+ {
+  "slug": "qualtrics",
+  "name": "Qualtrics",
+  "category": "Forms",
+  "description": "Qualtrics: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "LimeSurvey",
+    "repo": "LimeSurvey/LimeSurvey",
+    "license": "NOASSERTION",
+    "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o"
+   }
+  ]
+ },
+ {
+  "slug": "drift",
+  "name": "Drift",
+  "category": "Customer Support",
+  "description": "Drift: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "chaskiq",
+    "repo": "chaskiq/chaskiq",
+    "license": "NOASSERTION",
+    "description": "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp."
+   }
+  ]
+ },
+ {
+  "slug": "crisp",
+  "name": "Crisp",
+  "category": "Customer Support",
+  "description": "Crisp: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "chaskiq",
+    "repo": "chaskiq/chaskiq",
+    "license": "NOASSERTION",
+    "description": "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp."
+   }
+  ]
+ },
+ {
+  "slug": "google-meet",
+  "name": "Google Meet",
+  "category": "Communication",
+  "description": "Google Meet: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "mirotalksfu",
+    "repo": "miroslavpejic85/mirotalksfu",
+    "license": "AGPL-3.0",
+    "description": "🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, Google Meet, Jitsi M"
+   }
+  ]
+ },
+ {
+  "slug": "microsoft-teams",
+  "name": "Microsoft Teams",
+  "category": "Communication",
+  "description": "Microsoft Teams: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "mirotalksfu",
+    "repo": "miroslavpejic85/mirotalksfu",
+    "license": "AGPL-3.0",
+    "description": "🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, Google Meet, Jitsi M"
+   }
+  ]
+ },
+ {
+  "slug": "splitwise",
+  "name": "Splitwise",
+  "category": "Finance",
+  "description": "Splitwise: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "spliit",
+    "repo": "spliit-app/spliit",
+    "license": "MIT",
+    "description": "Free and Open Source Alternative to Splitwise. Share expenses with your friends and family."
+   },
+   {
+    "name": "split-pro",
+    "repo": "oss-apps/split-pro",
+    "license": "MIT",
+    "description": "Open source alternative to Splitwise"
+   }
+  ]
+ },
+ {
+  "slug": "ynab",
+  "name": "YNAB",
+  "category": "Finance",
+  "description": "YNAB: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "financial-freedom",
+    "repo": "serversideup/financial-freedom",
+    "license": "GPL-3.0",
+    "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy."
+   }
+  ]
+ },
+ {
+  "slug": "cluely",
+  "name": "Cluely",
+  "category": "AI",
+  "description": "Cluely: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "natively-cluely-ai-assistant",
+    "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "license": "NOASSERTION",
+    "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   },
+   {
+    "name": "pluely",
+    "repo": "iamsrikanthnani/pluely",
+    "license": "GPL-3.0",
+    "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations withou"
+   }
+  ]
+ },
+ {
+  "slug": "otter-ai",
+  "name": "Otter.ai",
+  "category": "AI",
+  "description": "Otter.ai: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "natively-cluely-ai-assistant",
+    "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "license": "NOASSERTION",
+    "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   }
+  ]
+ },
+ {
+  "slug": "granola",
+  "name": "Granola",
+  "category": "AI",
+  "description": "Granola: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "natively-cluely-ai-assistant",
+    "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "license": "NOASSERTION",
+    "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   }
+  ]
+ },
+ {
+  "slug": "final-round-ai",
+  "name": "Final Round AI",
+  "category": "AI",
+  "description": "Final Round AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "natively-cluely-ai-assistant",
+    "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "license": "NOASSERTION",
+    "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   }
+  ]
+ },
+ {
+  "slug": "fireflies-ai",
+  "name": "Fireflies.ai",
+  "category": "AI",
+  "description": "Fireflies.ai: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "natively-cluely-ai-assistant",
+    "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "license": "NOASSERTION",
+    "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   }
+  ]
+ },
+ {
+  "slug": "cypress-cloud",
+  "name": "Cypress Cloud",
+  "category": "Developer Tools",
+  "description": "Cypress Cloud: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "sorry-cypress",
+    "repo": "sorry-cypress/sorry-cypress",
+    "license": "MIT",
+    "description": "Open-source, free, self-hosted alternative to Cypress Dashboard"
+   }
+  ]
+ },
+ {
+  "slug": "discord",
+  "name": "Discord",
+  "category": "Communication",
+  "description": "Discord: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Quiet",
+    "repo": "TryQuiet/quiet",
+    "license": "GPL-3.0",
+    "description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS"
+   }
+  ]
+ },
+ {
+  "slug": "braze",
+  "name": "Braze",
+  "category": "Marketing",
+  "description": "Braze: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "laudspeaker",
+    "repo": "laudspeaker/laudspeaker",
+    "license": "NOASSERTION",
+    "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pe"
+   }
+  ]
+ },
+ {
+  "slug": "onesignal",
+  "name": "OneSignal",
+  "category": "Marketing",
+  "description": "OneSignal: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "laudspeaker",
+    "repo": "laudspeaker/laudspeaker",
+    "license": "NOASSERTION",
+    "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pe"
+   }
+  ]
+ },
+ {
+  "slug": "customer-io",
+  "name": "Customer.io",
+  "category": "Marketing",
+  "description": "Customer.io: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "laudspeaker",
+    "repo": "laudspeaker/laudspeaker",
+    "license": "NOASSERTION",
+    "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pe"
+   }
+  ]
+ },
+ {
+  "slug": "appcues",
+  "name": "Appcues",
+  "category": "Product",
+  "description": "Appcues: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "laudspeaker",
+    "repo": "laudspeaker/laudspeaker",
+    "license": "NOASSERTION",
+    "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pe"
+   },
+   {
+    "name": "usertour",
+    "repo": "usertour/usertour",
+    "license": "NOASSERTION",
+    "description": "Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full"
+   }
+  ]
+ },
+ {
+  "slug": "pendo",
+  "name": "Pendo",
+  "category": "Product",
+  "description": "Pendo: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "laudspeaker",
+    "repo": "laudspeaker/laudspeaker",
+    "license": "NOASSERTION",
+    "description": "📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pe"
+   }
+  ]
+ },
+ {
+  "slug": "higgsfield",
+  "name": "Higgsfield",
+  "category": "AI",
+  "description": "Higgsfield: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-Generative-AI",
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "license": "MIT",
+    "description": "Unrestricted Open-source alternative to AI video platforms"
+   }
+  ]
+ },
+ {
+  "slug": "openart",
+  "name": "OpenArt",
+  "category": "AI",
+  "description": "OpenArt: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-Generative-AI",
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "license": "MIT",
+    "description": "Unrestricted Open-source alternative to AI video platforms"
+   }
+  ]
+ },
+ {
+  "slug": "freepik",
+  "name": "Freepik",
+  "category": "AI",
+  "description": "Freepik: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vibe-Workflow",
+    "repo": "SamurAIGPT/Vibe-Workflow",
+    "license": "MIT",
+    "description": "Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines"
+   },
+   {
+    "name": "Open-Generative-AI",
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "license": "MIT",
+    "description": "Unrestricted Open-source alternative to AI video platforms"
+   }
+  ]
+ },
+ {
+  "slug": "buffer",
+  "name": "Buffer",
+  "category": "Marketing",
+  "description": "Buffer: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "social-post",
+    "repo": "SamurAIGPT/social-post",
+    "license": "See repo",
+    "description": "Open-source AI social media post generator"
+   },
+   {
+    "name": "Free-AI-Social-Media-Scheduler",
+    "repo": "Anil-matcha/Free-AI-Social-Media-Scheduler",
+    "license": "MIT",
+    "description": "Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation."
+   }
+  ]
+ },
+ {
+  "slug": "sendible",
+  "name": "Sendible",
+  "category": "Marketing",
+  "description": "Sendible: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "brightbean-studio",
+    "repo": "brightbeanxyz/brightbean-studio",
+    "license": "AGPL-3.0",
+    "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternativ"
+   }
+  ]
+ },
+ {
+  "slug": "socialpilot",
+  "name": "SocialPilot",
+  "category": "Marketing",
+  "description": "SocialPilot: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "brightbean-studio",
+    "repo": "brightbeanxyz/brightbean-studio",
+    "license": "AGPL-3.0",
+    "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternativ"
+   }
+  ]
+ },
+ {
+  "slug": "cleanshot-x",
+  "name": "CleanShot X",
+  "category": "Video",
+  "description": "CleanShot X: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "better-shot",
+    "repo": "KartikLabhshetwar/better-shot",
+    "license": "NOASSERTION",
+    "description": "Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-host"
+   },
+   {
+    "name": "Capso",
+    "repo": "lzhgus/Capso",
+    "license": "NOASSERTION",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+   }
+  ]
+ },
+ {
+  "slug": "userflow",
+  "name": "Userflow",
+  "category": "Product",
+  "description": "Userflow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "usertour",
+    "repo": "usertour/usertour",
+    "license": "NOASSERTION",
+    "description": "Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full"
+   }
+  ]
+ },
+ {
+  "slug": "ngrok",
+  "name": "ngrok",
+  "category": "Developer Tools",
+  "description": "ngrok: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "piko",
+    "repo": "andydunstall/piko",
+    "license": "MIT",
+    "description": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)"
+   }
+  ]
+ },
+ {
+  "slug": "notebooklm",
+  "name": "NotebookLM",
+  "category": "AI",
+  "description": "NotebookLM: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "notebookllama",
+    "repo": "run-llama/notebookllama",
+    "license": "MIT",
+    "description": "A fully open-source, LlamaCloud-backed alternative to NotebookLM"
+   },
+   {
+    "name": "insights-lm-public",
+    "repo": "theaiautomators/insights-lm-public",
+    "license": "MIT",
+    "description": "Open-source, self-hosted alternative to NotebookLM. Chat with your documents, generate audio summaries, and ground AI in your own sources—built with Supabase an"
+   }
+  ]
+ },
+ {
+  "slug": "clickup",
+  "name": "ClickUp",
+  "category": "Project Management",
+  "description": "ClickUp: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Paca",
+    "repo": "Paca-AI/paca",
+    "license": "Apache-2.0",
+    "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same"
+   }
+  ]
+ },
+ {
+  "slug": "monday-com",
+  "name": "Monday.com",
+  "category": "Project Management",
+  "description": "Monday.com: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Paca",
+    "repo": "Paca-AI/paca",
+    "license": "Apache-2.0",
+    "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same"
+   }
+  ]
+ },
+ {
+  "slug": "thinkific",
+  "name": "Thinkific",
+  "category": "Education",
+  "description": "Thinkific: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "classroomio",
+    "repo": "classroomio/classroomio",
+    "license": "AGPL-3.0",
+    "description": "The Open Source Education Platform for Companies. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable"
+   },
+   {
+    "name": "courselit",
+    "repo": "codelitdev/courselit",
+    "license": "AGPL-3.0",
+    "description": "Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes"
+   }
+  ]
+ },
+ {
+  "slug": "teachable",
+  "name": "Teachable",
+  "category": "Education",
+  "description": "Teachable: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "classroomio",
+    "repo": "classroomio/classroomio",
+    "license": "AGPL-3.0",
+    "description": "The Open Source Education Platform for Companies. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable"
+   },
+   {
+    "name": "courselit",
+    "repo": "codelitdev/courselit",
+    "license": "AGPL-3.0",
+    "description": "Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes"
+   }
+  ]
+ },
+ {
+  "slug": "genspark",
+  "name": "Genspark",
+  "category": "AI",
+  "description": "Genspark: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "lemonai",
+    "repo": "hexdocom/lemonai",
+    "license": "NOASSERTION",
+    "description": "Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔"
+   }
+  ]
+ },
+ {
+  "slug": "apollo-graphos",
+  "name": "Apollo GraphOS",
+  "category": "Developer Tools",
+  "description": "Apollo GraphOS: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "cosmo",
+    "repo": "wundergraph/cosmo",
+    "license": "Apache-2.0",
+    "description": "The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS."
+   }
+  ]
+ },
+ {
+  "slug": "podia",
+  "name": "Podia",
+  "category": "Education",
+  "description": "Podia: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "courselit",
+    "repo": "codelitdev/courselit",
+    "license": "AGPL-3.0",
+    "description": "Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes"
+   }
+  ]
+ },
+ {
+  "slug": "manus",
+  "name": "Manus",
+  "category": "AI",
+  "description": "Manus: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-agent",
+    "repo": "AFK-surf/open-agent",
+    "license": "Apache-2.0",
+    "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus."
+   }
+  ]
+ },
+ {
+  "slug": "screaming-frog",
+  "name": "Screaming Frog",
+  "category": "Marketing",
+  "description": "Screaming Frog: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "LibreCrawl",
+    "repo": "PhialsBasement/LibreCrawl",
+    "license": "MIT",
+    "description": "Free desktop SEO crawler - open source alternative to Screaming Frog and similar tools. Crawl websites, analyze links, extract SEO data, and export results with"
+   }
+  ]
+ },
+ {
+  "slug": "mailgun",
+  "name": "Mailgun",
+  "category": "Marketing",
+  "description": "Mailgun: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "relay",
+    "repo": "hyvor/relay",
+    "license": "AGPL-3.0",
+    "description": "📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid."
+   },
+   {
+    "name": "posta",
+    "repo": "goposta/posta",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analy"
+   }
+  ]
+ },
+ {
+  "slug": "composio",
+  "name": "Composio",
+  "category": "Automation",
+  "description": "Composio: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-agent-connector",
+    "repo": "Anil-matcha/open-agent-connector",
+    "license": "See repo",
+    "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   }
+  ]
+ },
+ {
+  "slug": "nango",
+  "name": "Nango",
+  "category": "Automation",
+  "description": "Nango: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-agent-connector",
+    "repo": "Anil-matcha/open-agent-connector",
+    "license": "See repo",
+    "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   }
+  ]
+ },
+ {
+  "slug": "merge",
+  "name": "Merge",
+  "category": "Automation",
+  "description": "Merge: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-agent-connector",
+    "repo": "Anil-matcha/open-agent-connector",
+    "license": "See repo",
+    "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   }
+  ]
+ },
+ {
+  "slug": "sentry",
+  "name": "Sentry",
+  "category": "Monitoring",
+  "description": "Sentry: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "temps",
+    "repo": "gotempsh/temps",
+    "license": "Apache-2.0",
+    "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   }
+  ]
+ },
+ {
+  "slug": "pingdom",
+  "name": "Pingdom",
+  "category": "Monitoring",
+  "description": "Pingdom: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "temps",
+    "repo": "gotempsh/temps",
+    "license": "Apache-2.0",
+    "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   }
+  ]
+ },
+ {
+  "slug": "carta",
+  "name": "Carta",
+  "category": "Finance",
+  "description": "Carta: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "captable",
+    "repo": "captableinc/captable",
+    "license": "AGPL-3.0",
+    "description": "#1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others."
+   }
+  ]
+ },
+ {
+  "slug": "disqus",
+  "name": "Disqus",
+  "category": "Publishing",
+  "description": "Disqus: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "mouthful",
+    "repo": "vkuznecovas/mouthful",
+    "license": "MIT",
+    "description": "Mouthful is a self-hosted alternative to Disqus"
+   }
+  ]
+ },
+ {
+  "slug": "linktree",
+  "name": "Linktree",
+  "category": "Marketing",
+  "description": "Linktree: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "LinkFree",
+    "repo": "MichaelBarney/LinkFree",
+    "license": "Apache-2.0",
+    "description": "A free and open source alternative to LinkTree"
+   }
+  ]
+ },
+ {
+  "slug": "weavy",
+  "name": "Weavy",
+  "category": "AI",
+  "description": "Weavy: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vibe-Workflow",
+    "repo": "SamurAIGPT/Vibe-Workflow",
+    "license": "MIT",
+    "description": "Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines"
+   }
+  ]
+ },
+ {
+  "slug": "krea",
+  "name": "Krea",
+  "category": "AI",
+  "description": "Krea: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vibe-Workflow",
+    "repo": "SamurAIGPT/Vibe-Workflow",
+    "license": "MIT",
+    "description": "Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines"
+   }
+  ]
+ },
+ {
+  "slug": "florafauna-ai",
+  "name": "FloraFauna AI",
+  "category": "AI",
+  "description": "FloraFauna AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vibe-Workflow",
+    "repo": "SamurAIGPT/Vibe-Workflow",
+    "license": "MIT",
+    "description": "Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines"
+   }
+  ]
+ },
+ {
+  "slug": "claude-cowork",
+  "name": "Claude Cowork",
+  "category": "AI",
+  "description": "Claude Cowork: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-dots",
+    "repo": "Anil-matcha/open-dots",
+    "license": "See repo",
+    "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   }
+  ]
+ },
+ {
+  "slug": "chatgpt-agent",
+  "name": "ChatGPT Agent",
+  "category": "AI",
+  "description": "ChatGPT Agent: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-dots",
+    "repo": "Anil-matcha/open-dots",
+    "license": "See repo",
+    "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   }
+  ]
+ },
+ {
+  "slug": "grok-bot",
+  "name": "Grok Bot",
+  "category": "AI",
+  "description": "Grok Bot: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-grok-bot",
+    "repo": "Anil-matcha/open-grok-bot",
+    "license": "See repo",
+    "description": "Open-source alternative to Grok bot with a FastAPI API, Next.js UI, governed computer use, Docker/remote runtimes, approvals, connectors, and local-first state."
+   },
+   {
+    "name": "open-dots",
+    "repo": "Anil-matcha/open-dots",
+    "license": "See repo",
+    "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   }
+  ]
+ },
+ {
+  "slug": "vidyo-ai",
+  "name": "Vidyo.ai",
+  "category": "Video",
+  "description": "Vidyo.ai: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AI-Youtube-Shorts-Generator",
+    "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
+    "license": "MIT",
+    "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   }
+  ]
+ },
+ {
+  "slug": "klap",
+  "name": "Klap",
+  "category": "Video",
+  "description": "Klap: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AI-Youtube-Shorts-Generator",
+    "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
+    "license": "MIT",
+    "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   }
+  ]
+ },
+ {
+  "slug": "submagic",
+  "name": "SubMagic",
+  "category": "Video",
+  "description": "SubMagic: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AI-Youtube-Shorts-Generator",
+    "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
+    "license": "MIT",
+    "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   }
+  ]
+ },
+ {
+  "slug": "arcade-dev",
+  "name": "Arcade.dev",
+  "category": "Automation",
+  "description": "Arcade.dev: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-agent-connector",
+    "repo": "Anil-matcha/open-agent-connector",
+    "license": "See repo",
+    "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   }
+  ]
+ },
+ {
+  "slug": "lovart",
+  "name": "Lovart",
+  "category": "Design",
+  "description": "Lovart: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-AI-Design-Agent",
+    "repo": "Anil-matcha/Open-AI-Design-Agent",
+    "license": "MIT",
+    "description": "Open-source AI design agent"
+   }
+  ]
+ },
+ {
+  "slug": "galileo-ai",
+  "name": "Galileo AI",
+  "category": "Design",
+  "description": "Galileo AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-AI-Design-Agent",
+    "repo": "Anil-matcha/Open-AI-Design-Agent",
+    "license": "MIT",
+    "description": "Open-source AI design agent"
+   }
+  ]
+ },
+ {
+  "slug": "magic-patterns",
+  "name": "Magic Patterns",
+  "category": "Design",
+  "description": "Magic Patterns: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-AI-Design-Agent",
+    "repo": "Anil-matcha/Open-AI-Design-Agent",
+    "license": "MIT",
+    "description": "Open-source AI design agent"
+   }
+  ]
+ },
+ {
+  "slug": "arcads",
+  "name": "Arcads",
+  "category": "Marketing",
+  "description": "Arcads: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-AI-UGC",
+    "repo": "Anil-matcha/Open-AI-UGC",
+    "license": "MIT",
+    "description": "Open AI UGC"
+   }
+  ]
+ },
+ {
+  "slug": "makeugc",
+  "name": "MakeUGC",
+  "category": "Marketing",
+  "description": "MakeUGC: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open-AI-UGC",
+    "repo": "Anil-matcha/Open-AI-UGC",
+    "license": "MIT",
+    "description": "Open AI UGC"
+   }
+  ]
+ },
+ {
+  "slug": "character-ai",
+  "name": "Character.AI",
+  "category": "AI",
+  "description": "Character.AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-character-studio",
+    "repo": "SamurAIGPT/ai-character-studio",
+    "license": "See repo",
+    "description": "Open-source AI character creator & roleplay chat studio"
+   },
+   {
+    "name": "open-character-ai",
+    "repo": "Anil-matcha/open-character-ai",
+    "license": "See repo",
+    "description": "Open-source Character.AI alternative"
+   }
+  ]
+ },
+ {
+  "slug": "replika",
+  "name": "Replika",
+  "category": "AI",
+  "description": "Replika: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-character-studio",
+    "repo": "SamurAIGPT/ai-character-studio",
+    "license": "See repo",
+    "description": "Open-source AI character creator & roleplay chat studio"
+   }
+  ]
+ },
+ {
+  "slug": "hootsuite",
+  "name": "Hootsuite",
+  "category": "Marketing",
+  "description": "Hootsuite: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Free-AI-Social-Media-Scheduler",
+    "repo": "Anil-matcha/Free-AI-Social-Media-Scheduler",
+    "license": "MIT",
+    "description": "Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation."
+   }
+  ]
+ },
+ {
+  "slug": "claude-tag",
+  "name": "Claude Tag",
+  "category": "Communication",
+  "description": "Claude Tag: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "open-claude-tag",
+    "repo": "Anil-matcha/open-claude-tag",
+    "license": "MIT",
+    "description": "Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic."
+   }
+  ]
+ },
+ {
+  "slug": "teal",
+  "name": "Teal",
+  "category": "Productivity",
+  "description": "Teal: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-resume-builder",
+    "repo": "SamurAIGPT/ai-resume-builder",
+    "license": "See repo",
+    "description": "Open-source AI resume builder & optimizer"
+   }
+  ]
+ },
+ {
+  "slug": "kickresume",
+  "name": "Kickresume",
+  "category": "Productivity",
+  "description": "Kickresume: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-resume-builder",
+    "repo": "SamurAIGPT/ai-resume-builder",
+    "license": "See repo",
+    "description": "Open-source AI resume builder & optimizer"
+   }
+  ]
+ },
+ {
+  "slug": "elevenlabs",
+  "name": "ElevenLabs",
+  "category": "AI",
+  "description": "ElevenLabs: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "my-podcast",
+    "repo": "SamurAIGPT/my-podcast",
+    "license": "See repo",
+    "description": "Open-source AI voiceover & podcast narration studio"
+   }
+  ]
+ },
+ {
+  "slug": "murf-ai",
+  "name": "Murf AI",
+  "category": "AI",
+  "description": "Murf AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "my-podcast",
+    "repo": "SamurAIGPT/my-podcast",
+    "license": "See repo",
+    "description": "Open-source AI voiceover & podcast narration studio"
+   }
+  ]
+ },
+ {
+  "slug": "watermarkremover-io",
+  "name": "Watermarkremover.io",
+  "category": "Design",
+  "description": "Watermarkremover.io: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "clearmark-ai",
+    "repo": "SamurAIGPT/clearmark-ai",
+    "license": "See repo",
+    "description": "Open-source AI watermark remover"
+   }
+  ]
+ },
+ {
+  "slug": "hitpaw",
+  "name": "HitPaw",
+  "category": "Design",
+  "description": "HitPaw: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "clearmark-ai",
+    "repo": "SamurAIGPT/clearmark-ai",
+    "license": "See repo",
+    "description": "Open-source AI watermark remover"
+   }
+  ]
+ },
+ {
+  "slug": "looka",
+  "name": "Looka",
+  "category": "Design",
+  "description": "Looka: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-logo-studio",
+    "repo": "SamurAIGPT/ai-logo-studio",
+    "license": "See repo",
+    "description": "Open-source AI logo generator & brand identity studio"
+   }
+  ]
+ },
+ {
+  "slug": "brandmark",
+  "name": "Brandmark",
+  "category": "Design",
+  "description": "Brandmark: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-logo-studio",
+    "repo": "SamurAIGPT/ai-logo-studio",
+    "license": "See repo",
+    "description": "Open-source AI logo generator & brand identity studio"
+   }
+  ]
+ },
+ {
+  "slug": "photoroom",
+  "name": "Photoroom",
+  "category": "Design",
+  "description": "Photoroom: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "resale-photo-enhancer",
+    "repo": "SamurAIGPT/resale-photo-enhancer",
+    "license": "See repo",
+    "description": "Open-source AI product photo studio for resellers"
+   }
+  ]
+ },
+ {
+  "slug": "remini",
+  "name": "Remini",
+  "category": "AI",
+  "description": "Remini: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-wedding-photo",
+    "repo": "SamurAIGPT/ai-wedding-photo",
+    "license": "See repo",
+    "description": "Open-source AI wedding photo generator"
+   },
+   {
+    "name": "old-photo-restore",
+    "repo": "SamurAIGPT/old-photo-restore",
+    "license": "See repo",
+    "description": "Open-source AI old photo restoration tool"
+   }
+  ]
+ },
+ {
+  "slug": "facetune",
+  "name": "Facetune",
+  "category": "AI",
+  "description": "Facetune: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-wedding-photo",
+    "repo": "SamurAIGPT/ai-wedding-photo",
+    "license": "See repo",
+    "description": "Open-source AI wedding photo generator"
+   }
+  ]
+ },
+ {
+  "slug": "lensa-ai",
+  "name": "Lensa AI",
+  "category": "AI",
+  "description": "Lensa AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-royal-portrait",
+    "repo": "SamurAIGPT/ai-royal-portrait",
+    "license": "See repo",
+    "description": "Open-source AI royal portrait & style transformation tool"
+   },
+   {
+    "name": "magicself-ai",
+    "repo": "SamurAIGPT/magicself-ai",
+    "license": "See repo",
+    "description": "Open-source AI selfie-to-artwork generator"
+   }
+  ]
+ },
+ {
+  "slug": "prisma",
+  "name": "Prisma",
+  "category": "AI",
+  "description": "Prisma: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "magicself-ai",
+    "repo": "SamurAIGPT/magicself-ai",
+    "license": "See repo",
+    "description": "Open-source AI selfie-to-artwork generator"
+   }
+  ]
+ },
+ {
+  "slug": "flair-ai",
+  "name": "Flair AI",
+  "category": "Design",
+  "description": "Flair AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "amazon-product-studio",
+    "repo": "SamurAIGPT/amazon-product-studio",
+    "license": "See repo",
+    "description": "Open-source AI product photography studio for Amazon sellers"
+   }
+  ]
+ },
+ {
+  "slug": "booth-ai",
+  "name": "Booth AI",
+  "category": "Design",
+  "description": "Booth AI: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "amazon-product-studio",
+    "repo": "SamurAIGPT/amazon-product-studio",
+    "license": "See repo",
+    "description": "Open-source AI product photography studio for Amazon sellers"
+   }
+  ]
+ },
+ {
+  "slug": "pebblely",
+  "name": "Pebblely",
+  "category": "Design",
+  "description": "Pebblely: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "pet-product-studio",
+    "repo": "SamurAIGPT/pet-product-studio",
+    "license": "See repo",
+    "description": "Open-source AI pet product ad generator"
+   }
+  ]
+ },
+ {
+  "slug": "surfer-seo",
+  "name": "Surfer SEO",
+  "category": "Marketing",
+  "description": "Surfer SEO: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "geo-checker",
+    "repo": "SamurAIGPT/geo-checker",
+    "license": "See repo",
+    "description": "Open-source AI GEO (Generative Engine Optimization) auditor"
+   }
+  ]
+ },
+ {
+  "slug": "botika",
+  "name": "Botika",
+  "category": "E-commerce",
+  "description": "Botika: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-tryon",
+    "repo": "SamurAIGPT/ai-tryon",
+    "license": "See repo",
+    "description": "Open-source AI virtual try-on tool"
+   }
+  ]
+ },
+ {
+  "slug": "lalaland",
+  "name": "Lalaland",
+  "category": "E-commerce",
+  "description": "Lalaland: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-tryon",
+    "repo": "SamurAIGPT/ai-tryon",
+    "license": "See repo",
+    "description": "Open-source AI virtual try-on tool"
+   }
+  ]
+ },
+ {
+  "slug": "youcam-hair",
+  "name": "YouCam Hair",
+  "category": "AI",
+  "description": "YouCam Hair: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-hair-style-simulator",
+    "repo": "SamurAIGPT/ai-hair-style-simulator",
+    "license": "See repo",
+    "description": "Open-source AI hairstyle simulator & virtual hair makeover"
+   }
+  ]
+ },
+ {
+  "slug": "youcam-makeup",
+  "name": "YouCam Makeup",
+  "category": "AI",
+  "description": "YouCam Makeup: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-professional-makeup-generator",
+    "repo": "SamurAIGPT/ai-professional-makeup-generator",
+    "license": "See repo",
+    "description": "Open-source AI virtual makeup try-on tool"
+   }
+  ]
+ },
+ {
+  "slug": "modiface",
+  "name": "ModiFace",
+  "category": "AI",
+  "description": "ModiFace: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-professional-makeup-generator",
+    "repo": "SamurAIGPT/ai-professional-makeup-generator",
+    "license": "See repo",
+    "description": "Open-source AI virtual makeup try-on tool"
+   }
+  ]
+ },
+ {
+  "slug": "roomgpt",
+  "name": "RoomGPT",
+  "category": "Design",
+  "description": "RoomGPT: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-room-declutter",
+    "repo": "SamurAIGPT/ai-room-declutter",
+    "license": "See repo",
+    "description": "Open-source AI room declutter & interior redesign tool"
+   }
+  ]
+ },
+ {
+  "slug": "reimagine-home",
+  "name": "Reimagine Home",
+  "category": "Design",
+  "description": "Reimagine Home: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-room-declutter",
+    "repo": "SamurAIGPT/ai-room-declutter",
+    "license": "See repo",
+    "description": "Open-source AI room declutter & interior redesign tool"
+   }
+  ]
+ },
+ {
+  "slug": "lavender",
+  "name": "Lavender",
+  "category": "Marketing",
+  "description": "Lavender: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "mail-wise",
+    "repo": "SamurAIGPT/mail-wise",
+    "license": "See repo",
+    "description": "Open-source AI email composer & cold outreach assistant"
+   }
+  ]
+ },
+ {
+  "slug": "reply-io",
+  "name": "Reply.io",
+  "category": "Marketing",
+  "description": "Reply.io: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "mail-wise",
+    "repo": "SamurAIGPT/mail-wise",
+    "license": "See repo",
+    "description": "Open-source AI email composer & cold outreach assistant"
+   }
+  ]
+ },
+ {
+  "slug": "promptbase",
+  "name": "PromptBase",
+  "category": "AI",
+  "description": "PromptBase: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "prompt-architect",
+    "repo": "SamurAIGPT/prompt-architect",
+    "license": "See repo",
+    "description": "Open-source AI prompt engineering workspace"
+   }
+  ]
+ },
+ {
+  "slug": "promptperfect",
+  "name": "PromptPerfect",
+  "category": "AI",
+  "description": "PromptPerfect: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "prompt-architect",
+    "repo": "SamurAIGPT/prompt-architect",
+    "license": "See repo",
+    "description": "Open-source AI prompt engineering workspace"
+   }
+  ]
+ },
+ {
+  "slug": "ink-hunter",
+  "name": "Ink Hunter",
+  "category": "AI",
+  "description": "Ink Hunter: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-tattoo-try-on",
+    "repo": "SamurAIGPT/ai-tattoo-try-on",
+    "license": "See repo",
+    "description": "Open-source AI tattoo try-on & virtual placement simulator"
+   }
+  ]
+ },
+ {
+  "slug": "tattoosmart",
+  "name": "Tattoosmart",
+  "category": "AI",
+  "description": "Tattoosmart: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-tattoo-try-on",
+    "repo": "SamurAIGPT/ai-tattoo-try-on",
+    "license": "See repo",
+    "description": "Open-source AI tattoo try-on & virtual placement simulator"
+   }
+  ]
+ },
+ {
+  "slug": "faceapp",
+  "name": "FaceApp",
+  "category": "AI",
+  "description": "FaceApp: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-kid-to-adult-prediction",
+    "repo": "SamurAIGPT/ai-kid-to-adult-prediction",
+    "license": "See repo",
+    "description": "Open-source AI age progression & kid-to-adult prediction tool"
+   }
+  ]
+ },
+ {
+  "slug": "shipfast",
+  "name": "ShipFast",
+  "category": "Developer Tools",
+  "description": "ShipFast: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "ai-saas-starter",
+    "repo": "SamurAIGPT/ai-saas-starter",
+    "license": "See repo",
+    "description": "Production-ready Next.js AI SaaS boilerplate"
+   }
+  ]
+ }
+]

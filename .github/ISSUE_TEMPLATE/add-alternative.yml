@@ -1,0 +1,72 @@
+name: Add an open source alternative
+description: Suggest an open source project as an alternative to a paid SaaS app (yours or someone else's).
+title: "Add <your project> as an alternative to <SaaS app>"
+labels: ["new-alternative"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! One SaaS app can have many alternatives, so submit one issue per alternative.
+        A bot will check your repo and open a pull request automatically.
+  - type: input
+    id: tool
+    attributes:
+      label: Paid SaaS app being replaced
+      description: The product name, e.g. Notion, Slack, Auth0.
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository of the alternative
+      description: In owner/name form, e.g. AppFlowy-IO/AppFlowy. The repo must be public and not archived.
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Project name (optional)
+      description: Defaults to the repo name.
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      description: What it does and how it replaces the SaaS app. Max 160 characters, plain text.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category (only used if the SaaS app is not in the list yet)
+      options:
+        - AI
+        - Analytics
+        - Automation
+        - CRM
+        - Communication
+        - Customer Support
+        - Design
+        - Developer Tools
+        - E-commerce
+        - Education
+        - Finance
+        - Forms
+        - Marketing
+        - Monitoring
+        - Product
+        - Productivity
+        - Project Management
+        - Publishing
+        - Security
+        - Storage
+        - Video
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: The project is open source under a license that allows self-hosting or free use of its source.
+          required: true

@@ -1,0 +1,61 @@
+name: Add alternative from issue
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  add:
+    if: contains(github.event.issue.labels.*.name, 'new-alternative')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Parse and validate the submission
+        id: parse
+        continue-on-error: true
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RESULT_FILE: ${{ runner.temp }}/issue-result.md
+        run: node scripts/add-from-issue.mjs
+      - name: Report a rejected submission
+        if: steps.parse.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --body-file "${{ runner.temp }}/issue-result.md"
+      - name: Refresh stats and rebuild README
+        if: steps.parse.outcome == 'success'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/validate.mjs
+          node scripts/refresh-stats.mjs
+          node scripts/build-readme.mjs
+      - name: Open a pull request
+        if: steps.parse.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          branch="add-alternative-$ISSUE_NUMBER"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add data.json stats.json README.md
+          git commit -m "Add alternative from issue #$ISSUE_NUMBER"
+          git push --force origin "$branch"
+          gh pr create --base main --head "$branch" \
+            --title "Add alternative from issue #$ISSUE_NUMBER" \
+            --body "Closes #$ISSUE_NUMBER
+
+          $(cat "${{ runner.temp }}/issue-result.md")" || gh pr edit "$branch" --body "Closes #$ISSUE_NUMBER"
+          gh issue comment "$ISSUE_NUMBER" --body-file "${{ runner.temp }}/issue-result.md"

@@ -1,0 +1,22 @@
+name: Validate
+
+on:
+  pull_request:
+    paths: ["data.json", "scripts/**", "README.md"]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/validate.mjs
+      - name: README must match data.json
+        run: |
+          node scripts/build-readme.mjs
+          git diff --exit-code README.md || { echo "README.md is out of date. Run: node scripts/build-readme.mjs"; exit 1; }
