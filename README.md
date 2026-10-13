@@ -654,7 +654,6 @@ Resend: paid SaaS product.
 |---|---|---|---|
 | [useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc. | AGPL-3.0 | ★ 4.7k |
 | [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 836 |
-| [SolidPing](https://github.com/fclairamb/solidping) | Self-hostable uptime monitoring: 43 check types, multi-region workers, private agents, status pages, incidents and on-call escalation. | AGPL-3.0 |  |
 
 ### Screaming Frog
 
@@ -1339,6 +1338,7 @@ Pingdom: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 836 |
+| [SolidPing](https://github.com/fclairamb/solidping) | Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation. | AGPL-3.0 |  |
 
 ## Customer Support
 

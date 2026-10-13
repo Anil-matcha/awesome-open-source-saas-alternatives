@@ -2262,7 +2262,7 @@
     "name": "SolidPing",
     "repo": "fclairamb/solidping",
     "license": "AGPL-3.0",
-    "description": "Self-hostable uptime monitoring: 43 check types, multi-region workers, private agents, status pages, incidents and on-call escalation."
+    "description": "Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation."
    }
   ]
  },
