@@ -728,6 +728,14 @@ MakeUGC: paid SaaS product.
 |---|---|---|---|
 | [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 363 |
 
+### BuiltWith
+
+BuiltWith: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [looot-techstack](https://github.com/loootai/looot-techstack) | Self-hosted BuiltWith and Wappalyzer alternative: tech stack lookups from several providers side by side, paid per domain via looot. Demo mode. | MIT |  |
+
 ## AI
 
 ### ChatGPT
