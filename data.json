@@ -773,6 +773,12 @@
     "repo": "janhq/jan",
     "license": "NOASSERTION",
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+   },
+   {
+    "name": "JoeBro",
+    "repo": "joexk1/JoeBro",
+    "license": "GPL-3.0",
+    "description": "Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API."
    }
   ]
  },
