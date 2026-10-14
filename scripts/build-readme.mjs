@@ -42,6 +42,9 @@ let out = `# Awesome Open Source SaaS Alternatives [![Awesome](https://awesome.r
 
 > A curated list of open source alternatives to paid SaaS apps, with licenses and GitHub stars.
 
+<p align="center"><a href="https://youtu.be/tkp9Y9m_zJE"><img src="https://i.ytimg.com/vi/tkp9Y9m_zJE/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/tkp9Y9m_zJE"><b>▶ Watch: 10 Open-Source Alternatives That Replace Paid SaaS (2026) </b></a></p>
+
 Looking for a free, self-hostable replacement for a paid tool? Find the tool below and pick an alternative. **Want to add yours? [Submit it here](../../issues/new?template=add-alternative.yml)**, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
