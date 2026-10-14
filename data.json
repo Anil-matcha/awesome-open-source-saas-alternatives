@@ -2271,6 +2271,12 @@
     "repo": "gotempsh/temps",
     "license": "Apache-2.0",
     "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   },
+   {
+    "name": "SolidPing",
+    "repo": "fclairamb/solidping",
+    "license": "AGPL-3.0",
+    "description": "Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation."
    }
   ]
  },
