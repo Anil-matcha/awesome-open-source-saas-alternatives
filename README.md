@@ -46,6 +46,7 @@ All-in-one workspace for notes, docs and wikis.
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | EPL-2.0 | ★ 28k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | NOASSERTION | ★ 26k |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
+| [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 |  |
 
 ### Airtable
 
@@ -115,6 +116,14 @@ Adobe Acrobat: paid Adobe Creative Cloud product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [PdfCraft](https://github.com/storytold/pdfcraft) | PdfCraft: An open-source PDF reader and editor written from scratch in Rust | Apache-2.0 |  |
+
+### Awesome Screenshot
+
+Awesome Screenshot: freemium screenshot and screen recording tool.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [OpenCapture](https://github.com/Open-Capture/OpenCapture) | Local full-page screenshot extension with annotations, blur, and PNG or PDF export. | AGPL-3.0 |  |
 
 ### Confluence
 
@@ -1331,6 +1340,7 @@ Sentry: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 836 |
+| [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) | Self-hostable error tracker for small teams with grouped errors, source maps, and alerts. | MIT |  |
 
 ### Splunk
 
@@ -1503,6 +1513,7 @@ SubMagic: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 5.3k |
+| [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 |  |
 
 ### Klap
 
