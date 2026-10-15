@@ -786,6 +786,7 @@ Claude Cowork: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | See repo | ★ 5.7k |
+| [yylo](https://github.com/yylo-dev/yylo) | Self-hosted orchestration layer for AI coding agents: Kanban, task state, and merge orchestration for Claude Code, Codex, and other CLI agents. | MIT |  |
 
 ### Character.AI
 

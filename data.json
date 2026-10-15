@@ -2399,6 +2399,12 @@
     "repo": "Anil-matcha/open-dots",
     "license": "See repo",
     "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   },
+   {
+    "name": "yylo",
+    "repo": "yylo-dev/yylo",
+    "license": "MIT",
+    "description": "Self-hosted orchestration layer for AI coding agents: Kanban, task state, and merge orchestration for Claude Code, Codex, and other CLI agents."
    }
   ]
  },
