@@ -1161,6 +1161,12 @@
     "repo": "SamurAIGPT/geo-checker",
     "license": "See repo",
     "description": "Open-source AI GEO (Generative Engine Optimization) auditor"
+   },
+   {
+    "name": "AltoRank",
+    "repo": "AltoRank/altorank",
+    "license": "AGPL-3.0",
+    "description": "Open-source SEO content software: researches what your buyers search for and drafts sourced articles. Self-host it free."
    }
   ]
  },
@@ -2877,6 +2883,12 @@
     "repo": "SamurAIGPT/geo-checker",
     "license": "See repo",
     "description": "Open-source AI GEO (Generative Engine Optimization) auditor"
+   },
+   {
+    "name": "AltoRank",
+    "repo": "AltoRank/altorank",
+    "license": "AGPL-3.0",
+    "description": "Open-source SEO content software: researches what your buyers search for and drafts sourced articles. Self-host it free."
    }
   ]
  },
