@@ -52,6 +52,12 @@
     "repo": "oxynote/oxynote",
     "license": "Apache-2.0",
     "description": "Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes."
+   },
+   {
+    "name": "Leafdesk",
+    "repo": "esmworks/leafdesk",
+    "license": "Apache-2.0",
+    "description": "Self-hosted workspace of pages and databases with realtime collaboration and a built-in MCP server for AI assistants."
    }
   ]
  },
