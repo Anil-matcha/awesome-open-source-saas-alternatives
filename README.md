@@ -47,6 +47,7 @@ All-in-one workspace for notes, docs and wikis.
 | [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | NOASSERTION | ★ 26k |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
 | [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 |  |
+| [Leafdesk](https://github.com/esmworks/leafdesk) | Self-hosted workspace of pages and databases with realtime collaboration and a built-in MCP server for AI assistants. | Apache-2.0 |  |
 
 ### Airtable
 
