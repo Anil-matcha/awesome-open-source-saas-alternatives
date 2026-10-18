@@ -3173,5 +3173,19 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "ayrshare",
+  "name": "Ayrshare",
+  "category": "Marketing",
+  "description": "Social media publishing and analytics API.",
+  "alternatives": [
+   {
+    "name": "Social SDK",
+    "repo": "opencoredev/social-sdk",
+    "license": "MIT",
+    "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
+   }
+  ]
  }
 ]
