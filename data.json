@@ -52,6 +52,12 @@
     "repo": "oxynote/oxynote",
     "license": "Apache-2.0",
     "description": "Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes."
+   },
+   {
+    "name": "Koru",
+    "repo": "koruworks/mono",
+    "license": "MPL-2.0",
+    "description": "Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs."
    }
   ]
  },
