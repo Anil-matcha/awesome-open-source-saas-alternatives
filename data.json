@@ -2399,6 +2399,12 @@
     "repo": "Anil-matcha/open-dots",
     "license": "See repo",
     "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   },
+   {
+    "name": "Godmode Bot",
+    "repo": "codextde/godmode-bot",
+    "license": "MIT",
+    "description": "Desktop app that turns your Claude subscription into persistent agents doing computer work in your own browser, with a vault for passwords and 2FA codes."
    }
   ]
  },
