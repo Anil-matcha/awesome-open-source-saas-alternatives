@@ -469,6 +469,14 @@ Cloud file storage and sync.
 | [Nextcloud](https://github.com/nextcloud/server) | Self-hosted file sync, sharing and collaboration platform. | AGPL-3.0 | ★ 37k |
 | [Syncthing](https://github.com/syncthing/syncthing) | Peer-to-peer file sync. No cloud storage or share links. | MPL-2.0 | ★ 90k |
 
+### WeTransfer
+
+Send large files with a share link.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [anon.li](https://github.com/anondotli/anon.li) | End-to-end encrypted file sharing in the browser (AES-256-GCM) with expiry, download limits and password protection. | AGPL-3.0 |  |
+
 ## E-commerce
 
 ### Shopify
@@ -1408,6 +1416,7 @@ Forms and surveys.
 |---|---|---|---|
 | [Formbricks](https://github.com/formbricks/formbricks) | Open source survey and experience management. | AGPL-3.0 | ★ 13k |
 | [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) | 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o | NOASSERTION | ★ 3.8k |
+| [anon.li](https://github.com/anondotli/anon.li) | End-to-end encrypted forms: answers and file uploads are encrypted in the respondent's browser, so only the form owner can read them. | AGPL-3.0 |  |
 
 ### SurveyMonkey
 
@@ -1425,6 +1434,14 @@ Qualtrics: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) | 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o | NOASSERTION | ★ 3.8k |
+
+### Jotform
+
+Online form builder.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [anon.li](https://github.com/anondotli/anon.li) | End-to-end encrypted forms: answers and file uploads are encrypted in the respondent's browser, so only the form owner can read them. | AGPL-3.0 |  |
 
 ## Finance
 

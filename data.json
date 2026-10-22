@@ -635,6 +635,12 @@
     "repo": "LimeSurvey/LimeSurvey",
     "license": "NOASSERTION",
     "description": "🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create o"
+   },
+   {
+    "name": "anon.li",
+    "repo": "anondotli/anon.li",
+    "license": "AGPL-3.0",
+    "description": "End-to-end encrypted forms: answers and file uploads are encrypted in the respondent's browser, so only the form owner can read them."
    }
   ]
  },
@@ -3171,6 +3177,34 @@
     "repo": "Open-Capture/OpenCapture",
     "license": "AGPL-3.0",
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
+   }
+  ]
+ },
+ {
+  "slug": "wetransfer",
+  "name": "WeTransfer",
+  "category": "Storage",
+  "description": "Send large files with a share link.",
+  "alternatives": [
+   {
+    "name": "anon.li",
+    "repo": "anondotli/anon.li",
+    "license": "AGPL-3.0",
+    "description": "End-to-end encrypted file sharing in the browser (AES-256-GCM) with expiry, download limits and password protection."
+   }
+  ]
+ },
+ {
+  "slug": "jotform",
+  "name": "Jotform",
+  "category": "Forms",
+  "description": "Online form builder.",
+  "alternatives": [
+   {
+    "name": "anon.li",
+    "repo": "anondotli/anon.li",
+    "license": "AGPL-3.0",
+    "description": "End-to-end encrypted forms: answers and file uploads are encrypted in the respondent's browser, so only the form owner can read them."
    }
   ]
  }
