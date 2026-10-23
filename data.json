@@ -3173,5 +3173,19 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "gmail",
+  "name": "Gmail",
+  "category": "Communication",
+  "description": "Gmail: freemium email service.",
+  "alternatives": [
+   {
+    "name": "Aster Mail",
+    "repo": "Aster-Privacy/Aster-Mail",
+    "license": "AGPL-3.0",
+    "description": "End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains."
+   }
+  ]
  }
 ]
