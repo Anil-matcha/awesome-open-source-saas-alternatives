@@ -793,6 +793,12 @@
     "repo": "TabbyML/tabby",
     "license": "Apache-2.0 (core)",
     "description": "Self-hosted AI coding assistant."
+   },
+   {
+    "name": "Orbi",
+    "repo": "orbi-build/orbi",
+    "license": "AGPL-3.0",
+    "description": "Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review."
    }
   ]
  },
