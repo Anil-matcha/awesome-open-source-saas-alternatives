@@ -768,6 +768,7 @@ AI chat assistant.
 | [Ollama](https://github.com/ollama/ollama) | Run large language models locally. | MIT | ★ 184k |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Multi-provider ChatGPT-style interface. | MIT | ★ 46k |
 | [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | NOASSERTION | ★ 45k |
+| [JoeBro](https://github.com/joexk1/JoeBro) | Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API. | GPL-3.0 |  |
 
 ### Midjourney
 
