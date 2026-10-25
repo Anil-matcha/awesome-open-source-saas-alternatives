@@ -1437,6 +1437,12 @@
     "repo": "zachlatta/freeflow",
     "license": "MIT",
     "description": "Free & fast alternative to Wispr Flow"
+   },
+   {
+    "name": "Voltip",
+    "repo": "sunerpy/voltip",
+    "license": "AGPL-3.0",
+    "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary."
    }
   ]
  },
