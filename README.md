@@ -30,6 +30,7 @@ Looking for a free, self-hostable replacement for a paid tool? Find the tool bel
 - [Publishing](#publishing)
 - [Product](#product)
 - [Education](#education)
+- [Documentation](#documentation)
 
 ## Productivity
 
@@ -48,6 +49,7 @@ All-in-one workspace for notes, docs and wikis.
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
 | [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 226 |
 | [Koru](https://github.com/koruworks/mono) | Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs. | MPL-2.0 |  |
+| [BookmarkForge](https://github.com/bookmarkforge/bookmarkforge-core) | Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph. | MIT | ★ 2 |
 
 ### Airtable
 
@@ -57,6 +59,7 @@ Spreadsheet-database hybrid.
 |---|---|---|---|
 | [NocoDB](https://github.com/nocodb/nocodb) | Turns any database into a smart spreadsheet. | AGPL-3.0 | ★ 65k |
 | [Baserow](https://github.com/bram2w/baserow) | No-code database and application builder. | MIT | ★ 6.2k |
+| [Rowflare](https://github.com/rowflare/rowflare) | Airtable-style database you self-host on Cloudflare or Docker: views, formulas, automations, AI fields, REST API and MCP. | AGPL-3.0 | ★ 2 |
 
 ### Calendly
 
@@ -422,6 +425,14 @@ Business intelligence.
 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | NOASSERTION | ★ 25k |
 | [graphic-walker](https://github.com/Kanaries/graphic-walker) | An open source alternative to Tableau. Embeddable visual analytic | Apache-2.0 | ★ 3.3k |
 
+### Hotjar
+
+Hotjar: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Replayowl](https://github.com/replayowl/replayowl) | Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket. | AGPL-3.0 | ★ 1 |
+
 ## Automation
 
 ### Zapier
@@ -588,6 +599,7 @@ Email marketing.
 |---|---|---|---|
 | [Listmonk](https://github.com/knadh/listmonk) | Newsletter and mailing list manager. No automation workflows. | AGPL-3.0 | ★ 24k |
 | [forwardemail.net](https://github.com/forwardemail/forwardemail.net) | Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. | NOASSERTION | ★ 1.7k |
+| [SendLit](https://github.com/codelitdev/sendlit) | Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor. | AGPL-3.0 | ★ 0 |
 
 ### Linktree
 
@@ -654,6 +666,7 @@ Buffer: paid SaaS product.
 | [social-post](https://github.com/SamurAIGPT/social-post) | Open-source AI social media post generator | See repo | ★ 48 |
 | [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) | Free open-source AI social media scheduler — self-hostable alternative to Postiz, Buffer, and Hootsuite with built-in AI content generation. | MIT | ★ 6 |
 | [Unsora](https://github.com/Shipped-Studio/unsora) | AI media generation and social post scheduling app with a REST API and MCP server for AI agents. | AGPL-3.0 | ★ 3 |
+| [Yeet](https://github.com/shivam-taneja/yeet) | Free browser extension that auto cross-posts between X and Threads in both directions, with images. Runs locally, no API keys. | MIT | ★ 0 |
 
 ### SendGrid
 
@@ -1117,6 +1130,14 @@ Censys: paid SaaS product.
 |---|---|---|---|
 | [ivre](https://github.com/ivre/ivre) | Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, | GPL-3.0 | ★ 4.2k |
 
+### Okta
+
+Okta: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Casdoor](https://github.com/casdoor/casdoor) | Open-source IAM and SSO server for employees and customers: OIDC, SAML, LDAP, RADIUS, SCIM and MFA, self-hosted with no per-user fees. | Apache-2.0 | ★ 15k |
+
 ## Developer Tools
 
 ### Firebase
@@ -1154,6 +1175,7 @@ Identity and authentication platform.
 | [Ory Kratos](https://github.com/ory/kratos) | API-first identity and user management. | Apache-2.0 | ★ 14k |
 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Open source authentication with your own database. | Apache-2.0 | ★ 15k |
 | [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | NOASSERTION | ★ 9.0k |
+| [Casdoor](https://github.com/casdoor/casdoor) | Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user. | Apache-2.0 | ★ 15k |
 
 ### Postman
 
@@ -1333,6 +1355,7 @@ AWS Cognito: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
+| [Casdoor](https://github.com/casdoor/casdoor) | Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees. | Apache-2.0 | ★ 15k |
 
 ## Monitoring
 
@@ -1634,6 +1657,32 @@ Podia: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [courselit](https://github.com/codelitdev/courselit) | Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes | AGPL-3.0 | ★ 1.3k |
+
+## Documentation
+
+### Folge
+
+Folge: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 5 |
+
+### Scribe
+
+Scribe: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 5 |
+
+### Tango
+
+Tango: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 5 |
 
 ## Notes
 
