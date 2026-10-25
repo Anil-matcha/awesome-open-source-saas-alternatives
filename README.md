@@ -738,6 +738,14 @@ MakeUGC: paid SaaS product.
 |---|---|---|---|
 | [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 376 |
 
+### Ayrshare
+
+Social media publishing and analytics API.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Social SDK](https://github.com/opencoredev/social-sdk) | Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends. | MIT |  |
+
 ### BuiltWith
 
 BuiltWith: paid SaaS product.
