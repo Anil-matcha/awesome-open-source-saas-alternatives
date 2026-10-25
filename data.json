@@ -280,6 +280,12 @@
     "repo": "teamhanko/hanko",
     "license": "NOASSERTION",
     "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server with OIDC, OAuth 2.0, SAML, MFA and passkeys; self-host it instead of paying per monthly active user."
    }
   ]
  },
