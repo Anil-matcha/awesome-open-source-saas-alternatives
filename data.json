@@ -58,6 +58,12 @@
     "repo": "koruworks/mono",
     "license": "MPL-2.0",
     "description": "Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs."
+   },
+   {
+    "name": "BookmarkForge",
+    "repo": "bookmarkforge/bookmarkforge-core",
+    "license": "MIT",
+    "description": "Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph."
    }
   ]
  },
@@ -286,6 +292,12 @@
     "repo": "teamhanko/hanko",
     "license": "NOASSERTION",
     "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user."
    }
   ]
  },
@@ -306,6 +318,12 @@
     "repo": "bram2w/baserow",
     "license": "MIT",
     "description": "No-code database and application builder."
+   },
+   {
+    "name": "Rowflare",
+    "repo": "rowflare/rowflare",
+    "license": "AGPL-3.0",
+    "description": "Airtable-style database you self-host on Cloudflare or Docker: views, formulas, automations, AI fields, REST API and MCP."
    }
   ]
  },
@@ -661,6 +679,12 @@
     "repo": "forwardemail/forwardemail.net",
     "license": "NOASSERTION",
     "description": "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+   },
+   {
+    "name": "SendLit",
+    "repo": "codelitdev/sendlit",
+    "license": "AGPL-3.0",
+    "description": "Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor."
    }
   ]
  },
@@ -1269,6 +1293,12 @@
     "repo": "supertokens/supertokens-core",
     "license": "NOASSERTION",
     "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito "
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees."
    }
   ]
  },
@@ -1983,6 +2013,12 @@
     "repo": "Shipped-Studio/unsora",
     "license": "AGPL-3.0",
     "description": "AI media generation and social post scheduling app with a REST API and MCP server for AI agents."
+   },
+   {
+    "name": "Yeet",
+    "repo": "shivam-taneja/yeet",
+    "license": "MIT",
+    "description": "Free browser extension that auto cross-posts between X and Threads in both directions, with images. Runs locally, no API keys."
    }
   ]
  },
@@ -3218,6 +3254,76 @@
     "repo": "leoAnimesh/lodestar",
     "license": "MIT",
     "description": "Native keyboard launcher for Mac with clipboard history, emoji picker, calculator, color picker and script commands. No account or tracking."
+   }
+  ]
+ },
+ {
+  "slug": "okta",
+  "name": "Okta",
+  "category": "Security",
+  "description": "Okta: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server for employees and customers: OIDC, SAML, LDAP, RADIUS, SCIM and MFA, self-hosted with no per-user fees."
+   }
+  ]
+ },
+ {
+  "slug": "tango",
+  "name": "Tango",
+  "category": "Documentation",
+  "description": "Tango: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "scribe",
+  "name": "Scribe",
+  "category": "Documentation",
+  "description": "Scribe: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "folge",
+  "name": "Folge",
+  "category": "Documentation",
+  "description": "Folge: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "hotjar",
+  "name": "Hotjar",
+  "category": "Analytics",
+  "description": "Hotjar: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Replayowl",
+    "repo": "replayowl/replayowl",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
  }
