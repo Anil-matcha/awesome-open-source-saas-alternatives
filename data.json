@@ -1959,6 +1959,12 @@
     "repo": "Shipped-Studio/unsora",
     "license": "AGPL-3.0",
     "description": "AI media generation and social post scheduling app with a REST API and MCP server for AI agents."
+   },
+   {
+    "name": "Yeet",
+    "repo": "shivam-taneja/yeet",
+    "license": "MIT",
+    "description": "Free browser extension that auto cross-posts between X and Threads in both directions, with images. Runs locally, no API keys."
    }
   ]
  },
