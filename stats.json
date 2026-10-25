@@ -958,5 +958,40 @@
     "stars": 39,
     "license": "AGPL-3.0",
     "pushedAt": "2026-10-12T02:28:15Z"
+  },
+  "codelitdev/sendlit": {
+    "stars": 0,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-25T12:29:04Z"
+  },
+  "casdoor/casdoor": {
+    "stars": 14659,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-10-25T13:52:02Z"
+  },
+  "shivam-taneja/yeet": {
+    "stars": 0,
+    "license": "MIT",
+    "pushedAt": "2026-10-24T15:12:23Z"
+  },
+  "bookmarkforge/bookmarkforge-core": {
+    "stars": 2,
+    "license": "MIT",
+    "pushedAt": "2026-10-25T02:43:34Z"
+  },
+  "rowflare/rowflare": {
+    "stars": 2,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-23T02:23:53Z"
+  },
+  "Twest2/StepForge": {
+    "stars": 5,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-10-25T04:42:14Z"
+  },
+  "replayowl/replayowl": {
+    "stars": 1,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-22T09:15:28Z"
   }
 }
