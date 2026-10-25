@@ -133,6 +133,14 @@ Confluence: paid SaaS product.
 |---|---|---|---|
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
 
+### Raycast
+
+Raycast: freemium Mac launcher with a paid Pro subscription.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Lodestar](https://github.com/leoAnimesh/lodestar) | Native keyboard launcher for Mac with clipboard history, emoji picker, calculator, color picker and script commands. No account or tracking. | MIT |  |
+
 ## Communication
 
 ### Slack
