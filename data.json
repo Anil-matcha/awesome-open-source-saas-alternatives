@@ -3173,5 +3173,19 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "hotjar",
+  "name": "Hotjar",
+  "category": "Analytics",
+  "description": "Hotjar: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Replayowl",
+    "repo": "replayowl/replayowl",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
+   }
+  ]
  }
 ]
