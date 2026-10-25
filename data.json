@@ -54,9 +54,21 @@
     "description": "Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes."
    },
    {
+    "name": "Koru",
+    "repo": "koruworks/mono",
+    "license": "MPL-2.0",
+    "description": "Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs."
+   },
+   {
+    "name": "BookmarkForge",
+    "repo": "bookmarkforge/bookmarkforge-core",
+    "license": "MIT",
+    "description": "Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph."
+   },
+   {
     "name": "Leafdesk",
     "repo": "esmworks/leafdesk",
-    "license": "Apache-2.0",
+    "license": "AGPL-3.0",
     "description": "Self-hosted workspace of pages and databases with realtime collaboration and a built-in MCP server for AI assistants."
    }
   ]
@@ -286,6 +298,12 @@
     "repo": "teamhanko/hanko",
     "license": "NOASSERTION",
     "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user."
    }
   ]
  },
@@ -306,6 +324,12 @@
     "repo": "bram2w/baserow",
     "license": "MIT",
     "description": "No-code database and application builder."
+   },
+   {
+    "name": "Rowflare",
+    "repo": "rowflare/rowflare",
+    "license": "AGPL-3.0",
+    "description": "Airtable-style database you self-host on Cloudflare or Docker: views, formulas, automations, AI fields, REST API and MCP."
    }
   ]
  },
@@ -661,6 +685,12 @@
     "repo": "forwardemail/forwardemail.net",
     "license": "NOASSERTION",
     "description": "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+   },
+   {
+    "name": "SendLit",
+    "repo": "codelitdev/sendlit",
+    "license": "AGPL-3.0",
+    "description": "Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor."
    }
   ]
  },
@@ -779,6 +809,12 @@
     "repo": "janhq/jan",
     "license": "NOASSERTION",
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer."
+   },
+   {
+    "name": "JoeBro",
+    "repo": "joexk1/JoeBro",
+    "license": "GPL-3.0",
+    "description": "Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API."
    }
   ]
  },
@@ -799,6 +835,12 @@
     "repo": "TabbyML/tabby",
     "license": "Apache-2.0 (core)",
     "description": "Self-hosted AI coding assistant."
+   },
+   {
+    "name": "Orbi",
+    "repo": "orbi-build/orbi",
+    "license": "AGPL-3.0",
+    "description": "Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review."
    }
   ]
  },
@@ -1257,6 +1299,12 @@
     "repo": "supertokens/supertokens-core",
     "license": "NOASSERTION",
     "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito "
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees."
    }
   ]
  },
@@ -1437,6 +1485,12 @@
     "repo": "zachlatta/freeflow",
     "license": "MIT",
     "description": "Free & fast alternative to Wispr Flow"
+   },
+   {
+    "name": "Voltip",
+    "repo": "sunerpy/voltip",
+    "license": "AGPL-3.0",
+    "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary."
    }
   ]
  },
@@ -1965,6 +2019,12 @@
     "repo": "Shipped-Studio/unsora",
     "license": "AGPL-3.0",
     "description": "AI media generation and social post scheduling app with a REST API and MCP server for AI agents."
+   },
+   {
+    "name": "Yeet",
+    "repo": "shivam-taneja/yeet",
+    "license": "MIT",
+    "description": "Free browser extension that auto cross-posts between X and Threads in both directions, with images. Runs locally, no API keys."
    }
   ]
  },
@@ -2405,6 +2465,12 @@
     "repo": "Anil-matcha/open-dots",
     "license": "See repo",
     "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   },
+   {
+    "name": "Godmode Bot",
+    "repo": "codextde/godmode-bot",
+    "license": "MIT",
+    "description": "Desktop app that turns your Claude subscription into persistent agents doing computer work in your own browser, with a vault for passwords and 2FA codes."
    }
   ]
  },
@@ -3177,6 +3243,93 @@
     "repo": "Open-Capture/OpenCapture",
     "license": "AGPL-3.0",
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
+   }
+  ]
+ },
+ {
+  "slug": "raycast",
+  "name": "Raycast",
+  "category": "Productivity",
+  "description": "Raycast: freemium Mac launcher with a paid Pro subscription.",
+  "domains": [
+   "raycast.com"
+  ],
+  "alternatives": [
+   {
+    "name": "Lodestar",
+    "repo": "leoAnimesh/lodestar",
+    "license": "MIT",
+    "description": "Native keyboard launcher for Mac with clipboard history, emoji picker, calculator, color picker and script commands. No account or tracking."
+   }
+  ]
+ },
+ {
+  "slug": "okta",
+  "name": "Okta",
+  "category": "Security",
+  "description": "Okta: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server for employees and customers: OIDC, SAML, LDAP, RADIUS, SCIM and MFA, self-hosted with no per-user fees."
+   }
+  ]
+ },
+ {
+  "slug": "tango",
+  "name": "Tango",
+  "category": "Documentation",
+  "description": "Tango: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "scribe",
+  "name": "Scribe",
+  "category": "Documentation",
+  "description": "Scribe: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "folge",
+  "name": "Folge",
+  "category": "Documentation",
+  "description": "Folge: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
+ },
+ {
+  "slug": "hotjar",
+  "name": "Hotjar",
+  "category": "Analytics",
+  "description": "Hotjar: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Replayowl",
+    "repo": "replayowl/replayowl",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
  }
