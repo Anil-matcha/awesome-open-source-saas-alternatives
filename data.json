@@ -3173,5 +3173,19 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "okta",
+  "name": "Okta",
+  "category": "Security",
+  "description": "Okta: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source IAM and SSO server for employees and customers: OIDC, SAML, LDAP, RADIUS, SCIM and MFA, self-hosted with no per-user fees."
+   }
+  ]
  }
 ]
