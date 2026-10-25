@@ -655,6 +655,12 @@
     "repo": "forwardemail/forwardemail.net",
     "license": "NOASSERTION",
     "description": "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+   },
+   {
+    "name": "SendLit",
+    "repo": "codelitdev/sendlit",
+    "license": "AGPL-3.0",
+    "description": "Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor."
    }
   ]
  },

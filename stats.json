@@ -1,553 +1,558 @@
 {
   "AppFlowy-IO/AppFlowy": {
-    "stars": 77553,
+    "stars": 77756,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-08T11:00:14Z"
+    "pushedAt": "2026-10-21T04:12:10Z"
   },
   "toeverything/AFFiNE": {
-    "stars": 73651,
+    "stars": 73835,
     "license": null,
-    "pushedAt": "2026-10-12T09:51:10Z"
+    "pushedAt": "2026-10-25T15:13:07Z"
   },
   "siyuan-note/siyuan": {
-    "stars": 46835,
+    "stars": 46931,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T10:59:37Z"
+    "pushedAt": "2026-10-25T16:55:38Z"
   },
   "logseq/logseq": {
-    "stars": 45291,
+    "stars": 45372,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:00:11Z"
+    "pushedAt": "2026-10-25T16:44:45Z"
   },
   "hcengineering/platform": {
-    "stars": 27940,
+    "stars": 27985,
     "license": "EPL-2.0",
-    "pushedAt": "2026-10-19T06:40:36Z"
+    "pushedAt": "2026-10-23T00:33:48Z"
   },
   "mattermost-community/focalboard": {
-    "stars": 26519,
+    "stars": 26526,
     "license": null,
     "pushedAt": "2026-05-18T16:05:00Z"
   },
   "docmost/docmost": {
-    "stars": 22032,
+    "stars": 22093,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-18T20:23:51Z"
+    "pushedAt": "2026-10-25T14:12:25Z"
   },
   "oxynote/oxynote": {
-    "stars": 226,
+    "stars": 368,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T10:15:18Z"
+    "pushedAt": "2026-10-25T13:38:06Z"
   },
   "mattermost/mattermost": {
-    "stars": 39379,
+    "stars": 39430,
     "license": null,
-    "pushedAt": "2026-10-19T10:58:22Z"
+    "pushedAt": "2026-10-25T17:43:10Z"
   },
   "RocketChat/Rocket.Chat": {
-    "stars": 46288,
+    "stars": 46324,
     "license": null,
-    "pushedAt": "2026-10-19T07:04:56Z"
+    "pushedAt": "2026-10-25T03:43:40Z"
   },
   "zulip/zulip": {
-    "stars": 26069,
+    "stars": 26112,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T16:22:46Z"
+    "pushedAt": "2026-10-25T15:21:35Z"
   },
   "TryQuiet/quiet": {
-    "stars": 2659,
+    "stars": 2658,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T10:18:17Z"
+    "pushedAt": "2026-10-25T07:19:15Z"
   },
   "jitsi/jitsi-meet": {
-    "stars": 30104,
+    "stars": 30142,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:02:04Z"
+    "pushedAt": "2026-10-23T21:51:31Z"
   },
   "miroslavpejic85/mirotalksfu": {
-    "stars": 3130,
+    "stars": 3136,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T07:04:00Z"
+    "pushedAt": "2026-10-25T10:04:33Z"
   },
   "plausible/analytics": {
-    "stars": 29548,
+    "stars": 29653,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T10:46:51Z"
+    "pushedAt": "2026-10-25T10:10:34Z"
   },
   "umami-software/umami": {
-    "stars": 39459,
+    "stars": 39679,
     "license": "MIT",
-    "pushedAt": "2026-10-17T08:54:13Z"
+    "pushedAt": "2026-10-23T21:58:32Z"
   },
   "PostHog/posthog": {
-    "stars": 40343,
+    "stars": 40432,
     "license": null,
-    "pushedAt": "2026-10-19T11:19:49Z"
+    "pushedAt": "2026-10-25T17:41:38Z"
   },
   "matomo-org/matomo": {
-    "stars": 21960,
+    "stars": 21981,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T09:14:03Z"
+    "pushedAt": "2026-10-25T04:53:35Z"
   },
   "rybbit-io/rybbit": {
-    "stars": 13137,
+    "stars": 13159,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T03:31:58Z"
+    "pushedAt": "2026-10-25T01:32:23Z"
   },
   "vinceanalytics/vince": {
-    "stars": 2011,
+    "stars": 2009,
     "license": "AGPL-3.0",
     "pushedAt": "2025-09-01T07:17:47Z"
   },
   "Litlyx/litlyx": {
-    "stars": 1744,
+    "stars": 1747,
     "license": "Apache-2.0",
     "pushedAt": "2025-12-03T16:11:28Z"
   },
   "xynehq/xyne": {
-    "stars": 696,
+    "stars": 697,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-15T16:47:24Z"
+    "pushedAt": "2026-10-22T13:01:52Z"
   },
   "supabase/supabase": {
-    "stars": 111762,
+    "stars": 113915,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T11:17:44Z"
+    "pushedAt": "2026-10-25T00:37:17Z"
   },
   "appwrite/appwrite": {
-    "stars": 57727,
+    "stars": 57757,
     "license": "BSD-3-Clause",
-    "pushedAt": "2026-10-19T11:14:00Z"
+    "pushedAt": "2026-10-25T15:13:57Z"
   },
   "pocketbase/pocketbase": {
-    "stars": 61489,
+    "stars": 61609,
     "license": "MIT",
-    "pushedAt": "2026-10-14T18:45:14Z"
+    "pushedAt": "2026-10-23T12:26:56Z"
   },
   "supertokens/supertokens-core": {
-    "stars": 15350,
+    "stars": 15332,
     "license": null,
-    "pushedAt": "2026-10-19T11:04:14Z"
+    "pushedAt": "2026-10-23T07:24:51Z"
   },
   "measure-sh/measure": {
-    "stars": 1412,
+    "stars": 1418,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T12:11:56Z"
+    "pushedAt": "2026-10-25T08:48:26Z"
   },
   "coollabsio/coolify": {
-    "stars": 63189,
+    "stars": 64084,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T11:03:52Z"
+    "pushedAt": "2026-10-25T17:09:19Z"
   },
   "dokku/dokku": {
-    "stars": 32194,
+    "stars": 32202,
     "license": "MIT",
-    "pushedAt": "2026-10-16T21:13:07Z"
+    "pushedAt": "2026-10-25T02:53:45Z"
   },
   "caprover/caprover": {
-    "stars": 15189,
+    "stars": 15191,
     "license": null,
-    "pushedAt": "2026-10-19T05:23:41Z"
+    "pushedAt": "2026-10-25T06:49:32Z"
   },
   "Dokploy/dokploy": {
-    "stars": 37862,
+    "stars": 38015,
     "license": null,
-    "pushedAt": "2026-10-16T15:40:46Z"
+    "pushedAt": "2026-10-25T12:46:11Z"
   },
   "kubero-dev/kubero": {
-    "stars": 4442,
+    "stars": 4445,
     "license": "GPL-3.0",
     "pushedAt": "2026-10-13T06:31:12Z"
   },
   "gotempsh/temps": {
-    "stars": 851,
+    "stars": 867,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:39:41Z"
+    "pushedAt": "2026-10-25T17:26:43Z"
   },
   "keycloak/keycloak": {
-    "stars": 37431,
+    "stars": 37510,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T00:57:16Z"
+    "pushedAt": "2026-10-25T03:09:37Z"
   },
   "ory/kratos": {
-    "stars": 13921,
+    "stars": 13935,
     "license": "Apache-2.0",
     "pushedAt": "2026-07-29T09:30:37Z"
   },
   "teamhanko/hanko": {
-    "stars": 9043,
-    "license": null,
-    "pushedAt": "2026-10-16T19:52:54Z"
+    "stars": 9047,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-25T17:41:37Z"
   },
   "nocodb/nocodb": {
-    "stars": 65293,
+    "stars": 65355,
     "license": null,
-    "pushedAt": "2026-10-19T10:46:33Z"
+    "pushedAt": "2026-10-25T02:51:06Z"
   },
   "bram2w/baserow": {
-    "stars": 6175,
+    "stars": 6219,
     "license": null,
-    "pushedAt": "2026-10-19T10:46:10Z"
+    "pushedAt": "2026-10-24T20:29:21Z"
   },
   "activepieces/activepieces": {
-    "stars": 25106,
+    "stars": 25219,
     "license": null,
-    "pushedAt": "2026-10-19T11:08:14Z"
+    "pushedAt": "2026-10-25T17:40:10Z"
   },
   "huginn/huginn": {
-    "stars": 50081,
+    "stars": 50135,
     "license": "MIT",
-    "pushedAt": "2026-10-18T12:51:25Z"
+    "pushedAt": "2026-10-24T19:12:51Z"
   },
   "n8n-io/n8n": {
-    "stars": 207985,
+    "stars": 208562,
     "license": null,
-    "pushedAt": "2026-10-19T11:19:36Z"
+    "pushedAt": "2026-10-25T17:42:46Z"
   },
   "bytechefhq/bytechef": {
-    "stars": 1023,
+    "stars": 1047,
     "license": null,
-    "pushedAt": "2026-10-19T11:19:23Z"
+    "pushedAt": "2026-10-25T17:43:40Z"
   },
   "nextcloud/server": {
-    "stars": 37178,
+    "stars": 37289,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:16:51Z"
+    "pushedAt": "2026-10-25T17:30:26Z"
   },
   "syncthing/syncthing": {
-    "stars": 89527,
+    "stars": 89730,
     "license": "MPL-2.0",
-    "pushedAt": "2026-10-19T03:55:13Z"
+    "pushedAt": "2026-10-24T01:17:48Z"
   },
   "bitwarden/server": {
-    "stars": 20410,
+    "stars": 20475,
     "license": null,
-    "pushedAt": "2026-10-19T10:57:34Z"
+    "pushedAt": "2026-10-25T17:39:49Z"
   },
   "dani-garcia/vaultwarden": {
-    "stars": 69287,
+    "stars": 69650,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-16T09:51:32Z"
+    "pushedAt": "2026-10-25T16:08:09Z"
   },
   "keepassxreboot/keepassxc": {
-    "stars": 29310,
+    "stars": 29479,
     "license": null,
-    "pushedAt": "2026-10-18T19:26:32Z"
+    "pushedAt": "2026-10-23T23:14:20Z"
   },
   "storytold/photocraft": {
-    "stars": 67989,
+    "stars": 72730,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:25:12Z"
+    "pushedAt": "2026-10-25T16:32:10Z"
   },
   "KDE/krita": {
-    "stars": 10584,
+    "stars": 10632,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T07:55:50Z"
+    "pushedAt": "2026-10-25T01:52:45Z"
   },
   "penpot/penpot": {
-    "stars": 61360,
+    "stars": 61657,
     "license": "MPL-2.0",
-    "pushedAt": "2026-10-19T11:04:28Z"
+    "pushedAt": "2026-10-23T21:31:19Z"
   },
   "storytold/filmcraft": {
-    "stars": 14952,
+    "stars": 16243,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T03:50:10Z"
+    "pushedAt": "2026-10-25T16:32:06Z"
   },
   "KDE/kdenlive": {
-    "stars": 5896,
+    "stars": 5935,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T02:02:04Z"
+    "pushedAt": "2026-10-25T14:58:04Z"
   },
   "OpenShot/openshot-qt": {
-    "stars": 6656,
+    "stars": 6692,
     "license": null,
-    "pushedAt": "2026-10-18T21:07:10Z"
+    "pushedAt": "2026-10-25T04:29:03Z"
   },
   "storytold/deckcraft": {
-    "stars": 3842,
+    "stars": 4248,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T18:35:18Z"
+    "pushedAt": "2026-10-25T17:18:05Z"
   },
   "storytold/gridcraft": {
-    "stars": 5817,
+    "stars": 6492,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:20:34Z"
+    "pushedAt": "2026-10-25T16:32:02Z"
   },
   "LibreOffice/core": {
-    "stars": 4533,
+    "stars": 4558,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T11:11:40Z"
+    "pushedAt": "2026-10-25T12:27:14Z"
   },
   "ONLYOFFICE/DocumentServer": {
-    "stars": 7031,
+    "stars": 7052,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-16T09:39:04Z"
+    "pushedAt": "2026-10-22T17:52:53Z"
   },
   "makeplane/plane": {
-    "stars": 61122,
+    "stars": 61420,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T09:15:32Z"
+    "pushedAt": "2026-10-23T15:40:15Z"
   },
   "Paca-AI/paca": {
-    "stars": 1956,
+    "stars": 1980,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T09:38:33Z"
+    "pushedAt": "2026-10-25T14:31:14Z"
   },
   "wekan/wekan": {
-    "stars": 21125,
+    "stars": 21137,
     "license": "MIT",
-    "pushedAt": "2026-10-18T20:52:43Z"
+    "pushedAt": "2026-10-25T16:13:44Z"
   },
   "twentyhq/twenty": {
-    "stars": 58524,
+    "stars": 59725,
     "license": null,
-    "pushedAt": "2026-10-19T11:18:37Z"
+    "pushedAt": "2026-10-25T17:30:28Z"
   },
   "chatwoot/chatwoot": {
-    "stars": 37947,
+    "stars": 38244,
     "license": null,
-    "pushedAt": "2026-10-19T10:48:10Z"
+    "pushedAt": "2026-10-25T03:55:32Z"
   },
   "melgarafael/DeskcommCRM": {
-    "stars": 4696,
+    "stars": 4848,
     "license": "MIT",
-    "pushedAt": "2026-10-19T03:44:13Z"
+    "pushedAt": "2026-10-24T19:43:53Z"
   },
   "chaskiq/chaskiq": {
-    "stars": 3574,
+    "stars": 3578,
     "license": null,
     "pushedAt": "2026-06-30T17:20:11Z"
   },
   "abhinavxd/libredesk": {
-    "stars": 3054,
+    "stars": 3079,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T09:47:53Z"
+    "pushedAt": "2026-10-25T17:13:15Z"
   },
   "zammad/zammad": {
-    "stars": 6018,
+    "stars": 6030,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-16T13:58:35Z"
+    "pushedAt": "2026-10-25T12:22:42Z"
   },
   "calcom/cal.com": {
-    "stars": 49148,
+    "stars": 49347,
     "license": "MIT",
-    "pushedAt": "2026-10-18T10:27:02Z"
+    "pushedAt": "2026-10-19T18:46:00Z"
   },
   "formbricks/formbricks": {
-    "stars": 13124,
+    "stars": 13150,
     "license": null,
-    "pushedAt": "2026-10-19T11:15:09Z"
+    "pushedAt": "2026-10-24T13:34:47Z"
   },
   "LimeSurvey/LimeSurvey": {
-    "stars": 3769,
+    "stars": 3778,
     "license": null,
-    "pushedAt": "2026-10-19T11:14:34Z"
+    "pushedAt": "2026-10-25T16:38:48Z"
   },
   "knadh/listmonk": {
-    "stars": 23841,
+    "stars": 23965,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T07:42:51Z"
+    "pushedAt": "2026-10-24T02:18:43Z"
   },
   "forwardemail/forwardemail.net": {
-    "stars": 1686,
+    "stars": 1690,
     "license": null,
-    "pushedAt": "2026-10-19T04:13:56Z"
+    "pushedAt": "2026-10-23T22:30:47Z"
+  },
+  "codelitdev/sendlit": {
+    "stars": 0,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-25T12:29:04Z"
   },
   "medusajs/medusa": {
-    "stars": 36799,
+    "stars": 36939,
     "license": null,
-    "pushedAt": "2026-10-19T11:17:34Z"
+    "pushedAt": "2026-10-25T16:03:02Z"
   },
   "saleor/saleor": {
-    "stars": 23455,
+    "stars": 23477,
     "license": "BSD-3-Clause",
-    "pushedAt": "2026-10-19T11:18:47Z"
+    "pushedAt": "2026-10-23T17:42:09Z"
   },
   "getlago/lago": {
-    "stars": 10691,
+    "stars": 10711,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:07:08Z"
+    "pushedAt": "2026-10-23T14:34:55Z"
   },
   "grafana/grafana": {
-    "stars": 77367,
+    "stars": 77493,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:19:42Z"
+    "pushedAt": "2026-10-25T17:19:43Z"
   },
   "SigNoz/signoz": {
-    "stars": 32387,
+    "stars": 32441,
     "license": null,
-    "pushedAt": "2026-10-19T11:19:15Z"
+    "pushedAt": "2026-10-25T16:36:15Z"
   },
   "openobserve/openobserve": {
-    "stars": 22429,
+    "stars": 22486,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:18:48Z"
+    "pushedAt": "2026-10-25T17:24:50Z"
   },
   "laurent22/joplin": {
-    "stars": 56792,
+    "stars": 56871,
     "license": null,
-    "pushedAt": "2026-10-19T11:07:42Z"
+    "pushedAt": "2026-10-25T12:58:49Z"
   },
   "streetwriters/notesnook": {
-    "stars": 14791,
+    "stars": 14830,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T06:36:22Z"
+    "pushedAt": "2026-10-24T07:00:37Z"
   },
   "Anil-matcha/open-spaces": {
-    "stars": 921,
+    "stars": 922,
     "license": "MIT",
     "pushedAt": "2026-10-13T21:46:21Z"
   },
   "open-webui/open-webui": {
-    "stars": 156139,
+    "stars": 156726,
     "license": null,
-    "pushedAt": "2026-10-18T20:02:00Z"
+    "pushedAt": "2026-10-25T08:07:12Z"
   },
   "ollama/ollama": {
-    "stars": 183801,
+    "stars": 184754,
     "license": "MIT",
-    "pushedAt": "2026-10-18T18:44:30Z"
+    "pushedAt": "2026-10-24T18:03:30Z"
   },
   "danny-avila/LibreChat": {
-    "stars": 45968,
+    "stars": 46302,
     "license": "MIT",
-    "pushedAt": "2026-10-19T10:08:15Z"
+    "pushedAt": "2026-10-25T17:32:46Z"
   },
   "janhq/jan": {
-    "stars": 45010,
+    "stars": 45079,
     "license": null,
-    "pushedAt": "2026-10-19T10:00:19Z"
+    "pushedAt": "2026-10-24T15:19:58Z"
   },
   "continuedev/continue": {
-    "stars": 36258,
+    "stars": 36320,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T18:34:51Z"
+    "pushedAt": "2026-10-25T15:04:29Z"
   },
   "TabbyML/tabby": {
-    "stars": 33916,
+    "stars": 33921,
     "license": null,
     "pushedAt": "2026-06-30T20:38:02Z"
   },
   "Anil-matcha/Open-Generative-AI": {
-    "stars": 30831,
+    "stars": 31497,
     "license": "MIT",
-    "pushedAt": "2026-10-15T09:55:05Z"
+    "pushedAt": "2026-10-24T10:44:32Z"
   },
   "comfyanonymous/ComfyUI": {
-    "stars": 139116,
+    "stars": 142871,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T10:54:06Z"
+    "pushedAt": "2026-10-25T17:27:00Z"
   },
   "AUTOMATIC1111/stable-diffusion-webui": {
-    "stars": 165070,
+    "stars": 165141,
     "license": "AGPL-3.0",
     "pushedAt": "2026-03-02T07:00:53Z"
   },
   "CapSoftware/Cap": {
-    "stars": 23415,
+    "stars": 23753,
     "license": null,
-    "pushedAt": "2026-10-19T11:14:05Z"
+    "pushedAt": "2026-10-25T17:35:26Z"
   },
   "KartikLabhshetwar/better-shot": {
-    "stars": 2400,
+    "stars": 2414,
     "license": null,
-    "pushedAt": "2026-10-11T13:54:28Z"
+    "pushedAt": "2026-10-24T18:22:36Z"
   },
   "excalidraw/excalidraw": {
-    "stars": 134155,
+    "stars": 134532,
     "license": "MIT",
-    "pushedAt": "2026-10-19T09:56:20Z"
+    "pushedAt": "2026-10-25T11:27:16Z"
   },
   "jgraph/drawio": {
-    "stars": 8863,
+    "stars": 8983,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T10:53:15Z"
+    "pushedAt": "2026-10-23T17:44:10Z"
   },
   "usebruno/bruno": {
-    "stars": 47734,
+    "stars": 47836,
     "license": "MIT",
-    "pushedAt": "2026-10-19T10:09:22Z"
+    "pushedAt": "2026-10-24T10:20:09Z"
   },
   "hoppscotch/hoppscotch": {
-    "stars": 80654,
+    "stars": 80681,
     "license": "MIT",
-    "pushedAt": "2026-10-19T05:20:32Z"
+    "pushedAt": "2026-10-23T08:14:56Z"
   },
   "alexandrehtrb/Pororoca": {
     "stars": 669,
     "license": null,
-    "pushedAt": "2026-10-15T19:45:45Z"
+    "pushedAt": "2026-10-21T19:00:04Z"
   },
   "opentofu/opentofu": {
-    "stars": 30540,
+    "stars": 30616,
     "license": "MPL-2.0",
-    "pushedAt": "2026-10-19T10:09:07Z"
+    "pushedAt": "2026-10-23T13:47:21Z"
   },
   "TryGhost/Ghost": {
-    "stars": 55565,
+    "stars": 55602,
     "license": "MIT",
-    "pushedAt": "2026-10-19T11:11:32Z"
+    "pushedAt": "2026-10-25T16:17:16Z"
   },
   "appsmithorg/appsmith": {
-    "stars": 41084,
+    "stars": 41118,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T09:26:40Z"
+    "pushedAt": "2026-10-25T15:17:21Z"
   },
   "ToolJet/ToolJet": {
-    "stars": 41107,
+    "stars": 41125,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T10:50:53Z"
+    "pushedAt": "2026-10-25T17:36:29Z"
   },
   "windmill-labs/windmill": {
-    "stars": 18218,
+    "stars": 18262,
     "license": null,
-    "pushedAt": "2026-10-19T11:12:46Z"
+    "pushedAt": "2026-10-25T16:42:49Z"
   },
   "metabase/metabase": {
-    "stars": 49731,
+    "stars": 49840,
     "license": null,
-    "pushedAt": "2026-10-19T11:13:13Z"
+    "pushedAt": "2026-10-25T17:24:33Z"
   },
   "apache/superset": {
-    "stars": 75210,
+    "stars": 75301,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:54:25Z"
+    "pushedAt": "2026-10-25T16:44:36Z"
   },
   "dataease/dataease": {
-    "stars": 24617,
+    "stars": 24631,
     "license": null,
-    "pushedAt": "2026-10-19T10:52:07Z"
+    "pushedAt": "2026-10-24T09:57:01Z"
   },
   "Kanaries/graphic-walker": {
-    "stars": 3268,
+    "stars": 3275,
     "license": "Apache-2.0",
     "pushedAt": "2026-10-13T16:15:26Z"
   },
   "meilisearch/meilisearch": {
-    "stars": 59607,
+    "stars": 59665,
     "license": null,
-    "pushedAt": "2026-10-19T07:55:36Z"
+    "pushedAt": "2026-10-23T14:46:02Z"
   },
   "typesense/typesense": {
-    "stars": 27004,
+    "stars": 27043,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-13T05:46:12Z"
+    "pushedAt": "2026-10-25T06:56:25Z"
   },
   "Unleash/unleash": {
-    "stars": 13884,
+    "stars": 13902,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:14:57Z"
+    "pushedAt": "2026-10-23T13:07:17Z"
   },
   "documenso/documenso": {
-    "stars": 15468,
+    "stars": 15558,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T10:08:13Z"
+    "pushedAt": "2026-10-23T12:50:03Z"
   },
   "croffasia/itsaplan": {
-    "stars": 1405,
+    "stars": 1944,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-18T22:49:29Z"
+    "pushedAt": "2026-10-25T16:43:03Z"
   },
   "SamurAIGPT/geo-checker": {
     "stars": 15,
@@ -555,9 +560,9 @@
     "pushedAt": "2026-08-02T09:37:44Z"
   },
   "every-app/open-seo": {
-    "stars": 24099,
+    "stars": 24919,
     "license": "MIT",
-    "pushedAt": "2026-10-14T06:57:07Z"
+    "pushedAt": "2026-10-25T10:44:23Z"
   },
   "loootai/looot-techstack": {
     "stars": 0,
@@ -565,102 +570,102 @@
     "pushedAt": "2026-10-14T00:09:33Z"
   },
   "valeriansaliou/sonic": {
-    "stars": 21364,
+    "stars": 21369,
     "license": "MPL-2.0",
-    "pushedAt": "2026-10-15T15:01:02Z"
+    "pushedAt": "2026-10-21T20:17:55Z"
   },
   "centrifugal/centrifugo": {
-    "stars": 10887,
+    "stars": 10921,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T15:00:36Z"
+    "pushedAt": "2026-10-25T15:19:10Z"
   },
   "CoreBunch/Instatic": {
-    "stars": 8975,
+    "stars": 9011,
     "license": "MIT",
     "pushedAt": "2026-10-13T18:13:43Z"
   },
   "fonoster/fonoster": {
-    "stars": 8141,
+    "stars": 8149,
     "license": "MIT",
-    "pushedAt": "2026-10-19T11:16:58Z"
+    "pushedAt": "2026-10-25T17:20:56Z"
   },
   "Openpanel-dev/openpanel": {
-    "stars": 7162,
+    "stars": 7194,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T10:30:13Z"
+    "pushedAt": "2026-10-24T21:20:10Z"
   },
   "Beingpax/VoiceInk": {
-    "stars": 6854,
+    "stars": 6918,
     "license": null,
-    "pushedAt": "2026-10-18T14:08:40Z"
+    "pushedAt": "2026-10-25T15:46:37Z"
   },
   "zachlatta/freeflow": {
-    "stars": 2942,
+    "stars": 2971,
     "license": "MIT",
-    "pushedAt": "2026-10-16T05:02:59Z"
+    "pushedAt": "2026-10-23T05:07:57Z"
   },
   "dograh-hq/dograh": {
-    "stars": 5905,
+    "stars": 5952,
     "license": "BSD-2-Clause",
-    "pushedAt": "2026-10-19T06:04:43Z"
+    "pushedAt": "2026-10-24T01:32:03Z"
   },
   "Anil-matcha/ai-clipping-comfyui": {
-    "stars": 30,
+    "stars": 31,
     "license": "MIT",
     "pushedAt": "2026-07-21T08:24:20Z"
   },
   "Anil-matcha/AI-Youtube-Shorts-Generator": {
-    "stars": 5487,
+    "stars": 5594,
     "license": "MIT",
-    "pushedAt": "2026-10-11T11:19:33Z"
+    "pushedAt": "2026-10-24T17:01:38Z"
   },
   "usesend/useSend": {
-    "stars": 4739,
+    "stars": 4757,
     "license": "AGPL-3.0",
     "pushedAt": "2026-10-18T21:22:57Z"
   },
   "hyvor/relay": {
     "stars": 918,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-15T11:53:04Z"
+    "pushedAt": "2026-10-21T18:21:53Z"
   },
   "ivre/ivre": {
-    "stars": 4180,
+    "stars": 4187,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-01T17:46:08Z"
+    "pushedAt": "2026-10-23T23:43:14Z"
   },
   "javahuang/SurveyKing": {
-    "stars": 4029,
+    "stars": 4032,
     "license": "MIT",
     "pushedAt": "2026-08-26T00:03:50Z"
   },
   "bigcapitalhq/bigcapital": {
-    "stars": 3946,
+    "stars": 3957,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:04:33Z"
+    "pushedAt": "2026-10-23T08:25:30Z"
   },
   "spliit-app/spliit": {
-    "stars": 3000,
+    "stars": 3015,
     "license": "MIT",
-    "pushedAt": "2026-10-19T04:32:22Z"
+    "pushedAt": "2026-10-22T09:11:32Z"
   },
   "oss-apps/split-pro": {
-    "stars": 1472,
+    "stars": 1475,
     "license": "MIT",
-    "pushedAt": "2026-10-15T21:34:28Z"
+    "pushedAt": "2026-10-20T19:20:11Z"
   },
   "serversideup/financial-freedom": {
-    "stars": 2953,
+    "stars": 2951,
     "license": "GPL-3.0",
     "pushedAt": "2026-09-28T15:15:59Z"
   },
   "Natively-AI-assistant/natively-cluely-ai-assistant": {
-    "stars": 3020,
+    "stars": 3078,
     "license": null,
-    "pushedAt": "2026-10-19T06:48:17Z"
+    "pushedAt": "2026-10-25T16:45:01Z"
   },
   "iamsrikanthnani/pluely": {
-    "stars": 2750,
+    "stars": 2752,
     "license": "GPL-3.0",
     "pushedAt": "2026-09-21T06:53:11Z"
   },
@@ -670,52 +675,52 @@
     "pushedAt": "2025-09-14T00:43:07Z"
   },
   "laudspeaker/laudspeaker": {
-    "stars": 2627,
+    "stars": 2629,
     "license": null,
     "pushedAt": "2026-07-10T17:26:33Z"
   },
   "usertour/usertour": {
-    "stars": 2324,
+    "stars": 2327,
     "license": null,
-    "pushedAt": "2026-10-18T11:08:24Z"
+    "pushedAt": "2026-10-25T09:34:42Z"
   },
   "SamurAIGPT/Vibe-Workflow": {
-    "stars": 625,
+    "stars": 632,
     "license": "MIT",
     "pushedAt": "2026-09-17T15:37:33Z"
   },
   "SamurAIGPT/social-post": {
-    "stars": 48,
+    "stars": 49,
     "license": null,
     "pushedAt": "2026-07-27T10:24:34Z"
   },
   "Anil-matcha/Free-AI-Social-Media-Scheduler": {
-    "stars": 6,
+    "stars": 10,
     "license": "MIT",
     "pushedAt": "2026-10-07T14:41:37Z"
   },
   "Shipped-Studio/unsora": {
     "stars": 3,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-18T14:23:05Z"
+    "pushedAt": "2026-10-20T17:31:37Z"
   },
   "brightbeanxyz/brightbean-studio": {
-    "stars": 2523,
+    "stars": 2569,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-17T17:20:14Z"
+    "pushedAt": "2026-10-25T11:02:51Z"
   },
   "lzhgus/Capso": {
-    "stars": 1440,
+    "stars": 1461,
     "license": null,
-    "pushedAt": "2026-10-18T03:29:57Z"
+    "pushedAt": "2026-10-24T03:19:54Z"
   },
   "andydunstall/piko": {
-    "stars": 2197,
+    "stars": 2199,
     "license": "MIT",
-    "pushedAt": "2026-10-19T04:06:08Z"
+    "pushedAt": "2026-10-25T10:10:19Z"
   },
   "run-llama/notebookllama": {
-    "stars": 1977,
+    "stars": 1978,
     "license": "MIT",
     "pushedAt": "2026-03-02T08:58:20Z"
   },
@@ -725,62 +730,62 @@
     "pushedAt": "2026-01-16T13:45:31Z"
   },
   "classroomio/classroomio": {
-    "stars": 1724,
+    "stars": 1728,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:06:10Z"
+    "pushedAt": "2026-10-25T15:40:36Z"
   },
   "codelitdev/courselit": {
-    "stars": 1279,
+    "stars": 1285,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-09T03:00:08Z"
+    "pushedAt": "2026-10-25T03:13:48Z"
   },
   "hexdocom/lemonai": {
-    "stars": 1571,
+    "stars": 1570,
     "license": null,
     "pushedAt": "2026-02-03T10:39:31Z"
   },
   "wundergraph/cosmo": {
-    "stars": 1278,
+    "stars": 1283,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T11:08:32Z"
+    "pushedAt": "2026-10-25T12:13:06Z"
   },
   "AFK-surf/open-agent": {
-    "stars": 1035,
+    "stars": 1037,
     "license": "Apache-2.0",
     "pushedAt": "2025-10-10T08:38:46Z"
   },
   "PhialsBasement/LibreCrawl": {
-    "stars": 1064,
+    "stars": 1075,
     "license": "MIT",
     "pushedAt": "2026-09-29T08:57:57Z"
   },
   "goposta/posta": {
-    "stars": 601,
+    "stars": 622,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T03:54:20Z"
+    "pushedAt": "2026-10-22T04:19:35Z"
   },
   "Anil-matcha/open-agent-connector": {
-    "stars": 843,
+    "stars": 845,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:45:26Z"
+    "pushedAt": "2026-10-23T09:37:59Z"
   },
   "Telemetry-Tracker/telemetry-tracker": {
-    "stars": 34,
+    "stars": 35,
     "license": "MIT",
-    "pushedAt": "2026-10-19T11:16:55Z"
+    "pushedAt": "2026-10-25T09:05:47Z"
   },
   "fclairamb/solidping": {
-    "stars": 22,
+    "stars": 26,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T11:16:42Z"
+    "pushedAt": "2026-10-25T17:19:45Z"
   },
   "captableinc/captable": {
-    "stars": 824,
+    "stars": 825,
     "license": "AGPL-3.0",
     "pushedAt": "2025-06-04T07:53:09Z"
   },
   "vkuznecovas/mouthful": {
-    "stars": 776,
+    "stars": 777,
     "license": "MIT",
     "pushedAt": "2025-10-08T07:27:12Z"
   },
@@ -790,42 +795,42 @@
     "pushedAt": "2026-04-24T23:31:12Z"
   },
   "Anil-matcha/open-dots": {
-    "stars": 5880,
-    "license": null,
-    "pushedAt": "2026-10-19T08:47:18Z"
+    "stars": 6170,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-10-25T17:39:34Z"
   },
   "Anil-matcha/open-grok-bot": {
-    "stars": 14,
+    "stars": 15,
     "license": null,
     "pushedAt": "2026-09-20T05:10:03Z"
   },
   "open-subs/opensubs": {
-    "stars": 115,
+    "stars": 127,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-16T02:12:29Z"
+    "pushedAt": "2026-10-24T03:19:16Z"
   },
   "Anil-matcha/Open-AI-Design-Agent": {
-    "stars": 458,
+    "stars": 468,
     "license": "MIT",
     "pushedAt": "2026-10-01T10:58:02Z"
   },
   "Anil-matcha/Open-AI-UGC": {
-    "stars": 376,
+    "stars": 394,
     "license": "MIT",
     "pushedAt": "2026-10-01T10:58:04Z"
   },
   "SamurAIGPT/ai-character-studio": {
-    "stars": 23,
+    "stars": 25,
     "license": null,
-    "pushedAt": "2026-07-27T10:43:18Z"
+    "pushedAt": "2026-10-22T18:29:41Z"
   },
   "Anil-matcha/open-character-ai": {
-    "stars": 57,
+    "stars": 60,
     "license": null,
     "pushedAt": "2026-09-29T07:16:58Z"
   },
   "Anil-matcha/open-claude-tag": {
-    "stars": 17,
+    "stars": 18,
     "license": "MIT",
     "pushedAt": "2026-08-17T06:51:31Z"
   },
@@ -895,7 +900,7 @@
     "pushedAt": "2026-08-02T09:37:18Z"
   },
   "SamurAIGPT/ai-professional-makeup-generator": {
-    "stars": 11,
+    "stars": 12,
     "license": null,
     "pushedAt": "2026-08-02T09:37:26Z"
   },
@@ -905,7 +910,7 @@
     "pushedAt": "2026-08-02T09:37:28Z"
   },
   "SamurAIGPT/mail-wise": {
-    "stars": 7,
+    "stars": 8,
     "license": null,
     "pushedAt": "2026-07-27T10:26:41Z"
   },
@@ -925,38 +930,38 @@
     "pushedAt": "2026-08-02T09:37:22Z"
   },
   "SamurAIGPT/ai-saas-starter": {
-    "stars": 27,
+    "stars": 28,
     "license": null,
-    "pushedAt": "2026-08-02T09:38:06Z"
+    "pushedAt": "2026-10-22T18:29:42Z"
   },
   "storytold/vectorcraft": {
-    "stars": 9920,
+    "stars": 10656,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T18:39:23Z"
+    "pushedAt": "2026-10-25T16:32:46Z"
   },
   "storytold/lightcraft": {
-    "stars": 13787,
+    "stars": 14632,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:22:17Z"
+    "pushedAt": "2026-10-25T13:52:06Z"
   },
   "storytold/effectcraft": {
-    "stars": 7373,
+    "stars": 7882,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T18:36:11Z"
+    "pushedAt": "2026-10-25T17:14:29Z"
   },
   "storytold/designcraft": {
-    "stars": 4436,
+    "stars": 4772,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T10:14:38Z"
+    "pushedAt": "2026-10-25T17:35:27Z"
   },
   "storytold/pdfcraft": {
-    "stars": 16089,
+    "stars": 17787,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-19T06:59:27Z"
+    "pushedAt": "2026-10-25T17:18:24Z"
   },
   "Open-Capture/OpenCapture": {
-    "stars": 39,
+    "stars": 40,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-12T02:28:15Z"
+    "pushedAt": "2026-10-21T12:29:44Z"
   }
 }
