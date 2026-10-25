@@ -1251,6 +1251,12 @@
     "repo": "supertokens/supertokens-core",
     "license": "NOASSERTION",
     "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito "
+   },
+   {
+    "name": "Casdoor",
+    "repo": "casdoor/casdoor",
+    "license": "Apache-2.0",
+    "description": "Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees."
    }
   ]
  },
