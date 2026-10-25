@@ -3173,5 +3173,22 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "raycast",
+  "name": "Raycast",
+  "category": "Productivity",
+  "description": "Raycast: freemium Mac launcher with a paid Pro subscription.",
+  "domains": [
+   "raycast.com"
+  ],
+  "alternatives": [
+   {
+    "name": "Lodestar",
+    "repo": "leoAnimesh/lodestar",
+    "license": "MIT",
+    "description": "Native keyboard launcher for Mac with clipboard history, emoji picker, calculator, color picker and script commands. No account or tracking."
+   }
+  ]
  }
 ]
