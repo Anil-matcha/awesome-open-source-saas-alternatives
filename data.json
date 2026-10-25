@@ -300,6 +300,12 @@
     "repo": "bram2w/baserow",
     "license": "MIT",
     "description": "No-code database and application builder."
+   },
+   {
+    "name": "Rowflare",
+    "repo": "rowflare/rowflare",
+    "license": "AGPL-3.0",
+    "description": "Airtable-style database you self-host on Cloudflare or Docker: views, formulas, automations, AI fields, REST API and MCP."
    }
   ]
  },
