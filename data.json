@@ -3173,5 +3173,19 @@
     "description": "Local full-page screenshot extension with annotations, blur, and PNG or PDF export."
    }
   ]
+ },
+ {
+  "slug": "folge",
+  "name": "Folge",
+  "category": "Documentation",
+  "description": "Folge: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "StepForge",
+    "repo": "Twest2/StepForge",
+    "license": "Apache-2.0",
+    "description": "Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power"
+   }
+  ]
  }
 ]
