@@ -180,6 +180,14 @@ Twilio: paid SaaS product.
 |---|---|---|---|
 | [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio. | MIT | ★ 8.1k |
 
+### Gmail
+
+Gmail: freemium email service.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) | End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains. | AGPL-3.0 |  |
+
 ### Google Meet
 
 Google Meet: paid SaaS product.
