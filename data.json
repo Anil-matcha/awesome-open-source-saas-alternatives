@@ -639,6 +639,12 @@
     "repo": "calcom/cal.com",
     "license": "AGPL-3.0",
     "description": "Scheduling infrastructure for everyone."
+   },
+   {
+    "name": "laravel-appointment-reminders",
+    "repo": "jy7lsna/laravel-appointment-reminders",
+    "license": "MIT",
+    "description": "Laravel appointment booking with confirmation emails, calendar invites and automatic reminder emails."
    }
   ]
  },
@@ -1383,6 +1389,12 @@
     "repo": "teamhanko/hanko",
     "license": "NOASSERTION",
     "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
+   },
+   {
+    "name": "express-email-otp-login",
+    "repo": "manishgupta412/express-email-otp-login",
+    "license": "MIT",
+    "description": "Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API."
    }
   ]
  },
@@ -3324,6 +3336,48 @@
     "repo": "replayowl/replayowl",
     "license": "AGPL-3.0",
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
+   }
+  ]
+ },
+ {
+  "slug": "viral-loops",
+  "name": "Viral Loops",
+  "category": "Marketing",
+  "description": "Viral Loops: paid waitlist and referral marketing platform.",
+  "alternatives": [
+   {
+    "name": "nextjs-waitlist-double-opt-in",
+    "repo": "Sid-Lais/nextjs-waitlist-double-opt-in",
+    "license": "MIT",
+    "description": "Next.js waitlist with double opt-in confirmation, a referral queue and a bulk launch email, sent via the Mailtrap Email API."
+   }
+  ]
+ },
+ {
+  "slug": "prisync",
+  "name": "Prisync",
+  "category": "E-commerce",
+  "description": "Prisync: paid price tracking and monitoring software.",
+  "alternatives": [
+   {
+    "name": "python-price-drop-alerts",
+    "repo": "manishgupta412/python-price-drop-alerts",
+    "license": "MIT",
+    "description": "Price-drop and back-in-stock email alerts in Python, run on a GitHub Actions schedule, with a local price-history dashboard."
+   }
+  ]
+ },
+ {
+  "slug": "chaser",
+  "name": "Chaser",
+  "category": "Finance",
+  "description": "Chaser: paid invoice reminder and payment chasing software.",
+  "alternatives": [
+   {
+    "name": "django-invoice-reminders",
+    "repo": "Sid-Lais/django-invoice-reminders",
+    "license": "MIT",
+    "description": "Automated invoice payment reminder emails for Django, sent on a schedule via the Mailtrap Email API."
    }
   ]
  }
