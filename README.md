@@ -68,6 +68,7 @@ Scheduling and booking.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for everyone. | MIT | ★ 49k |
+| [laravel-appointment-reminders](https://github.com/jy7lsna/laravel-appointment-reminders) | Laravel appointment booking with confirmation emails, calendar invites and automatic reminder emails. | MIT |  |
 
 ### Microsoft Office
 
@@ -516,6 +517,14 @@ Lalaland: paid SaaS product.
 |---|---|---|---|
 | [ai-tryon](https://github.com/SamurAIGPT/ai-tryon) | Open-source AI virtual try-on tool | See repo | ★ 15 |
 
+### Prisync
+
+Prisync: paid price tracking and monitoring software.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [python-price-drop-alerts](https://github.com/manishgupta412/python-price-drop-alerts) | Price-drop and back-in-stock email alerts in Python, run on a GitHub Actions schedule, with a local price-history dashboard. | MIT |  |
+
 ## CRM
 
 ### Salesforce
@@ -767,6 +776,14 @@ BuiltWith: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [looot-techstack](https://github.com/loootai/looot-techstack) | Self-hosted BuiltWith and Wappalyzer alternative: tech stack lookups from several providers side by side, paid per domain via looot. Demo mode. | MIT | ★ 0 |
+
+### Viral Loops
+
+Viral Loops: paid waitlist and referral marketing platform.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) | Next.js waitlist with double opt-in confirmation, a referral queue and a bulk launch email, sent via the Mailtrap Email API. | MIT |  |
 
 ## AI
 
@@ -1271,6 +1288,7 @@ Stytch: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.0k |
+| [express-email-otp-login](https://github.com/manishgupta412/express-email-otp-login) | Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API. | MIT |  |
 
 ### Algolia
 
@@ -1512,6 +1530,14 @@ Carta: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [captable](https://github.com/captableinc/captable) | #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. | AGPL-3.0 | ★ 825 |
+
+### Chaser
+
+Chaser: paid invoice reminder and payment chasing software.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [django-invoice-reminders](https://github.com/Sid-Lais/django-invoice-reminders) | Automated invoice payment reminder emails for Django, sent on a schedule via the Mailtrap Email API. | MIT |  |
 
 ## Video
 
