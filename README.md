@@ -50,6 +50,7 @@ All-in-one workspace for notes, docs and wikis.
 | [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 376 |
 | [Koru](https://github.com/koruworks/mono) | Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs. | MPL-2.0 | ★ 18 |
 | [BookmarkForge](https://github.com/bookmarkforge/bookmarkforge-core) | Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph. | MIT | ★ 2 |
+| [Leafdesk](https://github.com/esmworks/leafdesk) | Self-hosted workspace of pages and databases with realtime collaboration and a built-in MCP server for AI assistants. | AGPL-3.0 |  |
 
 ### Airtable
 
