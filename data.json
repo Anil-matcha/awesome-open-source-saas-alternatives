@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "obsidian",
+  "name": "Obsidian",
+  "category": "Productivity",
+  "description": "Obsidian: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Opensidian",
+    "repo": "jpzk/opensidian",
+    "license": "GPL-3.0",
+    "description": "A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins"
+   }
+  ]
  }
 ]

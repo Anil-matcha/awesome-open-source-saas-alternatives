@@ -47,8 +47,8 @@ All-in-one workspace for notes, docs and wikis.
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | EPL-2.0 | ★ 28k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | NOASSERTION | ★ 27k |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
-| [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 376 |
-| [Koru](https://github.com/koruworks/mono) | Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs. | MPL-2.0 | ★ 18 |
+| [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 403 |
+| [Koru](https://github.com/koruworks/mono) | Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs. | MPL-2.0 | ★ 21 |
 | [BookmarkForge](https://github.com/bookmarkforge/bookmarkforge-core) | Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph. | MIT | ★ 2 |
 
 ### Airtable
@@ -76,7 +76,7 @@ Documents, spreadsheets and presentations.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [DeckCraft](https://github.com/storytold/deckcraft) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Apache-2.0 | ★ 4.3k |
-| [GridCraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. | Apache-2.0 | ★ 6.5k |
+| [GridCraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. | Apache-2.0 | ★ 6.7k |
 | [LibreOffice](https://github.com/LibreOffice/core) | Full office suite with Writer, Calc and Impress. | GPL-3.0 | ★ 4.6k |
 | [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) | Online editors compatible with Office formats. | AGPL-3.0 | ★ 7.1k |
 
@@ -145,6 +145,14 @@ Confluence: paid SaaS product.
 |---|---|---|---|
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
 
+### Obsidian
+
+Obsidian: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Opensidian](https://github.com/jpzk/opensidian) | A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins | GPL-3.0 | ★ 303 |
+
 ## Communication
 
 ### Slack
@@ -182,7 +190,7 @@ Claude Tag: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-claude-tag](https://github.com/Anil-matcha/open-claude-tag) | Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic. | MIT | ★ 18 |
+| [open-claude-tag](https://github.com/Anil-matcha/open-claude-tag) | Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic. | MIT | ★ 19 |
 
 ### Twilio
 
@@ -190,7 +198,7 @@ Twilio: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio. | MIT | ★ 8.1k |
+| [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio. | MIT | ★ 8.2k |
 
 ### Google Meet
 
@@ -224,7 +232,7 @@ Raster image editing.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [PhotoCraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written from scratch in Rust | Apache-2.0 | ★ 73k |
+| [PhotoCraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written from scratch in Rust | Apache-2.0 | ★ 74k |
 | [Krita](https://github.com/KDE/krita) | Digital painting and illustration. For photo editing, see GIMP. | GPL-3.0 | ★ 11k |
 | [GIMP](https://www.gimp.org) | Long-standing free image editor. | GPL-3.0 |  |
 
@@ -274,7 +282,7 @@ Lovart: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 468 |
+| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 470 |
 
 ### Looka
 
@@ -282,7 +290,7 @@ Looka: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [ai-logo-studio](https://github.com/SamurAIGPT/ai-logo-studio) | Open-source AI logo generator & brand identity studio | See repo | ★ 9 |
+| [ai-logo-studio](https://github.com/SamurAIGPT/ai-logo-studio) | Open-source AI logo generator & brand identity studio | See repo | ★ 10 |
 
 ### Watermarkremover.io
 
@@ -290,7 +298,7 @@ Watermarkremover.io: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [clearmark-ai](https://github.com/SamurAIGPT/clearmark-ai) | Open-source AI watermark remover | See repo | ★ 9 |
+| [clearmark-ai](https://github.com/SamurAIGPT/clearmark-ai) | Open-source AI watermark remover | See repo | ★ 10 |
 
 ### HitPaw
 
@@ -298,7 +306,7 @@ HitPaw: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [clearmark-ai](https://github.com/SamurAIGPT/clearmark-ai) | Open-source AI watermark remover | See repo | ★ 9 |
+| [clearmark-ai](https://github.com/SamurAIGPT/clearmark-ai) | Open-source AI watermark remover | See repo | ★ 10 |
 
 ### Brandmark
 
@@ -306,7 +314,7 @@ Brandmark: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [ai-logo-studio](https://github.com/SamurAIGPT/ai-logo-studio) | Open-source AI logo generator & brand identity studio | See repo | ★ 9 |
+| [ai-logo-studio](https://github.com/SamurAIGPT/ai-logo-studio) | Open-source AI logo generator & brand identity studio | See repo | ★ 10 |
 
 ### Galileo AI
 
@@ -314,7 +322,7 @@ Galileo AI: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 468 |
+| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 470 |
 
 ### Flair AI
 
@@ -322,7 +330,7 @@ Flair AI: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Open-source AI product photography studio for Amazon sellers | See repo | ★ 18 |
+| [amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Open-source AI product photography studio for Amazon sellers | See repo | ★ 19 |
 
 ### Pebblely
 
@@ -338,7 +346,7 @@ Magic Patterns: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 468 |
+| [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | Open-source AI design agent | MIT | ★ 470 |
 
 ### RoomGPT
 
@@ -362,7 +370,7 @@ Booth AI: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Open-source AI product photography studio for Amazon sellers | See repo | ★ 18 |
+| [amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Open-source AI product photography studio for Amazon sellers | See repo | ★ 19 |
 
 ### Adobe Illustrator
 
@@ -444,7 +452,7 @@ No-code workflow automation.
 | [Activepieces](https://github.com/activepieces/activepieces) | No-code business automation with an extensible piece system. | MIT | ★ 25k |
 | [Huginn](https://github.com/huginn/huginn) | Build agents that monitor and act on your behalf. | MIT | ★ 50k |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow automation with a visual editor. Fair-code, not OSI open source. | Sustainable Use (fair-code) | ★ 209k |
-| [bytechef](https://github.com/bytechefhq/bytechef) | Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier. | NOASSERTION | ★ 1.0k |
+| [bytechef](https://github.com/bytechefhq/bytechef) | Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier. | NOASSERTION | ★ 1.1k |
 
 ### Composio
 
@@ -542,7 +550,7 @@ Issue and project tracking.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Plane](https://github.com/makeplane/plane) | Issues, cycles and modules for modern teams. | AGPL-3.0 | ★ 61k |
+| [Plane](https://github.com/makeplane/plane) | Issues, cycles and modules for modern teams. | AGPL-3.0 | ★ 62k |
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | EPL-2.0 | ★ 28k |
 | [Paca](https://github.com/Paca-AI/paca) | AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same | Apache-2.0 | ★ 2.0k |
 
@@ -647,7 +655,7 @@ Semrush: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 15 |
+| [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 16 |
 
 ### Hootsuite
 
@@ -685,7 +693,7 @@ Resend: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc. | AGPL-3.0 | ★ 4.8k |
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 871 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 874 |
 
 ### Screaming Frog
 
@@ -702,7 +710,7 @@ Mailgun: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [relay](https://github.com/hyvor/relay) | 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid. | AGPL-3.0 | ★ 918 |
-| [posta](https://github.com/goposta/posta) | Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analy | AGPL-3.0 | ★ 623 |
+| [posta](https://github.com/goposta/posta) | Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analy | AGPL-3.0 | ★ 626 |
 
 ### Surfer SEO
 
@@ -710,7 +718,7 @@ Surfer SEO: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 15 |
+| [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 16 |
 
 ### SocialPilot
 
@@ -742,7 +750,7 @@ Arcads: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 395 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 398 |
 
 ### Lavender
 
@@ -758,7 +766,7 @@ MakeUGC: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 395 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 398 |
 
 ### BuiltWith
 
@@ -781,7 +789,7 @@ AI chat assistant.
 | [Ollama](https://github.com/ollama/ollama) | Run large language models locally. | MIT | ★ 185k |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Multi-provider ChatGPT-style interface. | MIT | ★ 46k |
 | [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | NOASSERTION | ★ 45k |
-| [JoeBro](https://github.com/joexk1/JoeBro) | Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API. | GPL-3.0 | ★ 90 |
+| [JoeBro](https://github.com/joexk1/JoeBro) | Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API. | GPL-3.0 | ★ 91 |
 
 ### Midjourney
 
@@ -790,7 +798,7 @@ AI image generation.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hostable AI image and video generation studio with 600+ models. | MIT | ★ 32k |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based diffusion workflow engine. Quality depends on the model you load. | GPL-3.0 | ★ 143k |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based diffusion workflow engine. Quality depends on the model you load. | GPL-3.0 | ★ 144k |
 | [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Self-hosted image generation with Stable Diffusion models. | AGPL-3.0 | ★ 165k |
 
 ### GitHub Copilot
@@ -827,7 +835,7 @@ Freepik: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 632 |
+| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 633 |
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hostable AI image and video generation studio with 600+ models. | MIT | ★ 32k |
 
 ### Grok Bot
@@ -887,7 +895,7 @@ Wispr Flow: paid SaaS product.
 |---|---|---|---|
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription | NOASSERTION | ★ 6.9k |
 | [freeflow](https://github.com/zachlatta/freeflow) | Free & fast alternative to Wispr Flow | MIT | ★ 3.0k |
-| [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 36 |
+| [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 46 |
 
 ### Genspark
 
@@ -921,7 +929,7 @@ Krea: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Self-hostable AI image and video generation studio with 600+ models. | MIT | ★ 32k |
-| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 632 |
+| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 633 |
 
 ### Remini
 
@@ -930,7 +938,7 @@ Remini: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [ai-wedding-photo](https://github.com/SamurAIGPT/ai-wedding-photo) | Open-source AI wedding photo generator | See repo | ★ 8 |
-| [old-photo-restore](https://github.com/SamurAIGPT/old-photo-restore) | Open-source AI old photo restoration tool | See repo | ★ 13 |
+| [old-photo-restore](https://github.com/SamurAIGPT/old-photo-restore) | Open-source AI old photo restoration tool | See repo | ★ 14 |
 
 ### Murf AI
 
@@ -955,7 +963,7 @@ Weavy: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 632 |
+| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 633 |
 
 ### Vapi
 
@@ -1052,7 +1060,7 @@ FloraFauna AI: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 632 |
+| [Vibe-Workflow](https://github.com/SamurAIGPT/Vibe-Workflow) | Free, open-source alternative to Weavy AI, Krea Nodes, Freepik Spaces & FloraFauna AI — node-based AI workflow builder for generative image & video pipelines | MIT | ★ 633 |
 
 ### Ink Hunter
 
@@ -1162,8 +1170,8 @@ Frontend hosting and deployment platform.
 | [Dokku](https://github.com/dokku/dokku) | Self-hosted Heroku-style PaaS. Lacks preview deploys and edge features. | MIT | ★ 32k |
 | [CapRover](https://github.com/caprover/caprover) | Self-hosted PaaS on Docker and nginx. Covers hosting and deploys only. | Apache-2.0 | ★ 15k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 38k |
-| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.4k |
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 871 |
+| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 874 |
 
 ### Auth0
 
@@ -1174,7 +1182,7 @@ Identity and authentication platform.
 | [Keycloak](https://github.com/keycloak/keycloak) | Identity and access management for apps and services. | Apache-2.0 | ★ 38k |
 | [Ory Kratos](https://github.com/ory/kratos) | API-first identity and user management. | Apache-2.0 | ★ 14k |
 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Open source authentication with your own database. | Apache-2.0 | ★ 15k |
-| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.0k |
+| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user. | Apache-2.0 | ★ 15k |
 
 ### Postman
@@ -1185,7 +1193,7 @@ API testing and development.
 |---|---|---|---|
 | [Bruno](https://github.com/usebruno/bruno) | Git-friendly offline API client. | MIT | ★ 48k |
 | [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | Lightweight open source API development ecosystem. | MIT | ★ 81k |
-| [Pororoca](https://github.com/alexandrehtrb/Pororoca) | An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman. | NOASSERTION | ★ 669 |
+| [Pororoca](https://github.com/alexandrehtrb/Pororoca) | An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman. | NOASSERTION | ★ 672 |
 
 ### LaunchDarkly
 
@@ -1209,7 +1217,7 @@ Elastic Cloud: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 22k |
+| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 23k |
 | [Sonic](https://github.com/valeriansaliou/sonic) | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. | MPL-2.0 | ★ 21k |
 
 ### Netlify
@@ -1220,7 +1228,7 @@ Netlify: paid SaaS product.
 |---|---|---|---|
 | [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ | Apache-2.0 | ★ 65k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 38k |
-| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.4k |
+| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
 
 ### Clerk
 
@@ -1228,7 +1236,7 @@ Clerk: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.0k |
+| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 
 ### Heroku
 
@@ -1238,7 +1246,7 @@ Heroku: paid SaaS product.
 |---|---|---|---|
 | [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ | Apache-2.0 | ★ 65k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 38k |
-| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.4k |
+| [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
 
 ### Terraform
 
@@ -1270,7 +1278,7 @@ Stytch: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.0k |
+| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 
 ### Algolia
 
@@ -1287,7 +1295,7 @@ WorkOS: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.0k |
+| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 
 ### Retool
 
@@ -1346,7 +1354,7 @@ ShipFast: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) | Production-ready Next.js AI SaaS boilerplate | See repo | ★ 28 |
+| [ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) | Production-ready Next.js AI SaaS boilerplate | See repo | ★ 27 |
 
 ### AWS Cognito
 
@@ -1367,7 +1375,7 @@ Infrastructure and application monitoring.
 |---|---|---|---|
 | [Grafana](https://github.com/grafana/grafana) | Dashboards and metrics for monitoring. Usually paired with Prometheus. | AGPL-3.0 | ★ 78k |
 | [SigNoz](https://github.com/SigNoz/signoz) | OpenTelemetry-native APM, logs and traces. | MIT (core) | ★ 32k |
-| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 22k |
+| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 23k |
 
 ### Sentry
 
@@ -1375,8 +1383,8 @@ Sentry: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 871 |
-| [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) | Self-hostable error tracker for small teams with grouped errors, source maps, and alerts. | MIT | ★ 35 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 874 |
+| [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) | Self-hostable error tracker for small teams with grouped errors, source maps, and alerts. | MIT | ★ 34 |
 
 ### Splunk
 
@@ -1384,7 +1392,7 @@ Splunk: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 22k |
+| [openobserve](https://github.com/openobserve/openobserve) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, si | AGPL-3.0 | ★ 23k |
 
 ### Pingdom
 
@@ -1392,7 +1400,7 @@ Pingdom: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 871 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 874 |
 | [SolidPing](https://github.com/fclairamb/solidping) | Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation. | AGPL-3.0 | ★ 26 |
 
 ## Customer Support
@@ -1494,7 +1502,7 @@ YNAB: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [financial-freedom](https://github.com/serversideup/financial-freedom) | 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy. | GPL-3.0 | ★ 3.0k |
+| [financial-freedom](https://github.com/serversideup/financial-freedom) | 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy. | GPL-3.0 | ★ 2.9k |
 
 ### Splitwise
 
@@ -1511,7 +1519,7 @@ Carta: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [captable](https://github.com/captableinc/captable) | #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. | AGPL-3.0 | ★ 825 |
+| [captable](https://github.com/captableinc/captable) | #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. | AGPL-3.0 | ★ 826 |
 
 ## Video
 
@@ -1549,7 +1557,7 @@ SubMagic: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 5.6k |
-| [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 | ★ 132 |
+| [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 | ★ 135 |
 
 ### Klap
 
@@ -1573,7 +1581,7 @@ Adobe After Effects: paid Adobe Creative Cloud product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [EffectCraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written from scratch in Rust | Apache-2.0 | ★ 7.9k |
+| [EffectCraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written from scratch in Rust | Apache-2.0 | ★ 8.0k |
 
 ### Adobe Premiere Pro
 
@@ -1581,7 +1589,7 @@ Professional video editing.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [FilmCraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written from scratch in Rust | Apache-2.0 | ★ 16k |
+| [FilmCraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written from scratch in Rust | Apache-2.0 | ★ 17k |
 | [Kdenlive](https://github.com/KDE/kdenlive) | Multi-track non-linear video editor. | GPL-3.0 | ★ 5.9k |
 | [OpenShot](https://github.com/OpenShot/openshot-qt) | Easy-to-use cross-platform video editor. | GPL-3.0 | ★ 6.7k |
 
