@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "sensor-tower",
+  "name": "Sensor Tower",
+  "category": "Marketing",
+  "description": "Sensor Tower: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AsoBeast",
+    "repo": "AsoBeast/asobeast",
+    "license": "AGPL-3.0",
+    "description": "Open-source ASO tool for App Store and Google Play keyword ranks, competitors and reviews. Covers the ASO side, not download or revenue estimates."
+   }
+  ]
  }
 ]
