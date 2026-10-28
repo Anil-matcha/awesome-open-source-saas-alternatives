@@ -216,6 +216,12 @@
     "repo": "measure-sh/measure",
     "license": "Apache-2.0",
     "description": "Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics."
+   },
+   {
+    "name": "Nhost",
+    "repo": "nhost/nhost",
+    "license": "MIT",
+    "description": "Managed backend for agentic apps: Postgres, GraphQL, auth, storage, functions and an MCP server. Open source and self-hostable."
    }
   ]
  },
