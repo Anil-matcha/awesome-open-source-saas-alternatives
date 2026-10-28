@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "cleanmymac",
+  "name": "CleanMyMac",
+  "category": "Productivity",
+  "description": "Subscription Mac cleanup app for memory, disk space and uninstalling apps.",
+  "alternatives": [
+   {
+    "name": "Boost",
+    "repo": "Kernel-Hunter/boost",
+    "license": "GPL-3.0",
+    "description": "Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps."
+   }
+  ]
  }
 ]
