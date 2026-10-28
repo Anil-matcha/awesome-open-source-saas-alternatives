@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "apptweak",
+  "name": "AppTweak",
+  "category": "Marketing",
+  "description": "AppTweak: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AsoBeast",
+    "repo": "AsoBeast/asobeast",
+    "license": "AGPL-3.0",
+    "description": "Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list."
+   }
+  ]
  }
 ]
