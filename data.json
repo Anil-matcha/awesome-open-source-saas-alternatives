@@ -1485,6 +1485,12 @@
     "repo": "sunerpy/voltip",
     "license": "AGPL-3.0",
     "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary."
+   },
+   {
+    "name": "Plainsay",
+    "repo": "conrader/plainsay",
+    "license": "MIT",
+    "description": "Native Mac menu-bar dictation: hold a key, speak, and text lands at your cursor. Free Local mode runs Whisper or Parakeet on device, no account."
    }
   ]
  },
