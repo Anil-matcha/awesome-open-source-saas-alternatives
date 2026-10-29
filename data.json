@@ -1459,6 +1459,12 @@
     "repo": "Beingpax/VoiceInk",
     "license": "NOASSERTION",
     "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+   },
+   {
+    "name": "Plainsay",
+    "repo": "conrader/plainsay",
+    "license": "MIT",
+    "description": "Native Mac dictation with free on-device Whisper or Parakeet and no account; optional paid Cloud. Hold a key, speak, text appears at your cursor."
    }
   ]
  },
