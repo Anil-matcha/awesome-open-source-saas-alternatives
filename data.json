@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "nordvpn",
+  "name": "NordVPN",
+  "category": "Security",
+  "description": "NordVPN: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Zephyron",
+    "repo": "NineUPFLOW/Zephyron",
+    "license": "See repo",
+    "description": "Free Windows traffic router: sends each app through Zapret DPI desync, a sing-box tunnel, or direct — no VPN subscription needed."
+   }
+  ]
  }
 ]
