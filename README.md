@@ -525,6 +525,7 @@ Customer relationship management.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Twenty](https://github.com/twentyhq/twenty) | Modern open source CRM. | AGPL-3.0 | ★ 60k |
+| [Relaticle](https://github.com/relaticle/relaticle) | Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT. | AGPL-3.0 |  |
 
 ### Kommo
 
@@ -533,6 +534,14 @@ Kommo: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by | MIT | ★ 4.9k |
+
+### HubSpot
+
+CRM with marketing, sales and service hubs.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Relaticle](https://github.com/relaticle/relaticle) | Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT. | AGPL-3.0 |  |
 
 ## Project Management
 
