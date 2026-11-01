@@ -3326,5 +3326,19 @@
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
    }
   ]
+ },
+ {
+  "slug": "milanote",
+  "name": "Milanote",
+  "category": "Design",
+  "description": "Milanote: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Breatic",
+    "repo": "orime-org/breatic",
+    "license": "See repo",
+    "description": "Collaborative documents and AI canvases for creative teams to organize briefs, references and generated media."
+   }
+  ]
  }
 ]
