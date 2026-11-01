@@ -835,6 +835,12 @@
     "repo": "orbi-build/orbi",
     "license": "AGPL-3.0",
     "description": "Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review."
+   },
+   {
+    "name": "Mercury CLI",
+    "repo": "Whq02/MercuryCLI",
+    "license": "Apache-2.0",
+    "description": "Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models."
    }
   ]
  },
