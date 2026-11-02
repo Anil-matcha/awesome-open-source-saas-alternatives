@@ -1,14 +1,14 @@
 {
  "notion": {
-  "rank": 1436,
+  "rank": 1411,
   "domain": "notion.com"
  },
  "slack": {
-  "rank": 324,
+  "rank": 304,
   "domain": "slack.com"
  },
  "zoom": {
-  "rank": 68,
+  "rank": 64,
   "domain": "zoom.us"
  },
  "google-analytics": {
@@ -16,23 +16,23 @@
   "domain": "google.com"
  },
  "firebase": {
-  "rank": 76425,
+  "rank": 74994,
   "domain": "firebase.com"
  },
  "vercel": {
-  "rank": 3077,
+  "rank": 3059,
   "domain": "vercel.com"
  },
  "auth0": {
-  "rank": 927,
+  "rank": 849,
   "domain": "auth0.com"
  },
  "airtable": {
-  "rank": 2978,
+  "rank": 2929,
   "domain": "airtable.com"
  },
  "zapier": {
-  "rank": 3014,
+  "rank": 2999,
   "domain": "zapier.com"
  },
  "dropbox": {
@@ -40,55 +40,55 @@
   "domain": "dropbox.com"
  },
  "1password": {
-  "rank": 1831,
+  "rank": 1810,
   "domain": "1password.com"
  },
  "photoshop": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "figma": {
-  "rank": 907,
+  "rank": 910,
   "domain": "figma.com"
  },
  "premiere-pro": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "microsoft-office": {
-  "rank": 10,
+  "rank": 9,
   "domain": "microsoft.com"
  },
  "jira": {
-  "rank": 603,
+  "rank": 602,
   "domain": "atlassian.com"
  },
  "trello": {
-  "rank": 1841,
+  "rank": 1826,
   "domain": "trello.com"
  },
  "salesforce": {
-  "rank": 299,
+  "rank": 302,
   "domain": "salesforce.com"
  },
  "intercom": {
-  "rank": 1326,
+  "rank": 1215,
   "domain": "intercom.com"
  },
  "zendesk": {
-  "rank": 349,
+  "rank": 341,
   "domain": "zendesk.com"
  },
  "calendly": {
-  "rank": 405,
+  "rank": 416,
   "domain": "calendly.com"
  },
  "typeform": {
-  "rank": 1060,
+  "rank": 1135,
   "domain": "typeform.com"
  },
  "mailchimp": {
-  "rank": 767,
+  "rank": 777,
   "domain": "mailchimp.com"
  },
  "shopify": {
@@ -96,103 +96,103 @@
   "domain": "shopify.com"
  },
  "stripe-billing": {
-  "rank": 202,
+  "rank": 206,
   "domain": "stripe.com"
  },
  "datadog": {
-  "rank": 295,
+  "rank": 282,
   "domain": "datadoghq.com"
  },
  "evernote": {
-  "rank": 2175,
+  "rank": 2327,
   "domain": "evernote.com"
  },
  "chatgpt": {
-  "rank": 114,
+  "rank": 112,
   "domain": "chatgpt.com"
  },
  "github-copilot": {
-  "rank": 32,
+  "rank": 34,
   "domain": "github.com"
  },
  "midjourney": {
-  "rank": 5143,
+  "rank": 5128,
   "domain": "midjourney.com"
  },
  "loom": {
-  "rank": 3041,
+  "rank": 2938,
   "domain": "loom.com"
  },
  "miro": {
-  "rank": 2231,
+  "rank": 2123,
   "domain": "miro.com"
  },
  "lucidchart": {
-  "rank": 16368,
+  "rank": 16850,
   "domain": "lucid.co"
  },
  "postman": {
-  "rank": 3485,
+  "rank": 3441,
   "domain": "postman.com"
  },
  "terraform": {
-  "rank": 4700,
+  "rank": 4704,
   "domain": "hashicorp.com"
  },
  "medium": {
-  "rank": 197,
+  "rank": 202,
   "domain": "medium.com"
  },
  "retool": {
-  "rank": 33353,
+  "rank": 34086,
   "domain": "retool.com"
  },
  "tableau": {
-  "rank": 3189,
+  "rank": 3168,
   "domain": "tableau.com"
  },
  "algolia": {
-  "rank": 16768,
+  "rank": 17486,
   "domain": "algolia.com"
  },
  "launchdarkly": {
-  "rank": 340,
+  "rank": 306,
   "domain": "launchdarkly.com"
  },
  "docusign": {
-  "rank": 3168,
+  "rank": 3136,
   "domain": "docusign.com"
  },
  "insomnia": {
-  "rank": 56120,
+  "rank": 56223,
   "domain": "insomnia.rest"
  },
  "heroku": {
-  "rank": 4241,
+  "rank": 5581,
   "domain": "heroku.com"
  },
  "netlify": {
-  "rank": 3679,
+  "rank": 3967,
   "domain": "netlify.com"
  },
  "linear": {
-  "rank": 8850,
+  "rank": 8452,
   "domain": "linear.app"
  },
  "pinecone": {
-  "rank": 39527,
+  "rank": 37590,
   "domain": "pinecone.io"
  },
  "asana": {
-  "rank": 2096,
+  "rank": 2177,
   "domain": "asana.com"
  },
  "semrush": {
-  "rank": 2241,
+  "rank": 2299,
   "domain": "semrush.com"
  },
  "ahrefs": {
-  "rank": 2111,
+  "rank": 2132,
   "domain": "ahrefs.com"
  },
  "builtwith": {
@@ -200,15 +200,15 @@
   "domain": null
  },
  "splunk": {
-  "rank": 6491,
+  "rank": 6456,
   "domain": "splunk.com"
  },
  "elastic-cloud": {
-  "rank": 2152,
+  "rank": 2192,
   "domain": "elastic.co"
  },
  "confluence": {
-  "rank": 603,
+  "rank": 602,
   "domain": "atlassian.com"
  },
  "aws-cognito": {
@@ -216,107 +216,107 @@
   "domain": "amazon.com"
  },
  "pubnub": {
-  "rank": 5935,
+  "rank": 5710,
   "domain": "pubnub.com"
  },
  "pusher": {
-  "rank": 1844,
+  "rank": 1825,
   "domain": "pusher.com"
  },
  "ably": {
-  "rank": 70454,
+  "rank": 69628,
   "domain": "ably.com"
  },
  "clerk": {
-  "rank": 3914,
+  "rank": 3294,
   "domain": "clerk.com"
  },
  "workos": {
-  "rank": 17105,
+  "rank": 17031,
   "domain": "workos.com"
  },
  "stytch": {
-  "rank": 14671,
+  "rank": 14016,
   "domain": "stytch.com"
  },
  "webflow": {
-  "rank": 2792,
+  "rank": 2772,
   "domain": "webflow.com"
  },
  "framer": {
-  "rank": 5234,
+  "rank": 5118,
   "domain": "framer.com"
  },
  "twilio": {
-  "rank": 1251,
+  "rank": 1137,
   "domain": "twilio.com"
  },
  "mixpanel": {
-  "rank": 828,
+  "rank": 832,
   "domain": "mixpanel.com"
  },
  "superwhisper": {
-  "rank": 147376,
+  "rank": 142607,
   "domain": "superwhisper.com"
  },
  "wispr-flow": {
-  "rank": 15556,
+  "rank": 14004,
   "domain": "wisprflow.ai"
  },
  "vapi": {
-  "rank": 75179,
+  "rank": 72634,
   "domain": "vapi.ai"
  },
  "retell-ai": {
-  "rank": 95285,
+  "rank": 87321,
   "domain": "retellai.com"
  },
  "opus-clip": {
-  "rank": 26379,
+  "rank": 25703,
   "domain": "opus.pro"
  },
  "resend": {
-  "rank": 16044,
+  "rank": 15688,
   "domain": "resend.com"
  },
  "sendgrid": {
-  "rank": 6794,
+  "rank": 6087,
   "domain": "sendgrid.com"
  },
  "kommo": {
-  "rank": 17938,
+  "rank": 18203,
   "domain": "kommo.com"
  },
  "shodan": {
-  "rank": 1968,
+  "rank": 1980,
   "domain": "shodan.io"
  },
  "censys": {
-  "rank": 41521,
+  "rank": 39298,
   "domain": "censys.io"
  },
  "surveymonkey": {
-  "rank": 684,
+  "rank": 690,
   "domain": "surveymonkey.com"
  },
  "quickbooks": {
-  "rank": 119,
+  "rank": 115,
   "domain": "intuit.com"
  },
  "xero": {
-  "rank": 3392,
+  "rank": 3472,
   "domain": "xero.com"
  },
  "qualtrics": {
-  "rank": 929,
+  "rank": 926,
   "domain": "qualtrics.com"
  },
  "drift": {
-  "rank": 6329,
+  "rank": 5735,
   "domain": "drift.com"
  },
  "crisp": {
-  "rank": 7089,
+  "rank": 7063,
   "domain": "crisp.chat"
  },
  "google-meet": {
@@ -324,187 +324,187 @@
   "domain": "google.com"
  },
  "microsoft-teams": {
-  "rank": 10,
+  "rank": 9,
   "domain": "microsoft.com"
  },
  "splitwise": {
-  "rank": 49335,
+  "rank": 48398,
   "domain": "splitwise.com"
  },
  "ynab": {
-  "rank": 27206,
+  "rank": 26829,
   "domain": "ynab.com"
  },
  "cluely": {
-  "rank": 63443,
+  "rank": 60880,
   "domain": "cluely.com"
  },
  "otter-ai": {
-  "rank": 8127,
+  "rank": 7734,
   "domain": "otter.ai"
  },
  "granola": {
-  "rank": 6439,
+  "rank": 5329,
   "domain": "granola.ai"
  },
  "final-round-ai": {
-  "rank": 175790,
+  "rank": 170273,
   "domain": "finalroundai.com"
  },
  "fireflies-ai": {
-  "rank": 20149,
+  "rank": 19542,
   "domain": "fireflies.ai"
  },
  "cypress-cloud": {
-  "rank": 41115,
+  "rank": 40477,
   "domain": "cypress.io"
  },
  "discord": {
-  "rank": 187,
+  "rank": 184,
   "domain": "discord.com"
  },
  "braze": {
-  "rank": 547,
+  "rank": 513,
   "domain": "braze.com"
  },
  "onesignal": {
-  "rank": 1040,
+  "rank": 1036,
   "domain": "onesignal.com"
  },
  "customer-io": {
-  "rank": 2137,
+  "rank": 2063,
   "domain": "customer.io"
  },
  "appcues": {
-  "rank": 13669,
+  "rank": 13531,
   "domain": "appcues.com"
  },
  "pendo": {
-  "rank": 892,
+  "rank": 887,
   "domain": "pendo.io"
  },
  "openart": {
-  "rank": 10210,
+  "rank": 7687,
   "domain": "openart.ai"
  },
  "freepik": {
-  "rank": 1108,
+  "rank": 1114,
   "domain": "freepik.com"
  },
  "buffer": {
-  "rank": 4363,
+  "rank": 4336,
   "domain": "buffer.com"
  },
  "sendible": {
-  "rank": 95525,
+  "rank": 88389,
   "domain": "sendible.com"
  },
  "socialpilot": {
-  "rank": 42338,
+  "rank": 41674,
   "domain": "socialpilot.co"
  },
  "cleanshot-x": {
-  "rank": 167915,
+  "rank": 177697,
   "domain": "cleanshot.com"
  },
  "userflow": {
-  "rank": 22670,
+  "rank": 22210,
   "domain": "userflow.com"
  },
  "ngrok": {
-  "rank": 7286,
+  "rank": 7260,
   "domain": "ngrok.com"
  },
  "notebooklm": {
-  "rank": 24667,
+  "rank": 25344,
   "domain": "notebooklm.google"
  },
  "clickup": {
-  "rank": 2840,
+  "rank": 2919,
   "domain": "clickup.com"
  },
  "monday-com": {
-  "rank": 3247,
+  "rank": 3225,
   "domain": "monday.com"
  },
  "thinkific": {
-  "rank": 5758,
+  "rank": 5724,
   "domain": "thinkific.com"
  },
  "teachable": {
-  "rank": 6993,
+  "rank": 7071,
   "domain": "teachable.com"
  },
  "genspark": {
-  "rank": 18026,
+  "rank": 17861,
   "domain": "genspark.ai"
  },
  "apollo-graphos": {
-  "rank": 51063,
+  "rank": 48195,
   "domain": "apollographql.com"
  },
  "podia": {
-  "rank": 26320,
+  "rank": 27406,
   "domain": "podia.com"
  },
  "manus": {
-  "rank": 6133,
+  "rank": 6367,
   "domain": "manus.im"
  },
  "screaming-frog": {
-  "rank": 17900,
+  "rank": 18008,
   "domain": "screamingfrog.co.uk"
  },
  "mailgun": {
-  "rank": 23122,
+  "rank": 22101,
   "domain": "mailgun.com"
  },
  "composio": {
-  "rank": 35459,
+  "rank": 34842,
   "domain": "composio.dev"
  },
  "nango": {
-  "rank": 391781,
+  "rank": 368727,
   "domain": "nango.dev"
  },
  "merge": {
-  "rank": 100147,
+  "rank": 114984,
   "domain": "merge.dev"
  },
  "sentry": {
-  "rank": 105,
+  "rank": 102,
   "domain": "sentry.io"
  },
  "pingdom": {
-  "rank": 8414,
+  "rank": 8416,
   "domain": "pingdom.com"
  },
  "carta": {
-  "rank": 51086,
+  "rank": 48014,
   "domain": "carta.com"
  },
  "disqus": {
-  "rank": 913,
+  "rank": 918,
   "domain": "disqus.com"
  },
  "linktree": {
-  "rank": 263,
+  "rank": 264,
   "domain": "linktr.ee"
  },
  "weavy": {
-  "rank": 68607,
+  "rank": 65490,
   "domain": "weavy.ai"
  },
  "krea": {
-  "rank": 25446,
+  "rank": 25007,
   "domain": "krea.ai"
  },
  "florafauna-ai": {
-  "rank": 1372206,
+  "rank": 1349642,
   "domain": "florafauna.ai"
  },
  "claude-cowork": {
-  "rank": 411,
+  "rank": 417,
   "domain": "claude.ai"
  },
  "chatgpt-agent": {
@@ -512,167 +512,167 @@
   "domain": "openai.com"
  },
  "grok-bot": {
-  "rank": 2506,
+  "rank": 2296,
   "domain": "grok.com"
  },
  "vidyo-ai": {
-  "rank": 288943,
+  "rank": 290345,
   "domain": "vidyo.ai"
  },
  "klap": {
-  "rank": 235171,
+  "rank": 226048,
   "domain": "klap.app"
  },
  "submagic": {
-  "rank": 168383,
+  "rank": 163460,
   "domain": "submagic.co"
  },
  "arcade-dev": {
-  "rank": 285217,
+  "rank": 237871,
   "domain": "arcade.dev"
  },
  "lovart": {
-  "rank": 19161,
+  "rank": 19041,
   "domain": "lovart.ai"
  },
  "galileo-ai": {
-  "rank": 245679,
+  "rank": 239799,
   "domain": "usegalileo.ai"
  },
  "magic-patterns": {
-  "rank": 308650,
+  "rank": 298400,
   "domain": "magicpatterns.com"
  },
  "arcads": {
-  "rank": 236039,
+  "rank": 231453,
   "domain": "arcads.ai"
  },
  "makeugc": {
-  "rank": 1626627,
+  "rank": 1533427,
   "domain": "makeugc.ai"
  },
  "character-ai": {
-  "rank": 959,
+  "rank": 953,
   "domain": "character.ai"
  },
  "replika": {
-  "rank": 85837,
+  "rank": 84220,
   "domain": "replika.com"
  },
  "hootsuite": {
-  "rank": 3457,
+  "rank": 3460,
   "domain": "hootsuite.com"
  },
  "claude-tag": {
-  "rank": 411,
+  "rank": 417,
   "domain": "claude.ai"
  },
  "teal": {
-  "rank": 50846,
+  "rank": 48936,
   "domain": "tealhq.com"
  },
  "kickresume": {
-  "rank": 80437,
+  "rank": 80095,
   "domain": "kickresume.com"
  },
  "elevenlabs": {
-  "rank": 3418,
+  "rank": 3289,
   "domain": "elevenlabs.io"
  },
  "murf-ai": {
-  "rank": 35275,
+  "rank": 35169,
   "domain": "murf.ai"
  },
  "watermarkremover-io": {
-  "rank": 53190,
+  "rank": 53929,
   "domain": "watermarkremover.io"
  },
  "hitpaw": {
-  "rank": 88533,
+  "rank": 86097,
   "domain": "hitpaw.com"
  },
  "looka": {
-  "rank": 28451,
+  "rank": 28223,
   "domain": "looka.com"
  },
  "brandmark": {
-  "rank": 106278,
+  "rank": 105920,
   "domain": "brandmark.io"
  },
  "photoroom": {
-  "rank": 9193,
+  "rank": 9035,
   "domain": "photoroom.com"
  },
  "remini": {
-  "rank": 30762,
+  "rank": 30877,
   "domain": "remini.ai"
  },
  "facetune": {
-  "rank": 77870,
+  "rank": 78286,
   "domain": "facetuneapp.com"
  },
  "lensa-ai": {
-  "rank": 1121250,
+  "rank": 1176984,
   "domain": "lensa-ai.com"
  },
  "prisma": {
-  "rank": 181766,
+  "rank": 181103,
   "domain": "prisma-ai.com"
  },
  "flair-ai": {
-  "rank": 266468,
+  "rank": 262689,
   "domain": "flair.ai"
  },
  "booth-ai": {
-  "rank": 681323,
+  "rank": 655168,
   "domain": "booth.ai"
  },
  "pebblely": {
-  "rank": 306192,
+  "rank": 293868,
   "domain": "pebblely.com"
  },
  "surfer-seo": {
-  "rank": 26090,
+  "rank": 26094,
   "domain": "surferseo.com"
  },
  "botika": {
-  "rank": 1376316,
+  "rank": 1353747,
   "domain": "botika.io"
  },
  "lalaland": {
-  "rank": 1563659,
+  "rank": 1501139,
   "domain": "lalaland.ai"
  },
  "youcam-hair": {
-  "rank": 27649,
+  "rank": 27974,
   "domain": "perfectcorp.com"
  },
  "youcam-makeup": {
-  "rank": 27649,
+  "rank": 27974,
   "domain": "perfectcorp.com"
  },
  "modiface": {
-  "rank": 251119,
+  "rank": 243961,
   "domain": "modiface.com"
  },
  "roomgpt": {
-  "rank": 330429,
+  "rank": 324642,
   "domain": "roomgpt.io"
  },
  "reimagine-home": {
-  "rank": 400657,
+  "rank": 378775,
   "domain": "reimaginehome.ai"
  },
  "lavender": {
-  "rank": 263303,
+  "rank": 255502,
   "domain": "lavender.ai"
  },
  "reply-io": {
-  "rank": 114752,
+  "rank": 115071,
   "domain": "reply.io"
  },
  "promptbase": {
-  "rank": 83469,
+  "rank": 82276,
   "domain": "promptbase.com"
  },
  "promptperfect": {
@@ -680,39 +680,39 @@
   "domain": null
  },
  "ink-hunter": {
-  "rank": 2997716,
+  "rank": 2785130,
   "domain": "inkhunter.tattoo"
  },
  "tattoosmart": {
-  "rank": 4242476,
+  "rank": 4661038,
   "domain": "tattoosmart.com"
  },
  "faceapp": {
-  "rank": 223703,
+  "rank": 209884,
   "domain": "faceapp.com"
  },
  "shipfast": {
-  "rank": 889024,
+  "rank": 877956,
   "domain": "shipfa.st"
  },
  "adobe-illustrator": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "adobe-lightroom": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "adobe-after-effects": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "adobe-indesign": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "adobe-acrobat": {
-  "rank": 61,
+  "rank": 62,
   "domain": "adobe.com"
  },
  "awesome-screenshot": {
@@ -720,7 +720,7 @@
   "domain": null
  },
  "raycast": {
-  "rank": 17979,
+  "rank": 17774,
   "domain": "raycast.com"
  },
  "okta": {
