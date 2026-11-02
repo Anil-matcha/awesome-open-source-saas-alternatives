@@ -137,6 +137,14 @@ Awesome Screenshot: freemium screenshot and screen recording tool.
 |---|---|---|---|
 | [OpenCapture](https://github.com/Open-Capture/OpenCapture) | Local full-page screenshot extension with annotations, blur, and PNG or PDF export. | AGPL-3.0 | ★ 41 |
 
+### CleanMyMac
+
+Subscription Mac cleanup app for memory, disk space and uninstalling apps.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Boost](https://github.com/Kernel-Hunter/boost) | Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps. | GPL-3.0 |  |
+
 ### Confluence
 
 Confluence: paid SaaS product.
