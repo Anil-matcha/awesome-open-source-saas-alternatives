@@ -567,6 +567,26 @@
     "repo": "twentyhq/twenty",
     "license": "AGPL-3.0",
     "description": "Modern open source CRM."
+   },
+   {
+    "name": "Relaticle",
+    "repo": "relaticle/relaticle",
+    "license": "AGPL-3.0",
+    "description": "Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT."
+   }
+  ]
+ },
+ {
+  "slug": "hubspot",
+  "name": "HubSpot",
+  "category": "CRM",
+  "description": "CRM with marketing, sales and service hubs.",
+  "alternatives": [
+   {
+    "name": "Relaticle",
+    "repo": "relaticle/relaticle",
+    "license": "AGPL-3.0",
+    "description": "Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT."
    }
   ]
  },
