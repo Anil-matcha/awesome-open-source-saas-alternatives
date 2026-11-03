@@ -47,7 +47,7 @@ All-in-one workspace for notes, docs and wikis.
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | EPL-2.0 | ★ 28k |
 | [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | NOASSERTION | ★ 27k |
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
-| [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 467 |
+| [Oxynote](https://github.com/oxynote/oxynote) | Self-hosted wiki with live Prometheus and SQL charts and PR-style reviews for important page changes. | Apache-2.0 | ★ 488 |
 | [Koru](https://github.com/koruworks/mono) | Local-first, open-source workspace for notes, docs and files, built in Rust. Imports from Notion, Evernote, OneNote and Google Docs. | MPL-2.0 | ★ 31 |
 | [BookmarkForge](https://github.com/bookmarkforge/bookmarkforge-core) | Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph. | MIT |  |
 
@@ -75,8 +75,8 @@ Documents, spreadsheets and presentations.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [DeckCraft](https://github.com/storytold/deckcraft) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Apache-2.0 | ★ 4.5k |
-| [GridCraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. | Apache-2.0 | ★ 7.0k |
+| [DeckCraft](https://github.com/storytold/deckcraft) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Apache-2.0 | ★ 4.6k |
+| [GridCraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. | Apache-2.0 | ★ 7.1k |
 | [LibreOffice](https://github.com/LibreOffice/core) | Full office suite with Writer, Calc and Impress. | GPL-3.0 | ★ 4.6k |
 | [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer) | Online editors compatible with Office formats. | AGPL-3.0 | ★ 7.1k |
 
@@ -135,7 +135,7 @@ Awesome Screenshot: freemium screenshot and screen recording tool.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [OpenCapture](https://github.com/Open-Capture/OpenCapture) | Local full-page screenshot extension with annotations, blur, and PNG or PDF export. | AGPL-3.0 | ★ 41 |
+| [OpenCapture](https://github.com/Open-Capture/OpenCapture) | Local full-page screenshot extension with annotations, blur, and PNG or PDF export. | AGPL-3.0 | ★ 42 |
 
 ### Confluence
 
@@ -144,6 +144,14 @@ Confluence: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
+
+### Huntr
+
+Huntr: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent with a local job application tracker: scores each job against your CV and tailors your resume, from your terminal. | MIT | ★ 80k |
 
 ## Communication
 
@@ -242,7 +250,7 @@ Webflow: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data | MIT | ★ 9.0k |
+| [Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data | MIT | ★ 9.1k |
 
 ### Framer
 
@@ -250,7 +258,7 @@ Framer: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data | MIT | ★ 9.0k |
+| [Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, data | MIT | ★ 9.1k |
 
 ### Photoroom
 
@@ -266,7 +274,7 @@ Diagramming and flowcharts.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [draw.io](https://github.com/jgraph/drawio) | Diagramming for flowcharts and architecture. | Apache-2.0 | ★ 9.1k |
+| [draw.io](https://github.com/jgraph/drawio) | Diagramming for flowcharts and architecture. | Apache-2.0 | ★ 9.2k |
 
 ### Lovart
 
@@ -378,7 +386,7 @@ Adobe InDesign: paid Adobe Creative Cloud product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [DesignCraft](https://github.com/storytold/designcraft) | DesignCraft: An open-source page and layout design editor written from scratch in Rust | Apache-2.0 | ★ 5.0k |
+| [DesignCraft](https://github.com/storytold/designcraft) | DesignCraft: An open-source page and layout design editor written from scratch in Rust | Apache-2.0 | ★ 5.1k |
 
 ### Adobe Lightroom
 
@@ -452,7 +460,7 @@ Composio: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Merge
 
@@ -460,7 +468,7 @@ Merge: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Arcade.dev
 
@@ -468,7 +476,7 @@ Arcade.dev: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Nango
 
@@ -476,7 +484,7 @@ Nango: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ## Storage
 
@@ -676,7 +684,7 @@ SendGrid: paid SaaS product.
 |---|---|---|---|
 | [useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc. | AGPL-3.0 | ★ 4.8k |
 | [forwardemail.net](https://github.com/forwardemail/forwardemail.net) | Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. | NOASSERTION | ★ 1.7k |
-| [relay](https://github.com/hyvor/relay) | 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid. | AGPL-3.0 | ★ 920 |
+| [relay](https://github.com/hyvor/relay) | 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid. | AGPL-3.0 | ★ 919 |
 
 ### Resend
 
@@ -685,7 +693,7 @@ Resend: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc. | AGPL-3.0 | ★ 4.8k |
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 887 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 893 |
 
 ### Screaming Frog
 
@@ -701,7 +709,7 @@ Mailgun: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [relay](https://github.com/hyvor/relay) | 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid. | AGPL-3.0 | ★ 920 |
+| [relay](https://github.com/hyvor/relay) | 📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid. | AGPL-3.0 | ★ 919 |
 | [posta](https://github.com/goposta/posta) | Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analy | AGPL-3.0 | ★ 634 |
 
 ### Surfer SEO
@@ -742,7 +750,7 @@ Arcads: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 410 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 412 |
 
 ### Lavender
 
@@ -758,7 +766,7 @@ MakeUGC: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 410 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 412 |
 
 ### BuiltWith
 
@@ -776,7 +784,7 @@ AI chat assistant.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-spaces](https://github.com/Anil-matcha/open-spaces) | Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations. | MIT | ★ 2 |
+| [open-spaces](https://github.com/Anil-matcha/open-spaces) | Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations. | MIT | ★ 4 |
 | [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI interface for Ollama and OpenAI-compatible APIs. | Open WebUI License (BSD-3 based) | ★ 158k |
 | [Ollama](https://github.com/ollama/ollama) | Run large language models locally. | MIT | ★ 186k |
 | [LibreChat](https://github.com/danny-avila/LibreChat) | Multi-provider ChatGPT-style interface. | MIT | ★ 47k |
@@ -809,7 +817,7 @@ Claude Cowork: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.5k |
+| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.6k |
 | [Godmode Bot](https://github.com/codextde/godmode-bot) | Desktop app that turns your Claude subscription into persistent agents doing computer work in your own browser, with a vault for passwords and 2FA codes. | MIT | ★ 8 |
 
 ### Character.AI
@@ -836,8 +844,8 @@ Grok Bot: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-grok-bot](https://github.com/Anil-matcha/open-grok-bot) | Open-source alternative to Grok bot with a FastAPI API, Next.js UI, governed computer use, Docker/remote runtimes, approvals, connectors, and local-first state. | See repo | ★ 15 |
-| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.5k |
+| [open-grok-bot](https://github.com/Anil-matcha/open-grok-bot) | Open-source alternative to Grok bot with a FastAPI API, Next.js UI, governed computer use, Docker/remote runtimes, approvals, connectors, and local-first state. | See repo | ★ 16 |
+| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.6k |
 
 ### ElevenLabs
 
@@ -861,7 +869,7 @@ Manus: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent](https://github.com/AFK-surf/open-agent) | Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus. | Apache-2.0 | ★ 1.0k |
+| [open-agent](https://github.com/AFK-surf/open-agent) | Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus. | Apache-2.0 | ★ 1.1k |
 
 ### OpenArt
 
@@ -887,7 +895,7 @@ Wispr Flow: paid SaaS product.
 |---|---|---|---|
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription | NOASSERTION | ★ 7.0k |
 | [freeflow](https://github.com/zachlatta/freeflow) | Free & fast alternative to Wispr Flow | MIT | ★ 3.0k |
-| [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 80 |
+| [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 83 |
 
 ### Genspark
 
@@ -1076,7 +1084,7 @@ ChatGPT Agent: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.5k |
+| [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 6.6k |
 
 ### PromptPerfect
 
@@ -1163,7 +1171,7 @@ Frontend hosting and deployment platform.
 | [CapRover](https://github.com/caprover/caprover) | Self-hosted PaaS on Docker and nginx. Covers hosting and deploys only. | Apache-2.0 | ★ 15k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 38k |
 | [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 887 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 893 |
 
 ### Auth0
 
@@ -1346,7 +1354,7 @@ ShipFast: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) | Production-ready Next.js AI SaaS boilerplate | See repo | ★ 27 |
+| [ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) | Production-ready Next.js AI SaaS boilerplate | See repo | ★ 28 |
 
 ### AWS Cognito
 
@@ -1375,7 +1383,7 @@ Sentry: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 887 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 893 |
 | [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) | Self-hostable error tracker for small teams with grouped errors, source maps, and alerts. | MIT | ★ 34 |
 
 ### Splunk
@@ -1392,7 +1400,7 @@ Pingdom: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 887 |
+| [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 893 |
 | [SolidPing](https://github.com/fclairamb/solidping) | Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation. | AGPL-3.0 | ★ 28 |
 
 ## Customer Support
@@ -1530,7 +1538,7 @@ Opus Clip: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [ai-clipping-comfyui](https://github.com/Anil-matcha/ai-clipping-comfyui) | Free open-source Opus Clip alternative for ComfyUI | MIT | ★ 34 |
+| [ai-clipping-comfyui](https://github.com/Anil-matcha/ai-clipping-comfyui) | Free open-source Opus Clip alternative for ComfyUI | MIT | ★ 35 |
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 5.7k |
 
 ### SubMagic
@@ -1540,7 +1548,7 @@ SubMagic: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 5.7k |
-| [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 | ★ 141 |
+| [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 | ★ 142 |
 
 ### CleanShot X
 
@@ -1573,7 +1581,7 @@ Adobe After Effects: paid Adobe Creative Cloud product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [EffectCraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written from scratch in Rust | Apache-2.0 | ★ 8.3k |
+| [EffectCraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written from scratch in Rust | Apache-2.0 | ★ 8.4k |
 
 ### Adobe Premiere Pro
 
@@ -1666,7 +1674,7 @@ Folge: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 9 |
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 10 |
 
 ### Scribe
 
@@ -1674,7 +1682,7 @@ Scribe: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 9 |
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 10 |
 
 ### Tango
 
@@ -1682,7 +1690,7 @@ Tango: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 9 |
+| [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 10 |
 
 ## Notes
 
