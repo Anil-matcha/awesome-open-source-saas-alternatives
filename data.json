@@ -2707,6 +2707,12 @@
     "repo": "SamurAIGPT/ai-resume-builder",
     "license": "See repo",
     "description": "Open-source AI resume builder & optimizer"
+   },
+   {
+    "name": "career-ops",
+    "repo": "career-ops-hq/career-ops",
+    "license": "MIT",
+    "description": "Open-source AI job search agent: scores each job against your CV, tailors an ATS-friendly resume and tracks applications from your terminal."
    }
   ]
  },
