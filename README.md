@@ -1176,6 +1176,7 @@ Identity and authentication platform.
 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Open source authentication with your own database. | Apache-2.0 | ★ 15k |
 | [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user. | Apache-2.0 | ★ 15k |
+| [express-email-otp-login](https://github.com/parv15/express-email-otp-login) | Passwordless login for Express with email one-time codes and magic links. | MIT |  |
 
 ### Postman
 
