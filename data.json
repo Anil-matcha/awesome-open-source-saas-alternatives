@@ -1759,6 +1759,12 @@
     "repo": "oss-apps/split-pro",
     "license": "MIT",
     "description": "Open source alternative to Splitwise"
+   },
+   {
+    "name": "ManaWG",
+    "repo": "Abuarchiv/manawg",
+    "license": "Apache-2.0",
+    "description": "Split shared-flat expenses and import Splitwise CSVs, with a cleaning rota and shared shopping list. Self-host with Docker or use the free hosted app."
    }
   ]
  },
