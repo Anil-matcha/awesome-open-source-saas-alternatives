@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "ionic-appflow",
+  "name": "Ionic Appflow",
+  "category": "Developer Tools",
+  "description": "Ionic Appflow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OtaKit",
+    "repo": "OtaKit/otakit",
+    "license": "MIT",
+    "description": "Open-source live updates for Capacitor apps: ship web-layer fixes without app store review, with signed releases and automatic rollback. Self-hostable."
+   }
+  ]
  }
 ]
