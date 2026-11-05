@@ -600,6 +600,7 @@ Email marketing.
 | [Listmonk](https://github.com/knadh/listmonk) | Newsletter and mailing list manager. No automation workflows. | AGPL-3.0 | ★ 24k |
 | [forwardemail.net](https://github.com/forwardemail/forwardemail.net) | Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. | NOASSERTION | ★ 1.7k |
 | [SendLit](https://github.com/codelitdev/sendlit) | Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor. | AGPL-3.0 | ★ 3 |
+| [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) | Next.js waitlist with double opt-in, referral queue and a bulk launch email. | MIT |  |
 
 ### Linktree
 
