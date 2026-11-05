@@ -685,6 +685,12 @@
     "repo": "codelitdev/sendlit",
     "license": "AGPL-3.0",
     "description": "Open-source email platform for newsletters, campaigns and sequences via your own SES/SMTP, with a provisioning API and embeddable editor."
+   },
+   {
+    "name": "nextjs-waitlist-double-opt-in",
+    "repo": "Sid-Lais/nextjs-waitlist-double-opt-in",
+    "license": "MIT",
+    "description": "Next.js waitlist with double opt-in, referral queue and a bulk launch email."
    }
   ]
  },
