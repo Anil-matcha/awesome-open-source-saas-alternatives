@@ -298,6 +298,12 @@
     "repo": "casdoor/casdoor",
     "license": "Apache-2.0",
     "description": "Open-source IAM and SSO server with OIDC, SAML, MFA and passkeys; self-host it instead of paying per monthly active user."
+   },
+   {
+    "name": "express-email-otp-login",
+    "repo": "parv15/express-email-otp-login",
+    "license": "MIT",
+    "description": "Passwordless login for Express with email one-time codes and magic links."
    }
   ]
  },
