@@ -68,6 +68,7 @@ Scheduling and booking.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for everyone. | MIT | ★ 50k |
+| [laravel-appointment-reminders](https://github.com/jy7lsna/laravel-appointment-reminders) | Laravel appointment booking with calendar invites, 24h/2h reminders and one-click reschedule. | MIT |  |
 
 ### Microsoft Office
 
