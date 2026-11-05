@@ -1479,6 +1479,7 @@ QuickBooks: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [bigcapital](https://github.com/bigcapitalhq/bigcapital) | 💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave. | AGPL-3.0 | ★ 4.1k |
+| [django-invoice-reminders](https://github.com/Sid-Lais/django-invoice-reminders) | Django invoicing app that emails PDF invoices and sends automatic overdue payment reminders. | MIT |  |
 
 ### Xero
 

@@ -1655,6 +1655,12 @@
     "repo": "bigcapitalhq/bigcapital",
     "license": "AGPL-3.0",
     "description": "💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave."
+   },
+   {
+    "name": "django-invoice-reminders",
+    "repo": "Sid-Lais/django-invoice-reminders",
+    "license": "MIT",
+    "description": "Django invoicing app that emails PDF invoices and sends automatic overdue payment reminders."
    }
   ]
  },
