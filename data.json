@@ -639,6 +639,12 @@
     "repo": "calcom/cal.com",
     "license": "AGPL-3.0",
     "description": "Scheduling infrastructure for everyone."
+   },
+   {
+    "name": "laravel-appointment-reminders",
+    "repo": "jy7lsna/laravel-appointment-reminders",
+    "license": "MIT",
+    "description": "Laravel appointment booking with calendar invites, 24h/2h reminders and one-click reschedule."
    }
   ]
  },
