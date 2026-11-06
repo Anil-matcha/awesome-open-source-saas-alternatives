@@ -429,6 +429,12 @@
     "url": "https://www.gimp.org",
     "license": "GPL-3.0",
     "description": "Long-standing free image editor."
+   },
+   {
+    "name": "PeerBrush",
+    "repo": "Deftr0y/PeerBrush",
+    "license": "GPL-3.0",
+    "description": "GPLv3 desktop painting and layered image editor with supported RGB PSD editing and optional local MCP collaboration."
    }
   ]
  },
