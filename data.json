@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "devin",
+  "name": "Devin",
+  "category": "AI",
+  "description": "Devin: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Orchestrator",
+    "repo": "OrchestratorInc/agent-orchestrator",
+    "license": "Apache-2.0",
+    "description": "Open-source desktop app that runs Claude Code, Codex and other coding agents in parallel git worktrees and follows each PR through CI and review."
+   }
+  ]
  }
 ]
