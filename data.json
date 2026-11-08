@@ -3223,6 +3223,12 @@
     "repo": "storytold/pdfcraft",
     "license": "Apache-2.0",
     "description": "PdfCraft: An open-source PDF reader and editor written from scratch in Rust"
+   },
+   {
+    "name": "Paperwing",
+    "repo": "rohanvijaykumar/paperwing",
+    "license": "AGPL-3.0",
+    "description": "Desktop PDF editor for Windows and macOS: edit text and images, sign, fill forms, OCR, redact, compress, merge and convert. Runs offline, no account."
    }
   ]
  },
