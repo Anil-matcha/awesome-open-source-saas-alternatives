@@ -425,6 +425,14 @@ Business intelligence.
 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | NOASSERTION | ★ 25k |
 | [graphic-walker](https://github.com/Kanaries/graphic-walker) | An open source alternative to Tableau. Embeddable visual analytic | Apache-2.0 | ★ 3.3k |
 
+### Fivetran
+
+Fivetran: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Filament](https://github.com/galaxy-io/filament) | Self-hosted data replication from SaaS APIs and databases to warehouses, with full, incremental and CDC syncs. Open source alternative to Fivetran. | Apache-2.0 | ★ 284 |
+
 ### Hotjar
 
 Hotjar: paid SaaS product.
@@ -452,7 +460,7 @@ Composio: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Merge
 
@@ -460,7 +468,7 @@ Merge: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Arcade.dev
 
@@ -468,7 +476,7 @@ Arcade.dev: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ### Nango
 
@@ -476,7 +484,7 @@ Nango: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 848 |
+| [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 849 |
 
 ## Storage
 
@@ -742,7 +750,7 @@ Arcads: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 420 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 421 |
 
 ### Lavender
 
@@ -758,7 +766,7 @@ MakeUGC: paid SaaS product.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 420 |
+| [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 421 |
 
 ### BuiltWith
 
@@ -801,7 +809,7 @@ AI coding assistant.
 |---|---|---|---|
 | [Continue](https://github.com/continuedev/continue) | Open source AI code assistant for IDEs. | Apache-2.0 | ★ 36k |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant. | Apache-2.0 (core) | ★ 34k |
-| [Orbi](https://github.com/orbi-build/orbi) | Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review. | AGPL-3.0 | ★ 247 |
+| [Orbi](https://github.com/orbi-build/orbi) | Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review. | AGPL-3.0 | ★ 248 |
 
 ### Claude Cowork
 
