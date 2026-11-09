@@ -705,6 +705,12 @@
     "repo": "saleor/saleor",
     "license": "BSD-3-Clause",
     "description": "Headless commerce backend. No storefront out of the box."
+   },
+   {
+    "name": "ShopNex",
+    "repo": "shopnex-ai/shopnex",
+    "license": "MIT",
+    "description": "Self-hosted store with admin, Liquid-themed storefront, checkout, REST API and webhooks."
    }
   ]
  },
