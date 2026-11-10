@@ -1357,6 +1357,14 @@ AWS Cognito: paid SaaS product.
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees. | Apache-2.0 | ★ 15k |
 
+### mabl
+
+AI-powered test automation for web and mobile applications.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [e2e](https://github.com/tester-army/e2e) | End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions. | Apache-2.0 |  |
+
 ## Monitoring
 
 ### Datadog

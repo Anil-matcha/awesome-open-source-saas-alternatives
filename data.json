@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "mabl",
+  "name": "mabl",
+  "category": "Developer Tools",
+  "description": "AI-powered test automation for web and mobile applications.",
+  "alternatives": [
+   {
+    "name": "e2e",
+    "repo": "tester-army/e2e",
+    "license": "Apache-2.0",
+    "description": "End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions."
+   }
+  ]
  }
 ]
