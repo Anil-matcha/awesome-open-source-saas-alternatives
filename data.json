@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "sintra",
+  "name": "Sintra",
+  "category": "AI",
+  "description": "Sintra: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Brigade",
+    "repo": "gmpetrov/brigade",
+    "license": "MIT",
+    "description": "Open-source AI team for support, marketing, sales and code. Each teammate is Claude Code or Codex running on your own subscription."
+   }
+  ]
  }
 ]
