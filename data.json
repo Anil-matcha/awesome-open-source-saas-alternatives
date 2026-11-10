@@ -3223,6 +3223,12 @@
     "repo": "storytold/pdfcraft",
     "license": "Apache-2.0",
     "description": "PdfCraft: An open-source PDF reader and editor written from scratch in Rust"
+   },
+   {
+    "name": "Nyxiontech PDF Tools",
+    "repo": "jurecki007/nyxiontech-tools",
+    "license": "AGPL-3.0",
+    "description": "25 PDF and image tools that run in the browser. Merge, split, compress, OCR, redact, sign and convert, with no upload and no account."
    }
   ]
  },
