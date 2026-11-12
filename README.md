@@ -1363,7 +1363,7 @@ AI-powered test automation for web and mobile applications.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
-| [e2e](https://github.com/tester-army/e2e) | End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions. | Apache-2.0 |  |
+| [e2e](https://github.com/e2e-inc/e2e) | End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions. | Apache-2.0 |  |
 
 ## Monitoring
 

@@ -3349,7 +3349,7 @@
   "alternatives": [
    {
     "name": "e2e",
-    "repo": "tester-army/e2e",
+    "repo": "e2e-inc/e2e",
     "license": "Apache-2.0",
     "description": "End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions."
    }
