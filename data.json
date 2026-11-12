@@ -3340,5 +3340,25 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "citymapper",
+  "name": "Citymapper",
+  "category": "Maps / Transportation",
+  "description": "Public transit navigation and mapping app for urban commuters.",
+  "alternatives": [
+   {
+    "name": "Headway",
+    "repo": "shivrajsinhzala/headway",
+    "license": "MIT",
+    "description": "Multi-modal GTFS transit timetables and frequency explorer."
+   },
+   {
+    "name": "Stopwatch Transit",
+    "repo": "shivrajsinhzala/transit-timetables",
+    "license": "MIT",
+    "description": "Public transit timetables and schedule feeds across 120+ networks."
+   }
+  ]
  }
 ]
