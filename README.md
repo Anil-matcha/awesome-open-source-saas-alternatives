@@ -31,6 +31,7 @@ Looking for a free, self-hostable replacement for a paid tool? Find the tool bel
 - [Product](#product)
 - [Education](#education)
 - [Documentation](#documentation)
+- [Maps / Transportation](#maps-transportation)
 
 ## Productivity
 
@@ -1691,6 +1692,17 @@ Tango: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 11 |
+
+## Maps / Transportation
+
+### Citymapper
+
+Public transit navigation and mapping app for urban commuters.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Headway](https://github.com/shivrajsinhzala/headway) | Multi-modal GTFS transit timetables and frequency explorer. | MIT |  |
+| [Stopwatch Transit](https://github.com/shivrajsinhzala/transit-timetables) | Public transit timetables and schedule feeds across 120+ networks. | MIT |  |
 
 ## Notes
 
