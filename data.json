@@ -2239,6 +2239,12 @@
     "repo": "AFK-surf/open-agent",
     "license": "Apache-2.0",
     "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus."
+   },
+   {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "license": "MIT",
+    "description": "Local-first desktop AI teams for research and business deliverables, with task planning, specialist agents and scheduled workflows."
    }
   ]
  },
