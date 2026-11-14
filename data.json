@@ -376,6 +376,12 @@
     "repo": "syncthing/syncthing",
     "license": "MPL-2.0",
     "description": "Peer-to-peer file sync. No cloud storage or share links."
+   },
+   {
+    "name": "filex",
+    "repo": "BRF-Tech/filex",
+    "license": "MIT",
+    "description": "Self-hosted file manager with desktop folder sync, share links, OIDC/LDAP login and S3/WebDAV/SFTP access, in one Go binary."
    }
   ]
  },
