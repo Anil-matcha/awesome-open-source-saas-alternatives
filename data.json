@@ -835,6 +835,12 @@
     "repo": "orbi-build/orbi",
     "license": "AGPL-3.0",
     "description": "Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review."
+   },
+   {
+    "name": "Kodama",
+    "repo": "optimiware/kodama",
+    "license": "Apache-2.0",
+    "description": "API-first, self-hosted software factory in Go running containerized coding agents and pipelines with role-inbox approvals, model gateway, and Git access rules."
    }
   ]
  },

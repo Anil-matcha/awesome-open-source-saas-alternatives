@@ -802,6 +802,7 @@ AI coding assistant.
 | [Continue](https://github.com/continuedev/continue) | Open source AI code assistant for IDEs. | Apache-2.0 | ★ 36k |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant. | Apache-2.0 (core) | ★ 34k |
 | [Orbi](https://github.com/orbi-build/orbi) | Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review. | AGPL-3.0 | ★ 247 |
+| [Kodama](https://github.com/optimiware/kodama) | API-first, self-hosted software factory in Go running containerized coding agents and pipelines with role-inbox approvals, model gateway, and Git access rules. | Apache-2.0 |  |
 
 ### Claude Cowork
 
