@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "unit21-verafin-oscilar-actimize-abrigo",
+  "name": "Unit21/Verafin/Oscilar/Actimize/Abrigo",
+  "category": "Finance",
+  "description": "Unit21/Verafin/Oscilar/Actimize/Abrigo: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casework",
+    "repo": "anshuman-pandey/casework",
+    "license": "Apache-2.0",
+    "description": "Open-source fraud and AML case-management developer preview with synthetic investigations, evidence review, decision history and JSON exports."
+   }
+  ]
  }
 ]
