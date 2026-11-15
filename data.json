@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "todoist",
+  "name": "Todoist",
+  "category": "Productivity",
+  "description": "Todoist: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Kairos",
+    "repo": "SKOHscripts/Kairos",
+    "license": "MIT",
+    "description": "Offline to-do list that ranks tasks by priority and schedules them around your meetings. No account, runs on Android, desktop and web."
+   }
+  ]
  }
 ]
