@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "webhook-site",
+  "name": "Webhook.site",
+  "category": "Developer Tools",
+  "description": "Webhook.site: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "HookBox",
+    "repo": "reseachrandomv/hookbox",
+    "license": "MIT",
+    "description": "Local webhook inspector with replay, Stripe and GitHub signature checks, and test export."
+   }
+  ]
  }
 ]
