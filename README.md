@@ -145,6 +145,14 @@ Confluence: paid SaaS product.
 |---|---|---|---|
 | [docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. | AGPL-3.0 | ★ 22k |
 
+### Cozi
+
+Family organizer with shared calendars, lists and meal planning.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [OpenFamily](https://github.com/NexaFlowFrance/OpenFamily) | Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting. | AGPL-3.0 |  |
+
 ## Communication
 
 ### Slack
