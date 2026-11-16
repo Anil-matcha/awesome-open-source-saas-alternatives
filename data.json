@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "immersive-translate",
+  "name": "Immersive Translate",
+  "category": "Productivity",
+  "description": "Immersive Translate: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OpenImmersive Translator",
+    "repo": "OpenImmersive/OpenImmersive-Translator",
+    "license": "AGPL-3.0",
+    "description": "An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge."
+   }
+  ]
  }
 ]
