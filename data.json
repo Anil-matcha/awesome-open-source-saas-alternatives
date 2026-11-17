@@ -356,6 +356,12 @@
     "repo": "bytechefhq/bytechef",
     "license": "NOASSERTION",
     "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier."
+   },
+   {
+    "name": "EXTREMELY Autonomous Agents",
+    "repo": "maxkxd/extremely-autonomous-agents",
+    "license": "AGPL-3.0",
+    "description": "EXTREMELY autonomous AI agents to 100x output. A free, open-source AI agency that runs on your own computer, an alternative to Zapier."
    }
   ]
  },
