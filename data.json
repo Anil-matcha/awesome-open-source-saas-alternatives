@@ -260,6 +260,12 @@
     "repo": "gotempsh/temps",
     "license": "Apache-2.0",
     "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   },
+   {
+    "name": "Forge",
+    "repo": "reliant-labs/forge",
+    "license": "Apache-2.0",
+    "description": "Apache-2.0 framework and CLI to deploy static sites and container apps, with built-in telemetry and release health checks."
    }
   ]
  },
