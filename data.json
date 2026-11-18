@@ -809,6 +809,12 @@
     "repo": "joexk1/JoeBro",
     "license": "GPL-3.0",
     "description": "Native macOS AI workspace with a local backend: chat, document editing, memory and MCP tools, using Ollama or any API."
+   },
+   {
+    "name": "trina-ax",
+    "repo": "trina-app/trina-ax",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted AI workspace for teams that runs Claude Code and Codex with shared files, team skills, MCP and per-person folder permissions."
    }
   ]
  },
