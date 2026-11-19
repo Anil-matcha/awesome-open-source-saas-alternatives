@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "e2b",
+  "name": "E2B",
+  "category": "AI",
+  "description": "E2B: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "virtx",
+    "repo": "brekkylab/virtx",
+    "license": "Apache-2.0",
+    "description": "Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust."
+   }
+  ]
  }
 ]
