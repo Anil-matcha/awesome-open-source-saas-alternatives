@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "revenuecat",
+  "name": "RevenueCat",
+  "category": "Developer Tools",
+  "description": "RevenueCat: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpurr",
+    "repo": "openpurr/openpurr",
+    "license": "Apache-2.0",
+    "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
+   }
+  ]
  }
 ]
