@@ -443,6 +443,12 @@
     "repo": "penpot/penpot",
     "license": "MPL-2.0",
     "description": "Design and prototyping platform for design and code teams."
+   },
+   {
+    "name": "Evora",
+    "repo": "ShishirShastry/evora",
+    "license": "MIT",
+    "description": "Desktop design tool for Windows, macOS and Linux: works offline, free real-time teamwork, opens Figma .fig files, and AI agents can design in it via MCP."
    }
   ]
  },
