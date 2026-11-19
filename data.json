@@ -3340,5 +3340,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "statusgator",
+  "name": "StatusGator",
+  "category": "Monitoring",
+  "description": "Aggregates the status pages of the cloud services and SaaS vendors you depend on.",
+  "alternatives": [
+   {
+    "name": "Some Systems Operational",
+    "repo": "thumsl/somesystemsoperational",
+    "license": "MIT",
+    "description": "One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies."
+   }
+  ]
  }
 ]

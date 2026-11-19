@@ -1395,6 +1395,14 @@ Pingdom: paid SaaS product.
 | [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 921 |
 | [SolidPing](https://github.com/fclairamb/solidping) | Self-hostable uptime monitoring: 40+ check types, multi-region workers, private agents, status pages, incidents and on-call escalation. | AGPL-3.0 | ★ 38 |
 
+### StatusGator
+
+Aggregates the status pages of the cloud services and SaaS vendors you depend on.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Some Systems Operational](https://github.com/thumsl/somesystemsoperational) | One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies. | MIT |  |
+
 ## Customer Support
 
 ### Zendesk
