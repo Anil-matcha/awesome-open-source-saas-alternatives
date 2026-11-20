@@ -1599,6 +1599,14 @@ Splitwise: paid SaaS product.
 | [spliit](https://github.com/spliit-app/spliit) | Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. | MIT | ★ 3.1k |
 | [split-pro](https://github.com/oss-apps/split-pro) | Open source alternative to Splitwise | MIT | ★ 1.5k |
 
+### Unit21/Verafin/Oscilar/Actimize/Abrigo
+
+Unit21/Verafin/Oscilar/Actimize/Abrigo: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Casework](https://github.com/anshuman-pandey/casework) | Open-source fraud and AML case-management developer preview with synthetic investigations, evidence review, decision history and JSON exports. | Apache-2.0 | ★ 1 |
+
 ## Video
 
 ### Loom

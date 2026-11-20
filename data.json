@@ -3516,5 +3516,19 @@
     "description": "Offline to-do list that ranks tasks by priority and schedules them around your meetings. No account, runs on Android, desktop and web."
    }
   ]
+ },
+ {
+  "slug": "unit21-verafin-oscilar-actimize-abrigo",
+  "name": "Unit21/Verafin/Oscilar/Actimize/Abrigo",
+  "category": "Finance",
+  "description": "Unit21/Verafin/Oscilar/Actimize/Abrigo: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casework",
+    "repo": "anshuman-pandey/casework",
+    "license": "Apache-2.0",
+    "description": "Open-source fraud and AML case-management developer preview with synthetic investigations, evidence review, decision history and JSON exports."
+   }
+  ]
  }
 ]
