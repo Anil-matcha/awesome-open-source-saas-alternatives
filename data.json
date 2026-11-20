@@ -266,6 +266,12 @@
     "repo": "gotempsh/temps",
     "license": "Apache-2.0",
     "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   },
+   {
+    "name": "Forge",
+    "repo": "reliant-labs/forge",
+    "license": "Apache-2.0",
+    "description": "Apache-2.0 framework and CLI to deploy static sites and container apps, with built-in telemetry and release health checks."
    }
   ]
  },
@@ -382,6 +388,12 @@
     "repo": "syncthing/syncthing",
     "license": "MPL-2.0",
     "description": "Peer-to-peer file sync. No cloud storage or share links."
+   },
+   {
+    "name": "filex",
+    "repo": "BRF-Tech/filex",
+    "license": "MIT",
+    "description": "Self-hosted file manager with desktop folder sync, share links, OIDC/LDAP login and S3/WebDAV/SFTP access, in one Go binary."
    }
   ]
  },
@@ -435,6 +447,12 @@
     "url": "https://www.gimp.org",
     "license": "GPL-3.0",
     "description": "Long-standing free image editor."
+   },
+   {
+    "name": "PeerBrush",
+    "repo": "Deftr0y/PeerBrush",
+    "license": "GPL-3.0",
+    "description": "GPLv3 desktop painting and layered image editor with supported RGB PSD editing and optional local MCP collaboration."
    }
   ]
  },
@@ -449,6 +467,12 @@
     "repo": "penpot/penpot",
     "license": "MPL-2.0",
     "description": "Design and prototyping platform for design and code teams."
+   },
+   {
+    "name": "Evora",
+    "repo": "ShishirShastry/evora",
+    "license": "MIT",
+    "description": "Desktop design tool for Windows, macOS and Linux: works offline, free real-time teamwork, opens Figma .fig files, and AI agents can design in it via MCP."
    }
   ]
  },
@@ -573,6 +597,12 @@
     "repo": "twentyhq/twenty",
     "license": "AGPL-3.0",
     "description": "Modern open source CRM."
+   },
+   {
+    "name": "Relaticle",
+    "repo": "relaticle/relaticle",
+    "license": "AGPL-3.0",
+    "description": "Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT."
    }
   ]
  },
@@ -605,6 +635,12 @@
     "repo": "abhinavxd/libredesk",
     "license": "AGPL-3.0",
     "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   },
+   {
+    "name": "FeedLog",
+    "repo": "linkcraftstudio/feedlog",
+    "license": "MIT",
+    "description": "Open-source AI customer support for SaaS teams, with an AI widget, knowledge base, shared inbox, and customer feedback workflows."
    }
   ]
  },
@@ -711,6 +747,12 @@
     "repo": "saleor/saleor",
     "license": "BSD-3-Clause",
     "description": "Headless commerce backend. No storefront out of the box."
+   },
+   {
+    "name": "ShopNex",
+    "repo": "shopnex-ai/shopnex",
+    "license": "MIT",
+    "description": "Self-hosted store with admin, Liquid-themed storefront, checkout, REST API and webhooks."
    }
   ]
  },
@@ -841,6 +883,12 @@
     "repo": "orbi-build/orbi",
     "license": "AGPL-3.0",
     "description": "Self-hostable coding agent for GitHub: label an Issue and it writes the change, runs tests, opens a PR and merges after a separate AI review."
+   },
+   {
+    "name": "Mercury CLI",
+    "repo": "Whq02/MercuryCLI",
+    "license": "Apache-2.0",
+    "description": "Terminal coding agent that runs parallel sessions and delegates to crewmates in isolated git worktrees, on 22 model providers or local models."
    }
   ]
  },
@@ -1465,6 +1513,12 @@
     "repo": "Beingpax/VoiceInk",
     "license": "NOASSERTION",
     "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription"
+   },
+   {
+    "name": "Plainsay",
+    "repo": "conrader/plainsay",
+    "license": "MIT",
+    "description": "Native Mac dictation with free on-device Whisper or Parakeet and no account; optional paid Cloud. Hold a key, speak, text appears at your cursor."
    }
   ]
  },
@@ -1491,6 +1545,18 @@
     "repo": "sunerpy/voltip",
     "license": "AGPL-3.0",
     "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary."
+   },
+   {
+    "name": "Purr",
+    "repo": "iamarunbrahma/purr",
+    "license": "MIT",
+    "description": "Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device."
+   },
+   {
+    "name": "Plainsay",
+    "repo": "conrader/plainsay",
+    "license": "MIT",
+    "description": "Native Mac menu-bar dictation: hold a key, speak, and text lands at your cursor. Free Local mode runs Whisper or Parakeet on device, no account."
    }
   ]
  },
@@ -1539,6 +1605,12 @@
     "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
     "license": "MIT",
     "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   },
+   {
+    "name": "Reelsaw",
+    "repo": "osbytes/reelsaw",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted AI clipper: long videos to vertical shorts with face-tracked reframing, verified filler cuts and captions. Runs fully local with Ollama."
    }
   ]
  },
@@ -1765,6 +1837,12 @@
     "repo": "oss-apps/split-pro",
     "license": "MIT",
     "description": "Open source alternative to Splitwise"
+   },
+   {
+    "name": "ManaWG",
+    "repo": "Abuarchiv/manawg",
+    "license": "Apache-2.0",
+    "description": "Split shared-flat expenses and import Splitwise CSVs, with a cleaning rota and shared shopping list. Self-host with Docker or use the free hosted app."
    }
   ]
  },
@@ -1827,6 +1905,12 @@
     "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "license": "NOASSERTION",
     "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   },
+   {
+    "name": "Purr",
+    "repo": "iamarunbrahma/purr",
+    "license": "MIT",
+    "description": "Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device."
    }
   ]
  },
@@ -2245,6 +2329,12 @@
     "repo": "AFK-surf/open-agent",
     "license": "Apache-2.0",
     "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus."
+   },
+   {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "license": "MIT",
+    "description": "Local-first desktop AI teams for research and business deliverables, with task planning, specialist agents and scheduled workflows."
    }
   ]
  },
@@ -2533,6 +2623,12 @@
     "repo": "Anil-matcha/AI-Youtube-Shorts-Generator",
     "license": "MIT",
     "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra"
+   },
+   {
+    "name": "Reelsaw",
+    "repo": "osbytes/reelsaw",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted Klap alternative: turns a long video or YouTube link into captioned 9:16 shorts with LLM-ranked moments and face-tracked reframing."
    }
   ]
  },
@@ -2553,6 +2649,12 @@
     "repo": "open-subs/opensubs",
     "license": "AGPL-3.0",
     "description": "On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export."
+   },
+   {
+    "name": "Reelsaw",
+    "repo": "osbytes/reelsaw",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted clipper with word-highlight karaoke captions, hook overlays and filler-word cuts, burned into vertical shorts. Runs fully local."
    }
   ]
  },
@@ -2713,6 +2815,12 @@
     "repo": "SamurAIGPT/ai-resume-builder",
     "license": "See repo",
     "description": "Open-source AI resume builder & optimizer"
+   },
+   {
+    "name": "career-ops",
+    "repo": "career-ops-hq/career-ops",
+    "license": "MIT",
+    "description": "Open-source AI job search agent: scores each job against your CV, tailors an ATS-friendly resume and tracks applications from your terminal."
    }
   ]
  },
@@ -3229,6 +3337,18 @@
     "repo": "storytold/pdfcraft",
     "license": "Apache-2.0",
     "description": "PdfCraft: An open-source PDF reader and editor written from scratch in Rust"
+   },
+   {
+    "name": "Nyxiontech PDF Tools",
+    "repo": "jurecki007/nyxiontech-tools",
+    "license": "AGPL-3.0",
+    "description": "25 PDF and image tools that run in the browser. Merge, split, compress, OCR, redact, sign and convert, with no upload and no account."
+   },
+   {
+    "name": "Paperwing",
+    "repo": "rohanvijaykumar/paperwing",
+    "license": "AGPL-3.0",
+    "description": "Desktop PDF editor for Windows and macOS: edit text and images, sign, fill forms, OCR, redact, compress, merge and convert. Runs offline, no account."
    }
   ]
  },
@@ -3330,6 +3450,328 @@
     "repo": "replayowl/replayowl",
     "license": "AGPL-3.0",
     "description": "Self-hosted session replay: an 8 KB recorder, one Cloudflare Worker or Node process, recordings kept in your own S3 bucket."
+   }
+  ]
+ },
+ {
+  "slug": "pictory",
+  "name": "Pictory",
+  "category": "Video",
+  "description": "Pictory: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vidfiddle",
+    "repo": "zellerhaus/vidfiddle",
+    "license": "MIT",
+    "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
+   }
+  ]
+ },
+ {
+  "slug": "statusgator",
+  "name": "StatusGator",
+  "category": "Monitoring",
+  "description": "Aggregates the status pages of the cloud services and SaaS vendors you depend on.",
+  "alternatives": [
+   {
+    "name": "Some Systems Operational",
+    "repo": "thumsl/somesystemsoperational",
+    "license": "MIT",
+    "description": "One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies."
+   }
+  ]
+ },
+ {
+  "slug": "revenuecat",
+  "name": "RevenueCat",
+  "category": "Developer Tools",
+  "description": "RevenueCat: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpurr",
+    "repo": "openpurr/openpurr",
+    "license": "Apache-2.0",
+    "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
+   }
+  ]
+ },
+ {
+  "slug": "e2b",
+  "name": "E2B",
+  "category": "AI",
+  "description": "E2B: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "virtx",
+    "repo": "brekkylab/virtx",
+    "license": "Apache-2.0",
+    "description": "Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust."
+   }
+  ]
+ },
+ {
+  "slug": "uniqode",
+  "name": "Uniqode",
+  "category": "Marketing",
+  "description": "Uniqode: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "QRdx",
+    "repo": "qrdxinc/qrdx",
+    "license": "AGPL-3.0",
+    "description": "Open-source QR code generator with dynamic codes, scan analytics and developer APIs. The web app can be self-hosted."
+   }
+  ]
+ },
+ {
+  "slug": "cozi",
+  "name": "Cozi",
+  "category": "Productivity",
+  "description": "Family organizer with shared calendars, lists and meal planning.",
+  "alternatives": [
+   {
+    "name": "OpenFamily",
+    "repo": "NexaFlowFrance/OpenFamily",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting."
+   }
+  ]
+ },
+ {
+  "slug": "mabl",
+  "name": "mabl",
+  "category": "Developer Tools",
+  "description": "AI-powered test automation for web and mobile applications.",
+  "alternatives": [
+   {
+    "name": "e2e",
+    "repo": "e2e-inc/e2e",
+    "license": "Apache-2.0",
+    "description": "End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions."
+   }
+  ]
+ },
+ {
+  "slug": "cleanmymac",
+  "name": "CleanMyMac",
+  "category": "Productivity",
+  "description": "Subscription Mac cleanup app for memory, disk space and uninstalling apps.",
+  "alternatives": [
+   {
+    "name": "Boost",
+    "repo": "Kernel-Hunter/boost",
+    "license": "GPL-3.0",
+    "description": "Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps."
+   }
+  ]
+ },
+ {
+  "slug": "immersive-translate",
+  "name": "Immersive Translate",
+  "category": "Productivity",
+  "description": "Immersive Translate: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OpenImmersive Translator",
+    "repo": "OpenImmersive/OpenImmersive-Translator",
+    "license": "AGPL-3.0",
+    "description": "An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge."
+   }
+  ]
+ },
+ {
+  "slug": "webhook-site",
+  "name": "Webhook.site",
+  "category": "Developer Tools",
+  "description": "Webhook.site: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "HookBox",
+    "repo": "reseachrandomv/hookbox",
+    "license": "MIT",
+    "description": "Local webhook inspector with replay, Stripe and GitHub signature checks, and test export."
+   }
+  ]
+ },
+ {
+  "slug": "todoist",
+  "name": "Todoist",
+  "category": "Productivity",
+  "description": "Todoist: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Kairos",
+    "repo": "SKOHscripts/Kairos",
+    "license": "MIT",
+    "description": "Offline to-do list that ranks tasks by priority and schedules them around your meetings. No account, runs on Android, desktop and web."
+   }
+  ]
+ },
+ {
+  "slug": "unit21-verafin-oscilar-actimize-abrigo",
+  "name": "Unit21/Verafin/Oscilar/Actimize/Abrigo",
+  "category": "Finance",
+  "description": "Unit21/Verafin/Oscilar/Actimize/Abrigo: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Casework",
+    "repo": "anshuman-pandey/casework",
+    "license": "Apache-2.0",
+    "description": "Open-source fraud and AML case-management developer preview with synthetic investigations, evidence review, decision history and JSON exports."
+   }
+  ]
+ },
+ {
+  "slug": "sintra",
+  "name": "Sintra",
+  "category": "AI",
+  "description": "Sintra: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Brigade",
+    "repo": "gmpetrov/brigade",
+    "license": "MIT",
+    "description": "Open-source AI team for support, marketing, sales and code. Each teammate is Claude Code or Codex running on your own subscription."
+   }
+  ]
+ },
+ {
+  "slug": "fivetran",
+  "name": "Fivetran",
+  "category": "Analytics",
+  "description": "Fivetran: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Filament",
+    "repo": "galaxy-io/filament",
+    "license": "Apache-2.0",
+    "description": "Self-hosted data replication from SaaS APIs and databases to warehouses, with full, incremental and CDC syncs. Open source alternative to Fivetran."
+   }
+  ]
+ },
+ {
+  "slug": "devin",
+  "name": "Devin",
+  "category": "AI",
+  "description": "Devin: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Orchestrator",
+    "repo": "OrchestratorInc/agent-orchestrator",
+    "license": "Apache-2.0",
+    "description": "Open-source desktop app that runs Claude Code, Codex and other coding agents in parallel git worktrees and follows each PR through CI and review."
+   }
+  ]
+ },
+ {
+  "slug": "ionic-appflow",
+  "name": "Ionic Appflow",
+  "category": "Developer Tools",
+  "description": "Ionic Appflow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OtaKit",
+    "repo": "OtaKit/otakit",
+    "license": "MIT",
+    "description": "Open-source live updates for Capacitor apps: ship web-layer fixes without app store review, with signed releases and automatic rollback. Self-hostable."
+   }
+  ]
+ },
+ {
+  "slug": "lumen5",
+  "name": "Lumen5",
+  "category": "Video",
+  "description": "Lumen5: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vidfiddle",
+    "repo": "zellerhaus/vidfiddle",
+    "license": "MIT",
+    "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
+   }
+  ]
+ },
+ {
+  "slug": "redreach",
+  "name": "Redreach",
+  "category": "Marketing",
+  "description": "Redreach: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Reddit Lead Finder",
+    "repo": "Balance0014/reddit-lead-finder",
+    "license": "MIT",
+    "description": "Chrome extension that finds Reddit posts from people stuck on the problem your product solves and drafts a reply you post yourself, on your Workers AI account."
+   }
+  ]
+ },
+ {
+  "slug": "huntr",
+  "name": "Huntr",
+  "category": "Productivity",
+  "description": "Huntr: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "career-ops",
+    "repo": "career-ops-hq/career-ops",
+    "license": "MIT",
+    "description": "Open-source AI job search agent with a local job application tracker: scores each job against your CV and tailors your resume, from your terminal."
+   }
+  ]
+ },
+ {
+  "slug": "milanote",
+  "name": "Milanote",
+  "category": "Design",
+  "description": "Milanote: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Breatic",
+    "repo": "orime-org/breatic",
+    "license": "AGPL-3.0",
+    "description": "Collaborative documents and AI canvases for creative teams to organize briefs, references and generated media."
+   }
+  ]
+ },
+ {
+  "slug": "hubspot",
+  "name": "HubSpot",
+  "category": "CRM",
+  "description": "CRM with marketing, sales and service hubs.",
+  "alternatives": [
+   {
+    "name": "Relaticle",
+    "repo": "relaticle/relaticle",
+    "license": "AGPL-3.0",
+    "description": "Open-source CRM with a built-in AI assistant and an MCP server for Claude and ChatGPT."
+   }
+  ]
+ },
+ {
+  "slug": "sensor-tower",
+  "name": "Sensor Tower",
+  "category": "Marketing",
+  "description": "Sensor Tower: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AsoBeast",
+    "repo": "AsoBeast/asobeast",
+    "license": "AGPL-3.0",
+    "description": "Open-source ASO tool for App Store and Google Play keyword ranks, competitors and reviews. Covers the ASO side, not download or revenue estimates."
+   }
+  ]
+ },
+ {
+  "slug": "apptweak",
+  "name": "AppTweak",
+  "category": "Marketing",
+  "description": "AppTweak: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "AsoBeast",
+    "repo": "AsoBeast/asobeast",
+    "license": "AGPL-3.0",
+    "description": "Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list."
    }
   ]
  }
