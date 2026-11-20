@@ -112,6 +112,7 @@ Teal: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [ai-resume-builder](https://github.com/SamurAIGPT/ai-resume-builder) | Open-source AI resume builder & optimizer | See repo | ★ 14 |
+| [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent: scores each job against your CV, tailors an ATS-friendly resume and tracks applications from your terminal. | MIT | ★ 80k |
 
 ### Kickresume
 
