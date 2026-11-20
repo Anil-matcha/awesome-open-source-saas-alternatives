@@ -906,6 +906,7 @@ Manus: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-agent](https://github.com/AFK-surf/open-agent) | Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus. | Apache-2.0 | ★ 1.1k |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Local-first desktop AI teams for research and business deliverables, with task planning, specialist agents and scheduled workflows. | MIT | ★ 9.3k |
 
 ### OpenArt
 
