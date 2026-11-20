@@ -1509,6 +1509,12 @@
     "repo": "sunerpy/voltip",
     "license": "AGPL-3.0",
     "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary."
+   },
+   {
+    "name": "Purr",
+    "repo": "iamarunbrahma/purr",
+    "license": "MIT",
+    "description": "Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device."
    }
   ]
  },
@@ -1845,6 +1851,12 @@
     "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "license": "NOASSERTION",
     "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   },
+   {
+    "name": "Purr",
+    "repo": "iamarunbrahma/purr",
+    "license": "MIT",
+    "description": "Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device."
    }
   ]
  },

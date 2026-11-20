@@ -888,6 +888,7 @@ Granola: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies,  | NOASSERTION | ★ 3.4k |
+| [Purr](https://github.com/iamarunbrahma/purr) | Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device. | MIT |  |
 
 ### Manus
 
@@ -922,6 +923,7 @@ Wispr Flow: paid SaaS product.
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription | NOASSERTION | ★ 7.2k |
 | [freeflow](https://github.com/zachlatta/freeflow) | Free & fast alternative to Wispr Flow | MIT | ★ 3.1k |
 | [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 120 |
+| [Purr](https://github.com/iamarunbrahma/purr) | Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device. | MIT |  |
 
 ### Fireflies.ai
 
