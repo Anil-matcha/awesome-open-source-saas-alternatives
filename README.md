@@ -1358,6 +1358,14 @@ AWS Cognito: paid SaaS product.
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees. | Apache-2.0 | ★ 15k |
 
+### RevenueCat
+
+RevenueCat: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [openpurr](https://github.com/openpurr/openpurr) | An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure | Apache-2.0 | ★ 1 |
+
 ## Monitoring
 
 ### Datadog

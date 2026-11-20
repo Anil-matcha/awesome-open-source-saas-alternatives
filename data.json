@@ -3366,5 +3366,19 @@
     "description": "One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies."
    }
   ]
+ },
+ {
+  "slug": "revenuecat",
+  "name": "RevenueCat",
+  "category": "Developer Tools",
+  "description": "RevenueCat: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpurr",
+    "repo": "openpurr/openpurr",
+    "license": "Apache-2.0",
+    "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
+   }
+  ]
  }
 ]

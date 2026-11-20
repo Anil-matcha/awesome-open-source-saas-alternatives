@@ -1023,5 +1023,10 @@
     "stars": 3,
     "license": "MIT",
     "pushedAt": "2026-11-04T21:40:33Z"
+  },
+  "openpurr/openpurr": {
+    "stars": 1,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-11-19T20:10:16Z"
   }
 }
