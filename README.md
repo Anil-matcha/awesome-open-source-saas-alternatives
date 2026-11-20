@@ -180,6 +180,14 @@ Immersive Translate: paid SaaS product.
 |---|---|---|---|
 | [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator) | An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. | AGPL-3.0 | ★ 12 |
 
+### Obsidian
+
+Obsidian: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Opensidian](https://github.com/jpzk/opensidian) | A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins | GPL-3.0 | ★ 303 |
+
 ### Todoist
 
 Todoist: paid SaaS product.
@@ -234,6 +242,14 @@ Twilio: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio. | MIT | ★ 8.2k |
+
+### Gmail
+
+Gmail: freemium email service.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) | Open-source clients for a free end-to-end encrypted email service, with post-quantum protection between Aster users and OpenPGP for outside mail. | AGPL-3.0 |  |
 
 ### Google Meet
 
@@ -839,6 +855,14 @@ AppTweak: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [AsoBeast](https://github.com/AsoBeast/asobeast) | Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list. | AGPL-3.0 | ★ 109 |
+
+### Ayrshare
+
+Social media publishing and analytics API.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Social SDK](https://github.com/opencoredev/social-sdk) | Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends. | MIT |  |
 
 ### BuiltWith
 

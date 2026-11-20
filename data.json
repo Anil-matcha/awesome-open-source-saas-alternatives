@@ -3774,5 +3774,47 @@
     "description": "Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list."
    }
   ]
+ },
+ {
+  "slug": "obsidian",
+  "name": "Obsidian",
+  "category": "Productivity",
+  "description": "Obsidian: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Opensidian",
+    "repo": "jpzk/opensidian",
+    "license": "GPL-3.0",
+    "description": "A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins"
+   }
+  ]
+ },
+ {
+  "slug": "gmail",
+  "name": "Gmail",
+  "category": "Communication",
+  "description": "Gmail: freemium email service.",
+  "alternatives": [
+   {
+    "name": "Aster Mail",
+    "repo": "Aster-Privacy/Aster-Mail",
+    "license": "AGPL-3.0",
+    "description": "Open-source clients for a free end-to-end encrypted email service, with post-quantum protection between Aster users and OpenPGP for outside mail."
+   }
+  ]
+ },
+ {
+  "slug": "ayrshare",
+  "name": "Ayrshare",
+  "category": "Marketing",
+  "description": "Social media publishing and analytics API.",
+  "alternatives": [
+   {
+    "name": "Social SDK",
+    "repo": "opencoredev/social-sdk",
+    "license": "MIT",
+    "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
+   }
+  ]
  }
 ]
