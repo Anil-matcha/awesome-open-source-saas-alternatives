@@ -3420,5 +3420,19 @@
     "description": "Open-source QR code generator with dynamic codes, scan analytics and developer APIs. The web app can be self-hosted."
    }
   ]
+ },
+ {
+  "slug": "cozi",
+  "name": "Cozi",
+  "category": "Productivity",
+  "description": "Family organizer with shared calendars, lists and meal planning.",
+  "alternatives": [
+   {
+    "name": "OpenFamily",
+    "repo": "NexaFlowFrance/OpenFamily",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting."
+   }
+  ]
  }
 ]
