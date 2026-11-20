@@ -1174,6 +1174,7 @@ Frontend hosting and deployment platform.
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 39k |
 | [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
 | [temps](https://github.com/gotempsh/temps) | AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo | Apache-2.0 | ★ 936 |
+| [Forge](https://github.com/reliant-labs/forge) | Apache-2.0 framework and CLI to deploy static sites and container apps, with built-in telemetry and release health checks. | Apache-2.0 | ★ 10 |
 
 ### Auth0
 

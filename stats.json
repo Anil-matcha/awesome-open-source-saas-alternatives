@@ -1038,5 +1038,10 @@
     "stars": 2,
     "license": "MIT",
     "pushedAt": "2026-11-19T07:09:23Z"
+  },
+  "reliant-labs/forge": {
+    "stars": 10,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-11-18T14:26:17Z"
   }
 }
