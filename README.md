@@ -980,6 +980,7 @@ Wispr Flow: paid SaaS product.
 | [freeflow](https://github.com/zachlatta/freeflow) | Free & fast alternative to Wispr Flow | MIT | ★ 3.1k |
 | [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 120 |
 | [Purr](https://github.com/iamarunbrahma/purr) | Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device. | MIT |  |
+| [Plainsay](https://github.com/conrader/plainsay) | Native Mac menu-bar dictation: hold a key, speak, and text lands at your cursor. Free Local mode runs Whisper or Parakeet on device, no account. | MIT | ★ 12 |
 
 ### Fireflies.ai
 

@@ -1545,6 +1545,12 @@
     "repo": "iamarunbrahma/purr",
     "license": "MIT",
     "description": "Mac dictation that types into any app, plus meeting notes without a bot, with speech recognition and summaries running on-device."
+   },
+   {
+    "name": "Plainsay",
+    "repo": "conrader/plainsay",
+    "license": "MIT",
+    "description": "Native Mac menu-bar dictation: hold a key, speak, and text lands at your cursor. Free Local mode runs Whisper or Parakeet on device, no account."
    }
   ]
  },
