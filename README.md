@@ -832,6 +832,14 @@ MakeUGC: paid SaaS product.
 |---|---|---|---|
 | [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) | Open AI UGC | MIT | ★ 442 |
 
+### AppTweak
+
+AppTweak: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [AsoBeast](https://github.com/AsoBeast/asobeast) | Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list. | AGPL-3.0 | ★ 109 |
+
 ### BuiltWith
 
 BuiltWith: paid SaaS product.
