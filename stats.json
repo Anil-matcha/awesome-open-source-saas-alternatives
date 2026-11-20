@@ -1043,5 +1043,10 @@
     "stars": 10,
     "license": "Apache-2.0",
     "pushedAt": "2026-11-18T14:26:17Z"
+  },
+  "qrdxinc/qrdx": {
+    "stars": 25,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-11-17T23:42:23Z"
   }
 }

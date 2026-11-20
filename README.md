@@ -770,6 +770,14 @@ BuiltWith: paid SaaS product.
 |---|---|---|---|
 | [looot-techstack](https://github.com/loootai/looot-techstack) | Self-hosted BuiltWith and Wappalyzer alternative: tech stack lookups from several providers side by side, paid per domain via looot. Demo mode. | MIT | ★ 1 |
 
+### Uniqode
+
+Uniqode: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [QRdx](https://github.com/qrdxinc/qrdx) | Open-source QR code generator with dynamic codes, scan analytics and developer APIs. The web app can be self-hosted. | AGPL-3.0 | ★ 25 |
+
 ## AI
 
 ### ChatGPT

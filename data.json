@@ -3406,5 +3406,19 @@
     "description": "Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust."
    }
   ]
+ },
+ {
+  "slug": "uniqode",
+  "name": "Uniqode",
+  "category": "Marketing",
+  "description": "Uniqode: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "QRdx",
+    "repo": "qrdxinc/qrdx",
+    "license": "AGPL-3.0",
+    "description": "Open-source QR code generator with dynamic codes, scan analytics and developer APIs. The web app can be self-hosted."
+   }
+  ]
  }
 ]
