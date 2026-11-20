@@ -3782,5 +3782,19 @@
     "description": "A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins"
    }
   ]
+ },
+ {
+  "slug": "gmail",
+  "name": "Gmail",
+  "category": "Communication",
+  "description": "Gmail: freemium email service.",
+  "alternatives": [
+   {
+    "name": "Aster Mail",
+    "repo": "Aster-Privacy/Aster-Mail",
+    "license": "AGPL-3.0",
+    "description": "Open-source clients for a free end-to-end encrypted email service, with post-quantum protection between Aster users and OpenPGP for outside mail."
+   }
+  ]
  }
 ]
