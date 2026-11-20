@@ -848,6 +848,14 @@ Redreach: paid SaaS product.
 |---|---|---|---|
 | [Reddit Lead Finder](https://github.com/Balance0014/reddit-lead-finder) | Chrome extension that finds Reddit posts from people stuck on the problem your product solves and drafts a reply you post yourself, on your Workers AI account. | MIT | ★ 0 |
 
+### Sensor Tower
+
+Sensor Tower: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [AsoBeast](https://github.com/AsoBeast/asobeast) | Open-source ASO tool for App Store and Google Play keyword ranks, competitors and reviews. Covers the ASO side, not download or revenue estimates. | AGPL-3.0 | ★ 109 |
+
 ### Uniqode
 
 Uniqode: paid SaaS product.
