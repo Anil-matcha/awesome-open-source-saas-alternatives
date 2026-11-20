@@ -3562,5 +3562,19 @@
     "description": "Open-source AI team for support, marketing, sales and code. Each teammate is Claude Code or Codex running on your own subscription."
    }
   ]
+ },
+ {
+  "slug": "fivetran",
+  "name": "Fivetran",
+  "category": "Analytics",
+  "description": "Fivetran: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Filament",
+    "repo": "galaxy-io/filament",
+    "license": "Apache-2.0",
+    "description": "Self-hosted data replication from SaaS APIs and databases to warehouses, with full, incremental and CDC syncs. Open source alternative to Fivetran."
+   }
+  ]
  }
 ]

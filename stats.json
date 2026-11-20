@@ -1088,5 +1088,10 @@
     "stars": 0,
     "license": "AGPL-3.0",
     "pushedAt": "2026-11-10T10:36:32Z"
+  },
+  "galaxy-io/filament": {
+    "stars": 284,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-11-09T16:26:12Z"
   }
 }

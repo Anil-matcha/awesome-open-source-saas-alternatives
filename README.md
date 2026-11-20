@@ -459,6 +459,14 @@ Business intelligence.
 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | NOASSERTION | ★ 25k |
 | [graphic-walker](https://github.com/Kanaries/graphic-walker) | An open source alternative to Tableau. Embeddable visual analytic | Apache-2.0 | ★ 3.3k |
 
+### Fivetran
+
+Fivetran: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Filament](https://github.com/galaxy-io/filament) | Self-hosted data replication from SaaS APIs and databases to warehouses, with full, incremental and CDC syncs. Open source alternative to Fivetran. | Apache-2.0 | ★ 284 |
+
 ### Hotjar
 
 Hotjar: paid SaaS product.
