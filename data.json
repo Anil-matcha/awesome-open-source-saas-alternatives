@@ -3448,5 +3448,19 @@
     "description": "End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions."
    }
   ]
+ },
+ {
+  "slug": "cleanmymac",
+  "name": "CleanMyMac",
+  "category": "Productivity",
+  "description": "Subscription Mac cleanup app for memory, disk space and uninstalling apps.",
+  "alternatives": [
+   {
+    "name": "Boost",
+    "repo": "Kernel-Hunter/boost",
+    "license": "GPL-3.0",
+    "description": "Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps."
+   }
+  ]
  }
 ]
