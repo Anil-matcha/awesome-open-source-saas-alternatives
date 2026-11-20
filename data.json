@@ -3608,5 +3608,19 @@
     "description": "Open-source desktop app that runs Claude Code, Codex and other coding agents in parallel git worktrees and follows each PR through CI and review."
    }
   ]
+ },
+ {
+  "slug": "ionic-appflow",
+  "name": "Ionic Appflow",
+  "category": "Developer Tools",
+  "description": "Ionic Appflow: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OtaKit",
+    "repo": "OtaKit/otakit",
+    "license": "MIT",
+    "description": "Open-source live updates for Capacitor apps: ship web-layer fixes without app store review, with signed releases and automatic rollback. Self-hostable."
+   }
+  ]
  }
 ]

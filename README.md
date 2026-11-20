@@ -1439,6 +1439,14 @@ AWS Cognito: paid SaaS product.
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees. | Apache-2.0 | ★ 15k |
 
+### Ionic Appflow
+
+Ionic Appflow: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [OtaKit](https://github.com/OtaKit/otakit) | Open-source live updates for Capacitor apps: ship web-layer fixes without app store review, with signed releases and automatic rollback. Self-hostable. | MIT | ★ 48 |
+
 ### mabl
 
 AI-powered test automation for web and mobile applications.
