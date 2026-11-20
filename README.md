@@ -1627,6 +1627,7 @@ Splitwise: paid SaaS product.
 |---|---|---|---|
 | [spliit](https://github.com/spliit-app/spliit) | Free and Open Source Alternative to Splitwise. Share expenses with your friends and family. | MIT | ★ 3.1k |
 | [split-pro](https://github.com/oss-apps/split-pro) | Open source alternative to Splitwise | MIT | ★ 1.5k |
+| [ManaWG](https://github.com/Abuarchiv/manawg) | Split shared-flat expenses and import Splitwise CSVs, with a cleaning rota and shared shopping list. Self-host with Docker or use the free hosted app. | Apache-2.0 | ★ 1 |
 
 ### Unit21/Verafin/Oscilar/Actimize/Abrigo
 
