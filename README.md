@@ -1309,6 +1309,7 @@ Backend-as-a-service for apps.
 | [PocketBase](https://github.com/pocketbase/pocketbase) | Single-file backend with realtime database and auth. | MIT | ★ 62k |
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
 | [measure](https://github.com/measure-sh/measure) | Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics. | Apache-2.0 | ★ 1.4k |
+| [Nhost](https://github.com/nhost/nhost) | Managed backend for agentic apps: Postgres, GraphQL, auth, storage, functions and an MCP server. Open source and self-hostable. | MIT | ★ 9.4k |
 
 ### Vercel
 

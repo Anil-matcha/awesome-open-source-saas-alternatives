@@ -1148,5 +1148,10 @@
     "stars": 303,
     "license": "GPL-3.0",
     "pushedAt": "2026-10-27T17:37:58Z"
+  },
+  "nhost/nhost": {
+    "stars": 9370,
+    "license": "MIT",
+    "pushedAt": "2026-10-28T08:48:36Z"
   }
 }
