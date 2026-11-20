@@ -599,6 +599,12 @@
     "repo": "abhinavxd/libredesk",
     "license": "AGPL-3.0",
     "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   },
+   {
+    "name": "FeedLog",
+    "repo": "linkcraftstudio/feedlog",
+    "license": "MIT",
+    "description": "Open-source AI customer support for SaaS teams, with an AI widget, knowledge base, shared inbox, and customer feedback workflows."
    }
   ]
  },
