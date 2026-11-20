@@ -433,6 +433,14 @@ Adobe Lightroom: paid Adobe Creative Cloud product.
 |---|---|---|---|
 | [LightCraft](https://github.com/storytold/lightcraft) | LightCraft: An open-source non-destructive photo editor written from scratch in Rust | Apache-2.0 | ★ 16k |
 
+### Milanote
+
+Milanote: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Breatic](https://github.com/orime-org/breatic) | Collaborative documents and AI canvases for creative teams to organize briefs, references and generated media. | AGPL-3.0 | ★ 3 |
+
 ## Analytics
 
 ### Google Analytics

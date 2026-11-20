@@ -3670,5 +3670,19 @@
     "description": "Open-source AI job search agent with a local job application tracker: scores each job against your CV and tailors your resume, from your terminal."
    }
   ]
+ },
+ {
+  "slug": "milanote",
+  "name": "Milanote",
+  "category": "Design",
+  "description": "Milanote: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Breatic",
+    "repo": "orime-org/breatic",
+    "license": "AGPL-3.0",
+    "description": "Collaborative documents and AI canvases for creative teams to organize briefs, references and generated media."
+   }
+  ]
  }
 ]
