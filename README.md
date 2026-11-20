@@ -1140,6 +1140,14 @@ PromptPerfect: paid SaaS product.
 |---|---|---|---|
 | [prompt-architect](https://github.com/SamurAIGPT/prompt-architect) | Open-source AI prompt engineering workspace | See repo | ★ 24 |
 
+### Sintra
+
+Sintra: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Brigade](https://github.com/gmpetrov/brigade) | Open-source AI team for support, marketing, sales and code. Each teammate is Claude Code or Codex running on your own subscription. | MIT | ★ 3 |
+
 ### YouCam Hair
 
 YouCam Hair: paid SaaS product.
