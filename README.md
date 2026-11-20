@@ -262,6 +262,7 @@ Raster image editing.
 | [PhotoCraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written from scratch in Rust | Apache-2.0 | ★ 81k |
 | [Krita](https://github.com/KDE/krita) | Digital painting and illustration. For photo editing, see GIMP. | GPL-3.0 | ★ 11k |
 | [GIMP](https://www.gimp.org) | Long-standing free image editor. | GPL-3.0 |  |
+| [PeerBrush](https://github.com/Deftr0y/PeerBrush) | GPLv3 desktop painting and layered image editor with supported RGB PSD editing and optional local MCP collaboration. | GPL-3.0 | ★ 8 |
 
 ### Miro
 
