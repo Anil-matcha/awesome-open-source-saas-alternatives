@@ -180,6 +180,14 @@ Immersive Translate: paid SaaS product.
 |---|---|---|---|
 | [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator) | An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. | AGPL-3.0 | ★ 12 |
 
+### Obsidian
+
+Obsidian: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Opensidian](https://github.com/jpzk/opensidian) | A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins | GPL-3.0 | ★ 303 |
+
 ### Todoist
 
 Todoist: paid SaaS product.
