@@ -599,6 +599,12 @@
     "repo": "abhinavxd/libredesk",
     "license": "AGPL-3.0",
     "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   },
+   {
+    "name": "FeedLog",
+    "repo": "linkcraftstudio/feedlog",
+    "license": "MIT",
+    "description": "Open-source AI customer support for SaaS teams, with an AI widget, knowledge base, shared inbox, and customer feedback workflows."
    }
   ]
  },
@@ -705,6 +711,12 @@
     "repo": "saleor/saleor",
     "license": "BSD-3-Clause",
     "description": "Headless commerce backend. No storefront out of the box."
+   },
+   {
+    "name": "ShopNex",
+    "repo": "shopnex-ai/shopnex",
+    "license": "MIT",
+    "description": "Self-hosted store with admin, Liquid-themed storefront, checkout, REST API and webhooks."
    }
   ]
  },
@@ -3338,6 +3350,34 @@
     "repo": "zellerhaus/vidfiddle",
     "license": "MIT",
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
+   }
+  ]
+ },
+ {
+  "slug": "statusgator",
+  "name": "StatusGator",
+  "category": "Monitoring",
+  "description": "Aggregates the status pages of the cloud services and SaaS vendors you depend on.",
+  "alternatives": [
+   {
+    "name": "Some Systems Operational",
+    "repo": "thumsl/somesystemsoperational",
+    "license": "MIT",
+    "description": "One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies."
+   }
+  ]
+ },
+ {
+  "slug": "revenuecat",
+  "name": "RevenueCat",
+  "category": "Developer Tools",
+  "description": "RevenueCat: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpurr",
+    "repo": "openpurr/openpurr",
+    "license": "Apache-2.0",
+    "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
    }
   ]
  },
