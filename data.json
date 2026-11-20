@@ -3502,5 +3502,19 @@
     "description": "Local webhook inspector with replay, Stripe and GitHub signature checks, and test export."
    }
   ]
+ },
+ {
+  "slug": "todoist",
+  "name": "Todoist",
+  "category": "Productivity",
+  "description": "Todoist: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Kairos",
+    "repo": "SKOHscripts/Kairos",
+    "license": "MIT",
+    "description": "Offline to-do list that ranks tasks by priority and schedules them around your meetings. No account, runs on Android, desktop and web."
+   }
+  ]
  }
 ]

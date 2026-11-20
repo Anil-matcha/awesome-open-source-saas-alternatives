@@ -169,6 +169,14 @@ Immersive Translate: paid SaaS product.
 |---|---|---|---|
 | [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator) | An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. | AGPL-3.0 | ★ 12 |
 
+### Todoist
+
+Todoist: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Kairos](https://github.com/SKOHscripts/Kairos) | Offline to-do list that ranks tasks by priority and schedules them around your meetings. No account, runs on Android, desktop and web. | MIT | ★ 17 |
+
 ## Communication
 
 ### Slack
