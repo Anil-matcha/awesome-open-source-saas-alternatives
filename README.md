@@ -1699,6 +1699,7 @@ Opus Clip: paid SaaS product.
 |---|---|---|---|
 | [ai-clipping-comfyui](https://github.com/Anil-matcha/ai-clipping-comfyui) | Free open-source Opus Clip alternative for ComfyUI | MIT | ★ 44 |
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 6.3k |
+| [Reelsaw](https://github.com/osbytes/reelsaw) | Self-hosted AI clipper: long videos to vertical shorts with face-tracked reframing, verified filler cuts and captions. Runs fully local with Ollama. | AGPL-3.0 |  |
 
 ### SubMagic
 
@@ -1708,6 +1709,7 @@ SubMagic: paid SaaS product.
 |---|---|---|---|
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 6.3k |
 | [OpenSubs](https://github.com/open-subs/opensubs) | On-device video captioning with Whisper transcription, styling, and SRT, VTT, or ASS export. | AGPL-3.0 | ★ 181 |
+| [Reelsaw](https://github.com/osbytes/reelsaw) | Self-hosted clipper with word-highlight karaoke captions, hook overlays and filler-word cuts, burned into vertical shorts. Runs fully local. | AGPL-3.0 |  |
 
 ### CleanShot X
 
@@ -1725,6 +1727,7 @@ Klap: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) | Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper tra | MIT | ★ 6.3k |
+| [Reelsaw](https://github.com/osbytes/reelsaw) | Self-hosted Klap alternative: turns a long video or YouTube link into captioned 9:16 shorts with LLM-ranked moments and face-tracked reframing. | AGPL-3.0 |  |
 
 ### Vidyo.ai
 
