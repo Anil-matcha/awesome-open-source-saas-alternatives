@@ -1717,6 +1717,14 @@ Professional video editing.
 | [Kdenlive](https://github.com/KDE/kdenlive) | Multi-track non-linear video editor. | GPL-3.0 | ★ 6.2k |
 | [OpenShot](https://github.com/OpenShot/openshot-qt) | Easy-to-use cross-platform video editor. | GPL-3.0 | ★ 6.8k |
 
+### Lumen5
+
+Lumen5: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Vidfiddle](https://github.com/zellerhaus/vidfiddle) | Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer. | MIT | ★ 3 |
+
 ### Pictory
 
 Pictory: paid SaaS product.

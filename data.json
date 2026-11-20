@@ -3622,5 +3622,19 @@
     "description": "Open-source live updates for Capacitor apps: ship web-layer fixes without app store review, with signed releases and automatic rollback. Self-hostable."
    }
   ]
+ },
+ {
+  "slug": "lumen5",
+  "name": "Lumen5",
+  "category": "Video",
+  "description": "Lumen5: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Vidfiddle",
+    "repo": "zellerhaus/vidfiddle",
+    "license": "MIT",
+    "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
+   }
+  ]
  }
 ]
