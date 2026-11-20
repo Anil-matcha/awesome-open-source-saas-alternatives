@@ -907,14 +907,6 @@ Wispr Flow: paid SaaS product.
 | [freeflow](https://github.com/zachlatta/freeflow) | Free & fast alternative to Wispr Flow | MIT | ★ 3.1k |
 | [Voltip](https://github.com/sunerpy/voltip) | Push-to-talk dictation for Windows, macOS, Linux and Android with on-device or cloud recognition, AI polish and a personal dictionary. | AGPL-3.0 | ★ 120 |
 
-### Genspark
-
-Genspark: paid SaaS product.
-
-| Alternative | Description | License | Stars |
-|---|---|---|---|
-| [lemonai](https://github.com/hexdocom/lemonai) | Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 | NOASSERTION | ★ 1.6k |
-
 ### Fireflies.ai
 
 Fireflies.ai: paid SaaS product.
@@ -922,6 +914,14 @@ Fireflies.ai: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies,  | NOASSERTION | ★ 3.4k |
+
+### Genspark
+
+Genspark: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [lemonai](https://github.com/hexdocom/lemonai) | Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 | NOASSERTION | ★ 1.6k |
 
 ### Krea
 
@@ -1265,6 +1265,14 @@ Infrastructure as code.
 |---|---|---|---|
 | [OpenTofu](https://github.com/opentofu/opentofu) | Community-driven Terraform fork. | MPL-2.0 | ★ 31k |
 
+### PubNub
+
+PubNub: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [centrifugo](https://github.com/centrifugal/centrifugo) | Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once | Apache-2.0 | ★ 11k |
+
 ### Heroku
 
 Heroku: paid SaaS product.
@@ -1274,14 +1282,6 @@ Heroku: paid SaaS product.
 | [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ | Apache-2.0 | ★ 66k |
 | [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | NOASSERTION | ★ 39k |
 | [kubero](https://github.com/kubero-dev/kubero) | A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes | GPL-3.0 | ★ 4.5k |
-
-### PubNub
-
-PubNub: paid SaaS product.
-
-| Alternative | Description | License | Stars |
-|---|---|---|---|
-| [centrifugo](https://github.com/centrifugal/centrifugo) | Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once | Apache-2.0 | ★ 11k |
 
 ### ngrok
 
@@ -1299,6 +1299,14 @@ Stytch: paid SaaS product.
 |---|---|---|---|
 | [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 
+### WorkOS
+
+WorkOS: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
+
 ### Algolia
 
 Hosted search.
@@ -1307,14 +1315,6 @@ Hosted search.
 |---|---|---|---|
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | Fast, typo-tolerant search engine. | MIT | ★ 60k |
 | [Typesense](https://github.com/typesense/typesense) | Open source typo-tolerant search engine. | GPL-3.0 | ★ 27k |
-
-### WorkOS
-
-WorkOS: paid SaaS product.
-
-| Alternative | Description | License | Stars |
-|---|---|---|---|
-| [hanko](https://github.com/teamhanko/hanko) | Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. | AGPL-3.0 | ★ 9.1k |
 
 ### Retool
 
@@ -1383,6 +1383,14 @@ AWS Cognito: paid SaaS product.
 |---|---|---|---|
 | [supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  | NOASSERTION | ★ 15k |
 | [Casdoor](https://github.com/casdoor/casdoor) | Open-source user directory and SSO server with OIDC, OAuth 2.0, SAML and MFA that runs on any cloud, with no per-user fees. | Apache-2.0 | ★ 15k |
+
+### mabl
+
+AI-powered test automation for web and mobile applications.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [e2e](https://github.com/e2e-inc/e2e) | End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions. | Apache-2.0 |  |
 
 ### RevenueCat
 
