@@ -856,6 +856,14 @@ AppTweak: paid SaaS product.
 |---|---|---|---|
 | [AsoBeast](https://github.com/AsoBeast/asobeast) | Open-source ASO tool for the App Store and Google Play: daily keyword rank tracking, competitor alerts, reviews and an impact-ranked to-do list. | AGPL-3.0 | ★ 109 |
 
+### Ayrshare
+
+Social media publishing and analytics API.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Social SDK](https://github.com/opencoredev/social-sdk) | Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends. | MIT |  |
+
 ### BuiltWith
 
 BuiltWith: paid SaaS product.

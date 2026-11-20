@@ -3796,5 +3796,19 @@
     "description": "Open-source clients for a free end-to-end encrypted email service, with post-quantum protection between Aster users and OpenPGP for outside mail."
    }
   ]
+ },
+ {
+  "slug": "ayrshare",
+  "name": "Ayrshare",
+  "category": "Marketing",
+  "description": "Social media publishing and analytics API.",
+  "alternatives": [
+   {
+    "name": "Social SDK",
+    "repo": "opencoredev/social-sdk",
+    "license": "MIT",
+    "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
+   }
+  ]
  }
 ]
