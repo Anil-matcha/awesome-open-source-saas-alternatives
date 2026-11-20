@@ -161,6 +161,14 @@ Family organizer with shared calendars, lists and meal planning.
 |---|---|---|---|
 | [OpenFamily](https://github.com/NexaFlowFrance/OpenFamily) | Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting. | AGPL-3.0 |  |
 
+### Immersive Translate
+
+Immersive Translate: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [OpenImmersive Translator](https://github.com/OpenImmersive/OpenImmersive-Translator) | An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge. | AGPL-3.0 | ★ 12 |
+
 ## Communication
 
 ### Slack

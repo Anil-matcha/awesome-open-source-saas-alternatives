@@ -1048,5 +1048,10 @@
     "stars": 25,
     "license": "AGPL-3.0",
     "pushedAt": "2026-11-17T23:42:23Z"
+  },
+  "OpenImmersive/OpenImmersive-Translator": {
+    "stars": 12,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-11-13T03:59:10Z"
   }
 }

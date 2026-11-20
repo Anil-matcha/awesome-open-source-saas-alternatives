@@ -3462,5 +3462,19 @@
     "description": "Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps."
    }
   ]
+ },
+ {
+  "slug": "immersive-translate",
+  "name": "Immersive Translate",
+  "category": "Productivity",
+  "description": "Immersive Translate: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "OpenImmersive Translator",
+    "repo": "OpenImmersive/OpenImmersive-Translator",
+    "license": "AGPL-3.0",
+    "description": "An open-source alternative to Immersive Translate. Read any web page side by side with its translation. Open-source extension for Chrome, Firefox and Edge."
+   }
+  ]
  }
 ]
