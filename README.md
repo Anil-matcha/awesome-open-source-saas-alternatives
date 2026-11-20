@@ -499,6 +499,7 @@ Online store platform.
 |---|---|---|---|
 | [Medusa](https://github.com/medusajs/medusa) | Composable commerce engine. | MIT | ★ 37k |
 | [Saleor](https://github.com/saleor/saleor) | Headless commerce backend. No storefront out of the box. | BSD-3-Clause | ★ 24k |
+| [ShopNex](https://github.com/shopnex-ai/shopnex) | Self-hosted store with admin, Liquid-themed storefront, checkout, REST API and webhooks. | MIT |  |
 
 ### Botika
 
