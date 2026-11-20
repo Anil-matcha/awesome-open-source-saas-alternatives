@@ -521,6 +521,7 @@ Cloud file storage and sync.
 |---|---|---|---|
 | [Nextcloud](https://github.com/nextcloud/server) | Self-hosted file sync, sharing and collaboration platform. | AGPL-3.0 | ★ 38k |
 | [Syncthing](https://github.com/syncthing/syncthing) | Peer-to-peer file sync. No cloud storage or share links. | MPL-2.0 | ★ 91k |
+| [filex](https://github.com/BRF-Tech/filex) | Self-hosted file manager with desktop folder sync, share links, OIDC/LDAP login and S3/WebDAV/SFTP access, in one Go binary. | MIT | ★ 90 |
 
 ## E-commerce
 
