@@ -1079,6 +1079,14 @@ ChatGPT Agent: paid SaaS product.
 |---|---|---|---|
 | [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 7.1k |
 
+### E2B
+
+E2B: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [virtx](https://github.com/brekkylab/virtx) | Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust. | Apache-2.0 | ★ 10 |
+
 ### PromptPerfect
 
 PromptPerfect: paid SaaS product.

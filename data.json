@@ -3380,5 +3380,19 @@
     "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
    }
   ]
+ },
+ {
+  "slug": "e2b",
+  "name": "E2B",
+  "category": "AI",
+  "description": "E2B: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "virtx",
+    "repo": "brekkylab/virtx",
+    "license": "Apache-2.0",
+    "description": "Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust."
+   }
+  ]
  }
 ]
