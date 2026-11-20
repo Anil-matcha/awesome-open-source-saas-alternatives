@@ -260,6 +260,12 @@
     "repo": "gotempsh/temps",
     "license": "Apache-2.0",
     "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex & OpenCo"
+   },
+   {
+    "name": "Forge",
+    "repo": "reliant-labs/forge",
+    "license": "Apache-2.0",
+    "description": "Apache-2.0 framework and CLI to deploy static sites and container apps, with built-in telemetry and release health checks."
    }
   ]
  },
@@ -443,6 +449,12 @@
     "repo": "penpot/penpot",
     "license": "MPL-2.0",
     "description": "Design and prototyping platform for design and code teams."
+   },
+   {
+    "name": "Evora",
+    "repo": "ShishirShastry/evora",
+    "license": "MIT",
+    "description": "Desktop design tool for Windows, macOS and Linux: works offline, free real-time teamwork, opens Figma .fig files, and AI agents can design in it via MCP."
    }
   ]
  },
@@ -599,6 +611,12 @@
     "repo": "abhinavxd/libredesk",
     "license": "AGPL-3.0",
     "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot."
+   },
+   {
+    "name": "FeedLog",
+    "repo": "linkcraftstudio/feedlog",
+    "license": "MIT",
+    "description": "Open-source AI customer support for SaaS teams, with an AI widget, knowledge base, shared inbox, and customer feedback workflows."
    }
   ]
  },
@@ -705,6 +723,12 @@
     "repo": "saleor/saleor",
     "license": "BSD-3-Clause",
     "description": "Headless commerce backend. No storefront out of the box."
+   },
+   {
+    "name": "ShopNex",
+    "repo": "shopnex-ai/shopnex",
+    "license": "MIT",
+    "description": "Self-hosted store with admin, Liquid-themed storefront, checkout, REST API and webhooks."
    }
   ]
  },
@@ -3338,6 +3362,104 @@
     "repo": "zellerhaus/vidfiddle",
     "license": "MIT",
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
+   }
+  ]
+ },
+ {
+  "slug": "statusgator",
+  "name": "StatusGator",
+  "category": "Monitoring",
+  "description": "Aggregates the status pages of the cloud services and SaaS vendors you depend on.",
+  "alternatives": [
+   {
+    "name": "Some Systems Operational",
+    "repo": "thumsl/somesystemsoperational",
+    "license": "MIT",
+    "description": "One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies."
+   }
+  ]
+ },
+ {
+  "slug": "revenuecat",
+  "name": "RevenueCat",
+  "category": "Developer Tools",
+  "description": "RevenueCat: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "openpurr",
+    "repo": "openpurr/openpurr",
+    "license": "Apache-2.0",
+    "description": "An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure"
+   }
+  ]
+ },
+ {
+  "slug": "e2b",
+  "name": "E2B",
+  "category": "AI",
+  "description": "E2B: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "virtx",
+    "repo": "brekkylab/virtx",
+    "license": "Apache-2.0",
+    "description": "Disposable Linux microVM sandboxes for AI agents and untrusted code, self-hosted on your machine or server and driven from Python, Node or Rust."
+   }
+  ]
+ },
+ {
+  "slug": "uniqode",
+  "name": "Uniqode",
+  "category": "Marketing",
+  "description": "Uniqode: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "QRdx",
+    "repo": "qrdxinc/qrdx",
+    "license": "AGPL-3.0",
+    "description": "Open-source QR code generator with dynamic codes, scan analytics and developer APIs. The web app can be self-hosted."
+   }
+  ]
+ },
+ {
+  "slug": "cozi",
+  "name": "Cozi",
+  "category": "Productivity",
+  "description": "Family organizer with shared calendars, lists and meal planning.",
+  "alternatives": [
+   {
+    "name": "OpenFamily",
+    "repo": "NexaFlowFrance/OpenFamily",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting."
+   }
+  ]
+ },
+ {
+  "slug": "mabl",
+  "name": "mabl",
+  "category": "Developer Tools",
+  "description": "AI-powered test automation for web and mobile applications.",
+  "alternatives": [
+   {
+    "name": "e2e",
+    "repo": "e2e-inc/e2e",
+    "license": "Apache-2.0",
+    "description": "End-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions."
+   }
+  ]
+ },
+ {
+  "slug": "cleanmymac",
+  "name": "CleanMyMac",
+  "category": "Productivity",
+  "description": "Subscription Mac cleanup app for memory, disk space and uninstalling apps.",
+  "alternatives": [
+   {
+    "name": "Boost",
+    "repo": "Kernel-Hunter/boost",
+    "license": "GPL-3.0",
+    "description": "Menu bar app that shows memory use with history, pauses idle apps instead of quitting them, cleans caches that rebuild, and uninstalls apps."
    }
   ]
  },
