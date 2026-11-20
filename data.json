@@ -3636,5 +3636,19 @@
     "description": "Self-hosted app that turns your RSS feed's posts into short vertical videos for about $0.06 each, held for review, then scheduled via Postiz or Publer."
    }
   ]
+ },
+ {
+  "slug": "redreach",
+  "name": "Redreach",
+  "category": "Marketing",
+  "description": "Redreach: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Reddit Lead Finder",
+    "repo": "Balance0014/reddit-lead-finder",
+    "license": "MIT",
+    "description": "Chrome extension that finds Reddit posts from people stuck on the problem your product solves and drafts a reply you post yourself, on your Workers AI account."
+   }
+  ]
  }
 ]

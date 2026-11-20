@@ -814,6 +814,14 @@ BuiltWith: paid SaaS product.
 |---|---|---|---|
 | [looot-techstack](https://github.com/loootai/looot-techstack) | Self-hosted BuiltWith and Wappalyzer alternative: tech stack lookups from several providers side by side, paid per domain via looot. Demo mode. | MIT | ★ 1 |
 
+### Redreach
+
+Redreach: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Reddit Lead Finder](https://github.com/Balance0014/reddit-lead-finder) | Chrome extension that finds Reddit posts from people stuck on the problem your product solves and drafts a reply you post yourself, on your Workers AI account. | MIT | ★ 0 |
+
 ### Uniqode
 
 Uniqode: paid SaaS product.
