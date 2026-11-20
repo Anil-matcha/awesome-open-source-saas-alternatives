@@ -3277,6 +3277,12 @@
     "repo": "jurecki007/nyxiontech-tools",
     "license": "AGPL-3.0",
     "description": "25 PDF and image tools that run in the browser. Merge, split, compress, OCR, redact, sign and convert, with no upload and no account."
+   },
+   {
+    "name": "Paperwing",
+    "repo": "rohanvijaykumar/paperwing",
+    "license": "AGPL-3.0",
+    "description": "Desktop PDF editor for Windows and macOS: edit text and images, sign, fill forms, OCR, redact, compress, merge and convert. Runs offline, no account."
    }
   ]
  },

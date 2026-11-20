@@ -129,6 +129,7 @@ Adobe Acrobat: paid Adobe Creative Cloud product.
 |---|---|---|---|
 | [PdfCraft](https://github.com/storytold/pdfcraft) | PdfCraft: An open-source PDF reader and editor written from scratch in Rust | Apache-2.0 | ★ 21k |
 | [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) | 25 PDF and image tools that run in the browser. Merge, split, compress, OCR, redact, sign and convert, with no upload and no account. | AGPL-3.0 | ★ 0 |
+| [Paperwing](https://github.com/rohanvijaykumar/paperwing) | Desktop PDF editor for Windows and macOS: edit text and images, sign, fill forms, OCR, redact, compress, merge and convert. Runs offline, no account. | AGPL-3.0 | ★ 18 |
 
 ### Awesome Screenshot
 
