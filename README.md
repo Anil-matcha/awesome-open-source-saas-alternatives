@@ -737,6 +737,7 @@ Semrush: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 19 |
+| [AltoRank](https://github.com/AltoRank/altorank) | Open-source SEO content software: researches what your buyers search for and drafts sourced articles. Self-host it free. | AGPL-3.0 |  |
 
 ### Hootsuite
 
@@ -800,6 +801,7 @@ Surfer SEO: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [geo-checker](https://github.com/SamurAIGPT/geo-checker) | Open-source AI GEO (Generative Engine Optimization) auditor | See repo | ★ 19 |
+| [AltoRank](https://github.com/AltoRank/altorank) | Open-source SEO content software: researches what your buyers search for and drafts sourced articles. Self-host it free. | AGPL-3.0 |  |
 
 ### SocialPilot
 
