@@ -1096,6 +1096,7 @@ Superwhisper: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [VoiceInk](https://github.com/Beingpax/VoiceInk) | The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription | NOASSERTION | ★ 7.2k |
+| [Plainsay](https://github.com/conrader/plainsay) | Native Mac dictation with free on-device Whisper or Parakeet and no account; optional paid Cloud. Hold a key, speak, text appears at your cursor. | MIT | ★ 12 |
 
 ### Final Round AI
 

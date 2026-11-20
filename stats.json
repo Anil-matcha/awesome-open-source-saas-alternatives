@@ -1133,5 +1133,10 @@
     "stars": 3,
     "license": null,
     "pushedAt": "2026-11-01T10:55:15Z"
+  },
+  "conrader/plainsay": {
+    "stars": 12,
+    "license": "MIT",
+    "pushedAt": "2026-10-16T05:03:22Z"
   }
 }
