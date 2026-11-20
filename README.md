@@ -1418,6 +1418,14 @@ RevenueCat: paid SaaS product.
 |---|---|---|---|
 | [openpurr](https://github.com/openpurr/openpurr) | An open-source, self‑hosted RevenueCat replacement to control your own mobile app purchase infrastructure | Apache-2.0 | ★ 1 |
 
+### Webhook.site
+
+Webhook.site: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [HookBox](https://github.com/reseachrandomv/hookbox) | Local webhook inspector with replay, Stripe and GitHub signature checks, and test export. | MIT | ★ 0 |
+
 ## Monitoring
 
 ### Datadog
