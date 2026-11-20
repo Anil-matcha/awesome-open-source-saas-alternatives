@@ -164,6 +164,14 @@ Family organizer with shared calendars, lists and meal planning.
 |---|---|---|---|
 | [OpenFamily](https://github.com/NexaFlowFrance/OpenFamily) | Self-hosted family organizer with shared calendars, chores, shopping lists, meal planning, pantry and budgeting. | AGPL-3.0 |  |
 
+### Huntr
+
+Huntr: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [career-ops](https://github.com/career-ops-hq/career-ops) | Open-source AI job search agent with a local job application tracker: scores each job against your CV and tailors your resume, from your terminal. | MIT | ★ 80k |
+
 ### Immersive Translate
 
 Immersive Translate: paid SaaS product.

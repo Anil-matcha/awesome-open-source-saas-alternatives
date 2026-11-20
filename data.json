@@ -3656,5 +3656,19 @@
     "description": "Chrome extension that finds Reddit posts from people stuck on the problem your product solves and drafts a reply you post yourself, on your Workers AI account."
    }
   ]
+ },
+ {
+  "slug": "huntr",
+  "name": "Huntr",
+  "category": "Productivity",
+  "description": "Huntr: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "career-ops",
+    "repo": "career-ops-hq/career-ops",
+    "license": "MIT",
+    "description": "Open-source AI job search agent with a local job application tracker: scores each job against your CV and tailors your resume, from your terminal."
+   }
+  ]
  }
 ]
