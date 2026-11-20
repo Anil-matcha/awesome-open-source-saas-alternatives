@@ -2573,6 +2573,12 @@
     "repo": "codextde/godmode-bot",
     "license": "MIT",
     "description": "Desktop app that turns your Claude subscription into persistent agents doing computer work in your own browser, with a vault for passwords and 2FA codes."
+   },
+   {
+    "name": "yylo",
+    "repo": "yylo-dev/yylo",
+    "license": "MIT",
+    "description": "Self-hosted orchestration layer for AI coding agents: Kanban, task state, and merge orchestration for Claude Code, Codex, and other CLI agents."
    }
   ]
  },
