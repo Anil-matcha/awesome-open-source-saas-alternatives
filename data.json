@@ -64,6 +64,12 @@
     "repo": "bookmarkforge/bookmarkforge-core",
     "license": "MIT",
     "description": "Local-first AI knowledge vault with encrypted bookmarks and notes, offline access, smart search and a knowledge graph."
+   },
+   {
+    "name": "Leafdesk",
+    "repo": "esmworks/leafdesk",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted workspace of pages and databases with realtime collaboration and a built-in MCP server for AI assistants."
    }
   ]
  },
