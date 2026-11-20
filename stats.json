@@ -1098,5 +1098,10 @@
     "stars": 18,
     "license": "AGPL-3.0",
     "pushedAt": "2026-11-08T03:36:13Z"
+  },
+  "OrchestratorInc/agent-orchestrator": {
+    "stars": 14193,
+    "license": "Apache-2.0",
+    "pushedAt": "2026-11-07T06:09:55Z"
   }
 }

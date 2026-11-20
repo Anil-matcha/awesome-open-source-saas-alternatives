@@ -1134,6 +1134,14 @@ ChatGPT Agent: paid SaaS product.
 |---|---|---|---|
 | [open-dots](https://github.com/Anil-matcha/open-dots) | Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice | Apache-2.0 | ★ 7.1k |
 
+### Devin
+
+Devin: paid SaaS product.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Open-source desktop app that runs Claude Code, Codex and other coding agents in parallel git worktrees and follows each PR through CI and review. | Apache-2.0 | ★ 14k |
+
 ### E2B
 
 E2B: paid SaaS product.

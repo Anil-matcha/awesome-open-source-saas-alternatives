@@ -3582,5 +3582,19 @@
     "description": "Self-hosted data replication from SaaS APIs and databases to warehouses, with full, incremental and CDC syncs. Open source alternative to Fivetran."
    }
   ]
+ },
+ {
+  "slug": "devin",
+  "name": "Devin",
+  "category": "AI",
+  "description": "Devin: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Orchestrator",
+    "repo": "OrchestratorInc/agent-orchestrator",
+    "license": "Apache-2.0",
+    "description": "Open-source desktop app that runs Claude Code, Codex and other coding agents in parallel git worktrees and follows each PR through CI and review."
+   }
+  ]
  }
 ]
