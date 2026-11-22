@@ -3840,5 +3840,33 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "easydmarc",
+  "name": "EasyDMARC",
+  "category": "Security",
+  "description": "Email authentication, SPF flattening, and DMARC monitoring platform for sending domains.",
+  "alternatives": [
+   {
+    "name": "InboxShield CLI",
+    "repo": "zColdWater/inboxshield-cli",
+    "license": "MIT",
+    "description": "Zero-dependency 6-phase email DNS auditor & CI gate: NS/SOA, MX redundancy, SPF per-layer CIDR expansion (RFC 7208), 24 DKIM selectors & RFC 7489 DMARC linter."
+   }
+  ]
+ },
+ {
+  "slug": "detectify",
+  "name": "Detectify",
+  "category": "Security",
+  "description": "External attack surface and web application security scanner for engineering teams.",
+  "alternatives": [
+   {
+    "name": "VibeShield CLI",
+    "repo": "zColdWater/vibeshield-cli",
+    "license": "MIT",
+    "description": "Zero-dependency 6-phase read-only web & AI app security CLI: TLS 443, CNAME takeover, 52 secret rules, 28 probes, Supabase RLS, Firebase, CSP AST & CVEs."
+   }
+  ]
  }
 ]

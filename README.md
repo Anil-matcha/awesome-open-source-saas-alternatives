@@ -1292,6 +1292,22 @@ Censys: paid SaaS product.
 |---|---|---|---|
 | [ivre](https://github.com/ivre/ivre) | Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, | GPL-3.0 | ★ 4.2k |
 
+### Detectify
+
+External attack surface and web application security scanner for engineering teams.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [VibeShield CLI](https://github.com/zColdWater/vibeshield-cli) | Zero-dependency 6-phase read-only web & AI app security CLI: TLS 443, CNAME takeover, 52 secret rules, 28 probes, Supabase RLS, Firebase, CSP AST & CVEs. | MIT |  |
+
+### EasyDMARC
+
+Email authentication, SPF flattening, and DMARC monitoring platform for sending domains.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [InboxShield CLI](https://github.com/zColdWater/inboxshield-cli) | Zero-dependency 6-phase email DNS auditor & CI gate: NS/SOA, MX redundancy, SPF per-layer CIDR expansion (RFC 7208), 24 DKIM selectors & RFC 7489 DMARC linter. | MIT |  |
+
 ### Okta
 
 Okta: paid SaaS product.
