@@ -479,6 +479,12 @@
     "repo": "ShishirShastry/evora",
     "license": "MIT",
     "description": "Desktop design tool for Windows, macOS and Linux: works offline, free real-time teamwork, opens Figma .fig files, and AI agents can design in it via MCP."
+   },
+   {
+    "name": "OpenPencil",
+    "repo": "open-pencil/open-pencil",
+    "license": "MIT",
+    "description": "Design editor that opens and saves Figma .fig files, with an AI assistant, MCP server, CLI, real-time collaboration and code export. Desktop and web."
    }
   ]
  },
