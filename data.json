@@ -1049,6 +1049,12 @@
     "repo": "windmill-labs/windmill",
     "license": "NOASSERTION",
     "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-sour"
+   },
+   {
+    "name": "Viberglass",
+    "repo": "Ilities/viberglass",
+    "license": "AGPL-3.0",
+    "description": "Self-hosted internal tool builder: coding agents write the apps, Viberglass hosts them with sign-in, backups, previews and rollback."
    }
   ]
  },
