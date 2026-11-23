@@ -941,6 +941,12 @@
     "repo": "KartikLabhshetwar/better-shot",
     "license": "NOASSERTION",
     "description": "Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-host"
+   },
+   {
+    "name": "Vertov",
+    "repo": "ankurmans/vertov-screen-recorder",
+    "license": "AGPL-3.0",
+    "description": "Self-hostable browser screen and camera recorder with transcript editing and share links."
    }
   ]
  },
