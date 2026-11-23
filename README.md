@@ -276,6 +276,7 @@ Collaborative interface design.
 
 | Alternative | Description | License | Stars |
 |---|---|---|---|
+| [fitv-video-starter](https://github.com/hanshs474/fitv-video-starter) | Open-source self-hostable image-to-video & text-to-video web app with synchronized sound and no watermark ([freeimagetovideo.ai](https://freeimagetovideo.ai/)). | MIT |  |
 | [Penpot](https://github.com/penpot/penpot) | Design and prototyping platform for design and code teams. | MPL-2.0 | ★ 63k |
 | [Evora](https://github.com/ShishirShastry/evora) | Desktop design tool for Windows, macOS and Linux: works offline, free real-time teamwork, opens Figma .fig files, and AI agents can design in it via MCP. | MIT | ★ 2 |
 
