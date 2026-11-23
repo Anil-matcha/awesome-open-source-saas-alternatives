@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "freshbooks",
+  "name": "FreshBooks",
+  "category": "Finance",
+  "description": "FreshBooks: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Firmowid",
+    "repo": "Alergeek-Ventures/firmowid",
+    "license": "AGPL-3.0",
+    "description": "Open-source invoicing for small service businesses with time tracking, bank payment matching and expenses. Self-hostable."
+   }
+  ]
  }
 ]
