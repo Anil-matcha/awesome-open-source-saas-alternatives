@@ -1903,6 +1903,12 @@
     "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "license": "NOASSERTION",
     "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, "
+   },
+   {
+    "name": "EarScribe",
+    "repo": "rocnubie/earscribe-free-speech-to-text",
+    "license": "MIT",
+    "description": "Free browser-based transcription: Whisper runs on the device, timestamped transcript with SRT/VTT export, no upload or account."
    }
   ]
  },
