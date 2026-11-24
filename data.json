@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "novelcrafter",
+  "name": "Novelcrafter",
+  "category": "Publishing",
+  "description": "Novelcrafter: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Pagekin",
+    "repo": "EthanYoQ/Pagekin",
+    "license": "GPL-3.0",
+    "description": "Open-source desktop alternative for planning novels, managing story reference material, and drafting and revising chapters with AI."
+   }
+  ]
  }
 ]
