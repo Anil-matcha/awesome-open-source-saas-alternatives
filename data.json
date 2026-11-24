@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "capcut",
+  "name": "CapCut",
+  "category": "Video",
+  "description": "CapCut: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "CutVoke",
+    "repo": "frankShan001/CutVoke",
+    "license": "MIT",
+    "description": "Local-first desktop video editor (Windows/macOS/Linux) with a built-in MCP server, so AI agents and you edit the same multi-track timeline."
+   }
+  ]
  }
 ]
