@@ -2613,6 +2613,12 @@
     "repo": "Anil-matcha/open-dots",
     "license": "See repo",
     "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-lice"
+   },
+   {
+    "name": "AppuBot",
+    "repo": "sarthakguptadev/AppuBot",
+    "license": "Apache-2.0",
+    "description": "Open-source team of AI bots, each with its own job, that hand tasks to each other and work in your real apps, on the AI plan you already have."
    }
   ]
  },
