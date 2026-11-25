@@ -31,6 +31,7 @@ Looking for a free, self-hostable replacement for a paid tool? Find the tool bel
 - [Product](#product)
 - [Education](#education)
 - [Documentation](#documentation)
+- [Shopping](#shopping)
 
 ## Productivity
 
@@ -1916,6 +1917,16 @@ Tango: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [StepForge](https://github.com/Twest2/StepForge) | Turn your clicks into step-by-step guides. A free, local-first desktop app for Windows and Linux: record a task, edit the steps, then export to PDF, Word, Power | Apache-2.0 | ★ 13 |
+
+## Shopping
+
+### Keepa
+
+Amazon price tracker with historical price charts and alerts.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [truediscount](https://github.com/emirmrkaljevic/truediscount) | Firefox add-on and userscript that checks EU shop discounts, including Amazon EU, against the 30-day lowest price. | MIT |  |
 
 ## Notes
 
