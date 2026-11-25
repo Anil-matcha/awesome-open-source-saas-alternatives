@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "keepa",
+  "name": "Keepa",
+  "category": "Shopping",
+  "description": "Amazon price tracker with historical price charts and alerts.",
+  "alternatives": [
+   {
+    "name": "truediscount",
+    "repo": "emirmrkaljevic/truediscount",
+    "license": "MIT",
+    "description": "Firefox add-on and userscript that checks EU shop discounts, including Amazon EU, against the 30-day lowest price."
+   }
+  ]
  }
 ]
