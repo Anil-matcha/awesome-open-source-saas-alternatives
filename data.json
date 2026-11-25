@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "square-point-of-sale",
+  "name": "Square Point of Sale",
+  "category": "E-commerce",
+  "description": "Square Point of Sale: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Open POS",
+    "repo": "onepiece92/openPOS",
+    "license": "MIT",
+    "description": "Offline point-of-sale app and cash register for small shops, cafes and food trucks on Android and iOS. Free, no account, subscription or ads."
+   }
+  ]
  }
 ]
