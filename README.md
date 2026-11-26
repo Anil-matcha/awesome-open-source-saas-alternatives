@@ -1766,6 +1766,7 @@ CleanShot X: paid SaaS product.
 |---|---|---|---|
 | [better-shot](https://github.com/KartikLabhshetwar/better-shot) | Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-host | NOASSERTION | ★ 2.5k |
 | [Capso](https://github.com/lzhgus/Capso) | Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI. | MIT | ★ 1.5k |
+| [OhMyShot](https://github.com/MMFoundation/OhMyShot) | Native macOS screenshot and recording app with annotation, pins and on-device OCR; existing cleanshot:// URL commands work after switching to ohmyshot://. | GPL-3.0 |  |
 
 ### Klap
 
