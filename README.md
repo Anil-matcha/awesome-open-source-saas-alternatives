@@ -1599,6 +1599,16 @@ Aggregates the status pages of the cloud services and SaaS vendors you depend on
 |---|---|---|---|
 | [Some Systems Operational](https://github.com/thumsl/somesystemsoperational) | One status page for 250+ internet services, read from their official status pages, with 90-day history and a JSON API. Self-hosted, no dependencies. | MIT |  |
 
+### [Measure](https://github.com/measure-sh/measure)
+
+Open-source Mobile Observability tool for Production.
+
+| Alternative | Description | License | Stars |
+|---|---|---|---|
+| [Sentry](https://github.com/getsentry/sentry) | Application monitoring platform for error tracking, crash reporting, and performance monitoring across web and mobile applications. | AGPL-3.0 | ★ 45k |
+| [Firebase Crashlytics] | Firebase Crashlytics is a real-time crash reporting tool that helps developers track, prioritize, and fix app crashes and stability issues. | AGPL-3.0 | ★ NA |
+
+
 ## Customer Support
 
 ### Zendesk
