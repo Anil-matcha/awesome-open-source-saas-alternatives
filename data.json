@@ -1623,6 +1623,12 @@
     "repo": "osbytes/reelsaw",
     "license": "AGPL-3.0",
     "description": "Self-hosted AI clipper: long videos to vertical shorts with face-tracked reframing, verified filler cuts and captions. Runs fully local with Ollama."
+   },
+   {
+    "name": "Clips Kitty",
+    "repo": "ColinGPT9/clips-studio",
+    "license": "AGPL-3.0",
+    "description": "Free Windows app that turns Twitch, Kick and YouTube VODs into captioned 9:16 clips on your own PC; local AI picks the highlights and tracks the speaker."
    }
   ]
  },
