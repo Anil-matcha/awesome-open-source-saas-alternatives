@@ -2169,6 +2169,12 @@
     "repo": "lzhgus/Capso",
     "license": "NOASSERTION",
     "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+   },
+   {
+    "name": "OhMyShot",
+    "repo": "MMFoundation/OhMyShot",
+    "license": "GPL-3.0",
+    "description": "Native macOS screenshot and recording app with annotation, pins and on-device OCR; existing cleanshot:// URL commands work after switching to ohmyshot://."
    }
   ]
  },
