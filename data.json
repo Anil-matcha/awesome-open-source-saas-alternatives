@@ -687,6 +687,12 @@
     "repo": "calcom/cal.com",
     "license": "AGPL-3.0",
     "description": "Scheduling infrastructure for everyone."
+   },
+   {
+    "name": "laravel-booking",
+    "repo": "PiotrZapolski/laravel-booking",
+    "license": "MIT",
+    "description": "Self-hosted Calendly alternative for Laravel: a booking widget you embed with one script tag, synced with Google Calendar, Microsoft 365 or CalDAV."
    }
   ]
  },
