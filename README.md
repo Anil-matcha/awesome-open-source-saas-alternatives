@@ -531,6 +531,7 @@ Composio: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 854 |
+| [Coral](https://github.com/withcoral/coral) | Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy. | Apache-2.0 |  |
 
 ### Merge
 
@@ -539,6 +540,7 @@ Merge: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 854 |
+| [Coral](https://github.com/withcoral/coral) | Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy. | Apache-2.0 |  |
 
 ### Arcade.dev
 
@@ -547,6 +549,7 @@ Arcade.dev: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 854 |
+| [Coral](https://github.com/withcoral/coral) | Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy. | Apache-2.0 |  |
 
 ### Nango
 
@@ -555,6 +558,7 @@ Nango: paid SaaS product.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [open-agent-connector](https://github.com/Anil-matcha/open-agent-connector) | Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac | Apache-2.0 | ★ 854 |
+| [Coral](https://github.com/withcoral/coral) | Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy. | Apache-2.0 |  |
 
 ## Storage
 
