@@ -69,6 +69,7 @@ Scheduling and booking.
 | Alternative | Description | License | Stars |
 |---|---|---|---|
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for everyone. | MIT | ★ 50k |
+| [laravel-booking](https://github.com/PiotrZapolski/laravel-booking) | Self-hosted Calendly alternative for Laravel: a booking widget you embed with one script tag, synced with Google Calendar, Microsoft 365 or CalDAV. | MIT |  |
 
 ### Microsoft Office
 
