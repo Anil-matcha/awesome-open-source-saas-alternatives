@@ -2395,6 +2395,12 @@
     "repo": "Anil-matcha/open-agent-connector",
     "license": "See repo",
     "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   },
+   {
+    "name": "Coral",
+    "repo": "withcoral/coral",
+    "license": "Apache-2.0",
+    "description": "Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy."
    }
   ]
  },
@@ -2409,6 +2415,12 @@
     "repo": "Anil-matcha/open-agent-connector",
     "license": "See repo",
     "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   },
+   {
+    "name": "Coral",
+    "repo": "withcoral/coral",
+    "license": "Apache-2.0",
+    "description": "Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy."
    }
   ]
  },
@@ -2423,6 +2435,12 @@
     "repo": "Anil-matcha/open-agent-connector",
     "license": "See repo",
     "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   },
+   {
+    "name": "Coral",
+    "repo": "withcoral/coral",
+    "license": "Apache-2.0",
+    "description": "Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy."
    }
   ]
  },
@@ -2687,6 +2705,12 @@
     "repo": "Anil-matcha/open-agent-connector",
     "license": "See repo",
     "description": "Open-source, self-hosted alternative to Composio, Nango, Merge.dev, and Arcade.dev for AI agent integrations. Run GitHub, Slack, Hacker News, and custom HTTP ac"
+   },
+   {
+    "name": "Coral",
+    "repo": "withcoral/coral",
+    "license": "Apache-2.0",
+    "description": "Execution rails for AI agents. Agents write code that calls your APIs and MCP servers, save it as tools, and Coral checks every call against your policy."
    }
   ]
  },
