@@ -3840,5 +3840,19 @@
     "description": "Typed TypeScript client for direct social-platform publishing and reading, with optional managed backends."
    }
   ]
+ },
+ {
+  "slug": "flat-io",
+  "name": "Flat.io",
+  "category": "Education",
+  "description": "Flat.io: paid SaaS product.",
+  "alternatives": [
+   {
+    "name": "Ploq",
+    "repo": "specialith/ploq-app",
+    "license": "See repo",
+    "description": "Desktop music notation app based on MuseScore. Several people edit the same score live and share it by link. Self-hostable sync server."
+   }
+  ]
  }
 ]
